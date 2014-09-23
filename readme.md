@@ -1,3 +1,10 @@
+#pak.nippon(tamaina)
+
+勝手にpak.nipponを改造。
+おもにNS用ですが、ローカルでもやってます。
+本体や車輌などなどをまとめた一式を頻繁にWeeklyバージョンとして投稿予定。
+
+
 #pak.nippon(仮)
 
 独自のsimutrans用pakセットを作ってみよう計画。未完成。
