@@ -1,0 +1,7 @@
+# this file contains the pak specific speed bonus values
+road=1900,50
+track=1900,100
+water=1900,20
+air=1900,800
+monorail_track=1900,50
+tram_track=1900,10

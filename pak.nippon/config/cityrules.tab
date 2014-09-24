@@ -9,10 +9,10 @@
 
 
 # chance for renovation versus new building (bigger number => less sprawling)
-renovation_percentage = 8
+renovation_percentage = 12
 
 # citys will not growth further along exiting roads, if the buildings density is lower (in percent)
-minimum_building_density = 20
+minimum_building_density = 48
 
 #
 # relative affinities for certain building types which can lead to clustering of certain building types
@@ -36,6 +36,7 @@ ind_near_ind = 8
 ind_near_com = 0
 ind_near_res = -8
 
+cluster_factor = 100
 
 #
 # now the actual building rules. They can be up to 7x7.
@@ -193,3 +194,5 @@ road_10 = .S. snS Ss.
 road_10.chance = 7
 road_11 = .S. Sns .sS
 road_11.chance = 7
+####################################################
+minimum_city_distance = 8

@@ -1,0 +1,490 @@
+§################################################################################
+###-----------------------------------------###
+###　～～～～　103系：オレンジ色　～～～～　###
+###-----------------------------------------###
+JNR Tc1_103(Orange non cooler car)
+国鉄クハ103形<非冷房>(前方)：オレンジ色
+JNR Mc_103(Orange non cooler car)
+国鉄クモハ103形<非冷房>(前方)：オレンジ色
+JNR M_103(Orange non cooler car)
+国鉄モハ103形<非冷房>：オレンジ色
+JNR M'_102(Orange non cooler car)
+国鉄モハ102形<非冷房>：オレンジ色
+JNR T_103(Orange non cooler car)
+国鉄サハ103形<非冷房>：オレンジ色
+JNR Tc2_103(Orange non cooler car)
+国鉄クハ103形<非冷房>(後方)：オレンジ色
+JNR Tc1_103(Orange)
+国鉄クハ103形<冷房>(前方)：オレンジ色
+JNR Tc1_103(Orange Hi cab)
+国鉄クハ103形<冷房/高運転台>(前方)：オレンジ色
+JNR Mc_103(Orange)
+国鉄クモハ103形<冷房>(前方)：オレンジ色
+JNR M_103(Orange)
+国鉄モハ103形<冷房>：オレンジ色
+JNR M'_102(Orange)
+国鉄モハ102形<冷房>：オレンジ色
+JNR T_103(Orange)
+国鉄サハ103形<冷房>：オレンジ色
+JNR Tc2_103(Orange)
+国鉄クハ103形<冷房>(後方)：オレンジ色
+JNR Tc2_103(Orange Hi cab)
+国鉄クハ103形<冷房/高運転台>(後方)：オレンジ色
+JRW Tc1_103(Orange 40N Renewal)
+JR西日本クハ103形<40N更新車>(前方)：オレンジ色
+JRW Tc1_103(Orange Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(前方)：オレンジ色
+JRW M_103(Orange 40N Renewal)
+JR西日本モハ103形<40N更新車>：オレンジ色
+JRW M'_102(Orange 40N Renewal)
+JR西日本モハ102形<40N更新車>：オレンジ色
+JRW T_103(Orange 40N Renewal)
+JR西日本サハ103形<40N更新車>：オレンジ色
+JRW Tc2_103(Orange 40N Renewal)
+JR西日本クハ103形<40N更新車>(後方)：オレンジ色
+JRW Tc2_103(Orange Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(後方)：オレンジ色
+JRE Mc_103_44(Orange Practice car)
+JR東日本クモハ103形44<郵便対応>(前方)：豊田電車区訓練車(初代)
+JRE M'y_102_1(Orange Practice car)
+JR東日本モヤ102形1<郵便対応>：豊田電車区訓練車(初代)
+JRE Tc2_103_522(Orange Practice car)
+JR東日本クハ103形522<郵便対応>(後方)：豊田電車区訓練車(初代)
+JRE Tc1_103_341(Orange Practice car)
+JR東日本クハ103形341<郵便対応>(前方)：豊田電車区訓練車(二代目)
+JRE M_103_363(Orange Practice car)
+JR東日本モハ103形363<郵便対応>：豊田電車区訓練車(二代目)
+JRE M'y_102_4(Orange Practice car)
+JR東日本モヤ102形4<郵便対応>：豊田電車区訓練車(二代目)
+JRE Tc2_103_342(Orange Practice car)
+JR東日本クハ103形342<郵便対応>(後方)：豊田電車区訓練車(二代目)
+###------------------------------------------------------###
+###　～～～～　103系・301系：中央・総武緩行線　～～～～　###
+###------------------------------------------------------###
+JNR Tc1_103_1200(Chuo Soubu Line Local Service)
+国鉄クハ103形1200番台(前方)：中央・総武緩行線(黄帯)
+JNR M_103_1200(Chuo Soubu Line Local Service)
+国鉄モハ103形1200番台：中央・総武緩行線(黄帯)
+JNR M'_102_1200(Chuo Soubu Line Local Service)
+国鉄モハ102形1200番台：中央・総武緩行線(黄帯)
+JNR T_103(Chuo Soubu Line Local Service)
+国鉄サハ103形：中央・総武緩行線(黄帯)
+JNR M'c_102_1200(Chuo Soubu Line Local Service)
+国鉄クモハ103形1200番台(後方)：中央・総武緩行線(黄帯)
+JNR Tc1_301(First)
+国鉄クハ301形(前方)：中央・総武緩行線(黄帯)(初期)
+JNR M_301
+国鉄モハ301形：中央・総武緩行線(黄帯)
+JNR M'_300
+国鉄モハ300形：中央・総武緩行線(黄帯)
+JNR T_301
+国鉄サハ301形：中央・総武緩行線(黄帯)
+JNR M'c_300(First)
+国鉄クモハ300形(後方)：中央・総武緩行線(黄帯)(初期)
+JNR Tc1_301
+国鉄クハ301形(後方)：中央・総武緩行線(黄帯)
+JNR M'c_300
+国鉄クモハ300形(後方)：中央・総武緩行線(黄帯)
+JRE Tc1_103_1000(Chuo Soubu Line Local Service)
+JR東日本クハ103形1000番台(前方)：中央・総武緩行線(青帯)
+JRE M_103_1000(Chuo Soubu Line Local Service)
+JR東日本モハ103形1000番台：中央・総武緩行線(青帯)
+JRE M'_102_1000(Chuo Soubu Line Local Service)
+JR東日本モハ102形1000番台：中央・総武緩行線(青帯)
+JRE Tc2_103_1000(Chuo Soubu Line Local Service)
+JR東日本クハ103形1000番台(後方)：中央・総武緩行線(青帯)
+JRE Tc1_103_1200(Chuo Soubu Line Local Service)
+JR東日本クハ103形1200番台(前方)：中央・総武緩行線(青帯)
+JRE M_103_1200(Chuo Soubu Line Local Service)
+JR東日本モハ103形1200番台：中央・総武緩行線(青帯)
+JRE M'_102_1200(Chuo Soubu Line Local Service)
+JR東日本モハ102形1200番台：中央・総武緩行線(青帯)
+JRE T_103(Chuo Soubu Line Local Service)
+JR東日本サハ103形：中央・総武緩行線(青帯)
+JRE M'c_102_1200(Chuo Soubu Line Local Service)
+JR東日本クモハ103形1200番台(後方)：中央・総武緩行線(青帯)
+JRE Tc1_301
+JR東日本クハ301形(前方)：中央・総武緩行線(青帯)
+JRE M_301
+JR東日本モハ301形：中央・総武緩行線(青帯)
+JRE M'_300
+JR東日本モハ300形：中央・総武緩行線(青帯)
+JRE T_301
+JR東日本サハ301形：中央・総武緩行線(青帯)
+JRE M'c_300
+JR東日本クモハ300形(後方)：中央・総武緩行線(青帯)
+###---------------------------------------------###
+###　～～～～　103系：スカイブルー色　～～～～　###
+###---------------------------------------------###
+JNR Tc1_103(Skyblue non cooler car)
+国鉄クハ103形<非冷房>(前方)：スカイブルー色
+JNR Mc_103(Skyblue non cooler car)
+国鉄クモハ103形<非冷房>(前方)：スカイブルー色
+JNR M_103(Skyblue non cooler car)
+国鉄モハ103形<非冷房>：スカイブルー色
+JNR M'_102(Skyblue non cooler car)
+国鉄モハ102形<非冷房>：スカイブルー色
+JNR T_103(Skyblue non cooler car)
+国鉄サハ103形<非冷房>：スカイブルー色
+JNR Tc2_103(Skyblue non cooler car)
+国鉄クハ103形<非冷房>(後方)：スカイブルー色
+JNR Tc1_103(Skyblue)
+国鉄クハ103形<冷房>(前方)：スカイブルー色
+JNR Tc1_103(Skyblue Hi cab)
+国鉄クハ103形<冷房/高運転台>(前方)：スカイブルー色
+JNR Mc_103(Skyblue)
+国鉄クモハ103形<冷房>(前方)：スカイブルー色
+JNR M_103(Skyblue)
+国鉄モハ103形<冷房>：スカイブルー色
+JNR M'_102(Skyblue)
+国鉄モハ102形<冷房>：スカイブルー色
+JNR T_103(Skyblue)
+国鉄サハ103形<冷房>：スカイブルー色
+JNR Tc2_103(Skyblue)
+国鉄クハ103形<冷房>(後方)：スカイブルー色
+JNR Tc2_103(Skyblue Hi cab)
+国鉄クハ103形<冷房/高運転台>(後方)：スカイブルー色
+JRW Tc1_103(Hanwa Line)
+JR西日本クハ103形(前方)：スカイブルー色(阪和線)
+JRW Mc_103(Hanwa Line)
+JR西日本クモハ103形(前方)：スカイブルー色(阪和線)
+JRW M_103(Hanwa Line)
+JR西日本モハ103形：スカイブルー色(阪和線)
+JRW M'_102(Hanwa Line)
+JR西日本モハ102形：スカイブルー色(阪和線)
+JRW T_103(Hanwa Line)
+JR西日本サハ103形：スカイブルー色(阪和線)
+JRW Tc2_103(Hanwa Line)
+JR西日本クハ103形(後方)：スカイブルー色(阪和線)
+JRW Tc1_103(Skyblue 40N Renewal)
+JR西日本クハ103形<40N更新車>(前方)：スカイブルー色
+JRW Tc1_103(Skyblue Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(前方)：スカイブルー色
+JRW Mc_103(Skyblue 40N Renewal)
+JR西日本クモハ103形<40N更新車>(前方)：スカイブルー色
+JRW M_103(Skyblue 40N Renewal)
+JR西日本モハ103形<40N更新車>：スカイブルー色
+JRW M'_102(Skyblue 40N Renewal)
+JR西日本モハ102形<40N更新車>：スカイブルー色
+JRW T_103(Skyblue 40N Renewal)
+JR西日本サハ103形<40N更新車>：スカイブルー色
+JRW Tc2_103(Skyblue 40N Renewal)
+JR西日本クハ103形<40N更新車>(後方)：スカイブルー色
+JRW Tc2_103(Skyblue Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(後方)：スカイブルー色
+JRE Mc_103_45(Skyblue Practice car)
+JR東日本クモハ103形45<郵便対応>(前方)：浦和電車区訓練車(初代)
+JRE M'y_102_2(Skyblue Practice car)
+JR東日本モヤ102形2<郵便対応>：浦和電車区訓練車(初代)
+JRE Tc2_103_540(Skyblue Practice car)
+JR東日本クハ103形540<郵便対応>(後方)：浦和電車区訓練車(初代)
+JRE Tc1_103_399(Skyblue Practice car)
+JR東日本クハ103形399<郵便対応>(前方)：浦和電車区訓練車(二代目)
+JRE M_103_352(Skyblue Practice car)
+JR東日本モハ103形352<郵便対応>：浦和電車区訓練車(二代目)
+JRE M'y_102_3(Skyblue Practice car)
+JR東日本モヤ102形3<郵便対応>：浦和電車区訓練車(二代目)
+JRE Tc2_103_400(Skyblue Practice car)
+JR東日本クハ103形400<郵便対応>(後方)：浦和電車区訓練車(二代目)
+###-----------------------------------###
+### ～～～～　103系：筑肥線　～～～～ ###
+###-----------------------------------###
+JNR Tc1_103_1500
+国鉄クハ103形1500番台(前方)：筑肥線
+JNR Mc_103_1500
+国鉄クモハ103形1500番台(前方)：筑肥線
+JNR M_103_1500
+国鉄モハ103形1500番台：筑肥線
+JNR M'_102_1500
+国鉄モハ102形1500番台：筑肥線
+JNR M'c_102_1500
+国鉄クモハ102形1500番台(後方)：筑肥線
+JNR Tc2_103_1500
+国鉄クハ103形1500番台(後方)：筑肥線
+JRK Tc1_103_1500
+JR九州クハ103形1500番台(前方)：筑肥線
+JRK Mc_103_1500
+JR九州クモハ103形1500番台(前方)：筑肥線
+JRK M_103_1500
+JR九州モハ103形1500番台：筑肥線
+JRK M'_102_1500
+JR九州モハ102形1500番台：筑肥線
+JRK M'c_102_1500
+JR九州クモハ102形1500番台(後方)：筑肥線
+JRK Tc2_103_1500
+JR九州クハ103形1500番台(後方)：筑肥線
+JRK Tc1_103_1500(New Color)
+JR九州クハ103形1500番台(前方)：筑肥線(新塗装)
+JRK Mc_103_1500(New Color)
+JR九州クモハ103形1500番台(前方)：筑肥線(新塗装)
+JRK M_103_1500(New Color)
+JR九州モハ103形1500番台：筑肥線(新塗装)
+JRK M'_102_1500(New Color)
+JR九州モハ102形1500番台：筑肥線(新塗装)
+JRK M'c_102_1500(New Color)
+JR九州クモハ102形1500番台(後方)：筑肥線(新塗装)
+JRK Tc2_103_1500(New Color)
+JR九州クハ103形1500番台(後方)：筑肥線(新塗装)
+###-----------------------------------------------###
+### ～～～～　103系：1000番台常磐緩行線　～～～～ ###
+###-----------------------------------------------###
+JNR Tc1_103_1000(Joban Line Local Service)
+国鉄クハ103形1000番台<非冷房>(前方)：常磐緩行線
+JNR M_103_1000(Joban Line Local Service)
+国鉄モハ103形1000番台<非冷房>：常磐緩行線
+JNR M'_102_1000(Joban Line Local Service)
+国鉄モハ102形1000番台<非冷房>：常磐緩行線
+JNR Tc2_103_1000(Joban Line Local Service)
+国鉄クハ103形1000番台<非冷房>(後方)：常磐緩行線
+###-------------------------------------###
+### ～～～～　103系：JR東海色　～～～～ ###
+###-------------------------------------###
+JRC Mc_103
+JR東海クモハ103形(前方)：JR東海色
+JRC M_103
+JR東海モハ103形：JR東海色
+JRC M'_102
+JR東海モハ102形：JR東海色
+JRC T_103
+JR東海サハ103形：JR東海色
+JRC Tc2_103
+JR東海クハ103形(後方)：JR東海色
+###---------------------------------------------###
+### ～～～～　103系：岡山マスカット色　～～～～ ###
+###---------------------------------------------###
+JRW Tc1_103(Okayama color)
+JR西日本クハ103形(前方)：岡山マスカット色
+JRW M_103(Okayama color)
+JR西日本モハ103形：岡山マスカット色
+JRW M'_102(Okayama color)
+JR西日本モハ102形：岡山マスカット色
+JRW Tc2_103(Okayama color)
+JR西日本クハ103形(後方)：岡山マスカット色
+###-------------------------------------###
+### ～～～～　103系：仙石線色　～～～～ ###
+###-------------------------------------###
+JRE Tc1_103(Senseki Line type1)
+JR東日本クハ103形(前方)：仙石線色(旧塗装)
+JRE Mc_103(Senseki Line type1)
+JR東日本クモハ103形(前方)：仙石線色(旧塗装)
+JRE M_103(Senseki Line type1)
+JR東日本モハ103形：仙石線色(旧塗装)
+JRE M'_102(Senseki Line type1)
+JR東日本モハ102形：仙石線色(旧塗装)
+JRE T_103(Senseki Line type1)
+JR東日本サハ103形：仙石線色(旧塗装)
+JRE Tc2_103(Senseki Line type1)
+JR東日本クハ103形(後方)：仙石線色(旧塗装)
+JRE Tc1_103(Senseki Line type2)
+JR東日本クハ103形(前方)：仙石線色(新塗装)
+JRE Mc_103(Senseki Line type2)
+JR東日本クモハ103形(前方)：仙石線色(新塗装)
+JRE Tc1_103(Senseki Line type2 WC)
+JR東日本クハ103形<トイレ付>(前方)：仙石線色(新塗装)
+JRE M_103(Senseki Line type2)
+JR東日本モハ103形：仙石線色(新塗装)
+JRE M_103(Senseki Line type2 DP)
+JR東日本モハ103形<パンタ二基>：仙石線色(新塗装)
+JRE M_103(Senseki Line type2 SP)
+JR東日本モハ103形<シングルアームパンタ>：仙石線色(新塗装)
+JRE M'_102(Senseki Line type2)
+JR東日本モハ102形：仙石線色(新塗装)
+JRE T_103(Senseki Line type2)
+JR東日本サハ103形：仙石線色(新塗装)
+JRE Tc2_103(Senseki Line type2)
+JR東日本クハ103形(後方)：仙石線色(新塗装)
+JRE Tc1_103(Senseki Line type2 Hi cab)
+JR東日本クハ103形<高運転台>(前方)：仙石線色(新塗装)
+JRE Tc2_103(Senseki Line type2 Hi cab)
+JR東日本クハ103形<高運転台>(後方)：仙石線色(新塗装)
+###-------------------------------------------------###
+### ～～～～　103系：エメラルドグリーン色　～～～～ ###
+###-------------------------------------------------###
+JNR Tc1_103(Emerald non cooler car)
+国鉄クハ103形<非冷房>(前方)：エメラルドグリーン色
+JNR Mc_103(Emerald non cooler car)
+国鉄クモハ103形<非冷房>(前方)：エメラルドグリーン色
+JNR M_103(Emerald non cooler car)
+国鉄モハ103形<非冷房>：エメラルドグリーン色
+JNR M'_102(Emerald non cooler car)
+国鉄モハ102形<非冷房>：エメラルドグリーン色
+JNR T_103(Emerald non cooler car)
+国鉄サハ103形<非冷房>：エメラルドグリーン色
+JNR Tc2_103(Emerald non cooler car)
+国鉄クハ103形<非冷房>(後方)：エメラルドグリーン色
+JNR Tc1_103_1000(Emerald)
+国鉄クハ103形1000番台(前方)：エメラルドグリーン色
+JNR M_103_1000(Emerald)
+国鉄モハ103形1000番台：エメラルドグリーン色
+JNR M'_102_1000(Emerald)
+国鉄モハ102形1000番台：エメラルドグリーン色
+JNR Tc2_103_1000(Emerald)
+国鉄クハ103形1000番台(後方)：エメラルドグリーン色
+JNR Tc1_103(Emerald)
+国鉄クハ103形(前方)：エメラルドグリーン色
+JNR Tc1_103(Emerald Hi cab)
+国鉄クハ103形<高運転台>(前方)：エメラルドグリーン色
+JNR Mc_103(Emerald)
+国鉄クモハ103形(前方)：エメラルドグリーン色
+JNR M_103(Emerald)
+国鉄モハ103形：エメラルドグリーン色
+JNR M'_102(Emerald)
+国鉄モハ102形：エメラルドグリーン色
+JNR T_103(Emerald)
+国鉄サハ103形：エメラルドグリーン色
+JNR Tc2_103(Emerald)
+国鉄クハ103形(後方)：エメラルドグリーン色
+JNR Tc2_103(Emerald Hi cab)
+国鉄クハ103形<高運転台>(後方)：エメラルドグリーン色
+JRE Mc_103_64(Emerald Practice car)
+JR東日本クモハ103形64<郵便対応>(前方)：松戸電車区訓練車(初代)
+JRE M'_102_168(Emerald Practice car)
+JR東日本モハ102形168<郵便対応>：松戸電車区訓練車(初代)
+JRE Tc2_103_54(Emerald Practice car)
+JR東日本クハ103形54<郵便対応>(後方)：松戸電車区訓練車(初代)
+JRE Tc1_103_335(Emerald Practice car)
+JR東日本クハ103形335<郵便対応>(前方)：松戸電車区訓練車(二代目)
+JRE M_103_274(Emerald Practice car)
+JR東日本モハ103形274<郵便対応>：松戸電車区訓練車(二代目)
+JRE M'_102_429(Emerald Practice car)
+JR東日本モハ102形429<郵便対応>：松戸電車区訓練車(二代目)
+JRE Tc2_103_336(Emerald Practice car)
+JR東日本クハ103形336<郵便対応>(後方)：松戸電車区訓練車(二代目)
+###-------------------------------------###
+### ～～～～　103系：瀬戸内色　～～～～ ###
+###-------------------------------------###
+JRW Tc1_103(Setouchi color type1)
+JR西日本クハ103形(前方)：瀬戸内色
+JRW Mc_103(Setouchi color type1)
+JR西日本クモハ103形(前方)：瀬戸内色
+JRW M_103(Setouchi color type1)
+JR西日本モハ103形：瀬戸内色
+JRW M'_102(Setouchi color type1)
+JR西日本モハ102形：瀬戸内色
+JRW T_103(Setouchi color type1)
+JR西日本サハ103形：瀬戸内色
+JRW Tc2_103(Setouchi color type1)
+JR西日本クハ103形(後方)：瀬戸内色
+JRW Tc1_103(Setouchi color type1 Hi cab)
+JR西日本クハ103形<高運転台>(前方)：瀬戸内色
+JRW Tc2_103(Setouchi color type1 Hi cab)
+JR西日本クハ103形<高運転台>(後方)：瀬戸内色
+JRW Tc1_103(Setouchi color WAU102 type1)
+JR西日本クハ103形<WAU102冷房装備>(前方)：瀬戸内色
+JRW Mc_103(Setouchi color WAU102 type1)
+JR西日本クモハ103形<WAU102冷房装備>(前方)：瀬戸内色
+JRW M_103(Setouchi color WAU102 type1)
+JR西日本モハ103形<WAU102冷房装備>：瀬戸内色
+JRW M'_102(Setouchi color WAU102 type1)
+JR西日本モハ102形<WAU102冷房装備>：瀬戸内色
+JRW T_103(Setouchi color WAU102 type1)
+JR西日本サハ103形<WAU102冷房装備>：瀬戸内色
+JRW Tc2_103(Setouchi color WAU102 type1)
+JR西日本クハ103形<WAU102冷房装備>(後方)：瀬戸内色
+###-------------------------------------------------###
+### ～～～～　103系：瀬戸内地区地域統一色　～～～～ ###
+###-------------------------------------------------###
+JRW Mc_103(Makki WAU102 type2)
+JR西日本クモハ103形<WAU102冷房装備>(前方)：瀬戸内地区地域統一色
+JRW M'_102(Makki WAU102 type2)
+JR西日本モハ102形<WAU102冷房装備>：瀬戸内地区地域統一色
+JRW Tc2_103(Makki WAU102 type2)
+JR西日本クハ103形<WAU102冷房装備>(後方)：瀬戸内地区地域統一色
+###---------------------------------------###
+### ～～～～　103系：ウグイス色　～～～～ ###
+###---------------------------------------###
+JNR Tc1_103(Uguisu non cooler car)
+国鉄クハ103形<非冷房>(前方)：ウグイス色
+JNR Tc1_103(Kansai Line non cooler car)
+国鉄クハ103形<非冷房>(前方)：ウグイス色(関西本線用)
+JNR Mc_103(Uguisu non cooler car)
+国鉄クモハ103形<非冷房>(前方)：ウグイス色
+JNR Mc_103(Kansai Line non cooler car)
+国鉄クモハ103形<非冷房>(前方)：ウグイス色(関西本線用)
+JNR M_103(Uguisu non cooler car)
+国鉄モハ103形<非冷房>：ウグイス色
+JNR M'_102(Uguisu non cooler car)
+国鉄モハ102形<非冷房>：ウグイス色
+JNR T_103(Uguisu non cooler car)
+国鉄サハ103形<非冷房>：ウグイス色
+JNR Tc2_103(Uguisu non cooler car)
+国鉄クハ103形<非冷房>(後方)：ウグイス色
+JNR Tc2_103(Kansai Line non cooler car)
+国鉄クハ103形<非冷房>(後方)：ウグイス色(関西本線用)
+JNR Tc1_103(Uguisu)
+国鉄クハ103形(前方)：ウグイス色
+JRW Tc1_103(Uguisu type1)
+JR西日本クハ103形(前方)：ウグイス色(白帯)
+JRW Tc1_103(Uguisu Hi cab type1)
+JR西日本クハ103形<高運転台>(前方)：ウグイス色(白帯)
+JNR Tc1_103(Uguisu Hi cab)
+国鉄クハ103形<高運転台>(前方)：ウグイス色
+JNR Tc1_103(Kansai Line)
+国鉄クハ103形(前方)：ウグイス色(関西本線用)
+JNR Mc_103(Uguisu)
+国鉄クモハ103形(前方)：ウグイス色
+JNR Mc_103(Kansai Line)
+国鉄クモハ103形(前方)：ウグイス色(関西本線用)
+JRW Mc_103(Uguisu type1)
+JR西日本クモハ103形(前方)：ウグイス色(白帯)
+JNR M_103(Uguisu)
+国鉄モハ103形：ウグイス色
+JNR M'_102(Uguisu)
+国鉄モハ102形：ウグイス色
+JNR T_103(Uguisu)
+国鉄サハ103形：ウグイス色
+JNR Tc2_103(Uguisu)
+国鉄クハ103形(後方)：ウグイス色
+JNR Tc2_103(Uguisu Hi cab)
+国鉄クハ103形<高運転台>(後方)：ウグイス色
+JNR Tc2_103(Kansai Line)
+国鉄クハ103形(後方)：ウグイス色(関西本線用)
+JRW Tc2_103(Uguisu type1)
+JR西日本クハ103形(後方)：ウグイス色(白帯)
+JRW Tc2_103(Uguisu Hi cab type1)
+JR西日本クハ103形<高運転台>(後方)：ウグイス色(白帯)
+JRW Tc1_103(Uguisu 40N Renewal)
+JR西日本クハ103形<40N更新車>(前方)：ウグイス色
+JRW Tc1_103(Uguisu Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(前方)：ウグイス色
+JRW M_103(Uguisu 40N Renewal)
+JR西日本モハ103形<40N更新車>：ウグイス色
+JRW M'_102(Uguisu 40N Renewal)
+JR西日本モハ102形<40N更新車>：ウグイス色
+JRW T_103(Uguisu 40N Renewal)
+JR西日本サハ103形<40N更新車>：ウグイス色
+JRW Tc2_103(Uguisu 40N Renewal)
+JR西日本クハ103形<40N更新車>(後方)：ウグイス色
+JRW Tc2_103(Uguisu Hi cab 40N Renewal)
+JR西日本クハ103形<40N更新車/高運転台>(後方)：ウグイス色
+###---------------------------------------###
+### ～～～～　103系：カナリア色　～～～～ ###
+###---------------------------------------###
+JNR Tc1_103(Yellow non cooler car)
+国鉄クハ103形<非冷房>(前方)：カナリア色
+JNR Mc_103(Yellow non cooler car)
+国鉄クモハ103形<非冷房>(前方)：カナリア色
+JNR M_103(Yellow non cooler car)
+国鉄モハ103形<非冷房>：カナリア色
+JNR M'_102(Yellow non cooler car)
+国鉄モハ102形<非冷房>：カナリア色
+JNR T_103(Yellow non cooler car)
+国鉄サハ103形<非冷房>：カナリア色
+JNR Tc2_103(Yellow non cooler car)
+国鉄クハ103形<非冷房>(後方)：カナリア色
+JNR Tc1_103(Yellow)
+国鉄クハ103形(前方)：カナリア色
+JNR Tc1_103(Yellow Hi cab)
+国鉄クハ103形<高運転台>(前方)：カナリア色
+JNR Mc_103(Yellow)
+国鉄クモハ103形(前方)：カナリア色
+JNR M_103(Yellow)
+国鉄モハ103形：カナリア色
+JNR M'_102(Yellow)
+国鉄モハ102形：カナリア色
+JNR T_103(Yellow)
+国鉄サハ103形：カナリア色
+JNR Tc2_103(Yellow)
+国鉄クハ103形(後方)：カナリア色
+JNR Tc2_103(Yellow Hi cab)
+国鉄クハ103形<高運転台>(後方)：カナリア色

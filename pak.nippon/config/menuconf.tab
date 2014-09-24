@@ -1,0 +1,740 @@
+# menuconf.tab
+#
+# Menu configuration for Simutrans
+#
+# author: Markus Pristovsek
+#
+
+# With these file, each menu/tool/toolbar can be assigned a meaning
+# there are four different kind of tools
+# general_tools: like query, remove, alter land, ...
+# click tools: pause, fast forward, ...
+# dialoge tools: open a dialoge like minimap, settings, finances, ...
+# toolbar tools: open toolbars like slope tools, road tools, ...
+
+icon_width = 32
+icon_height = 32
+
+# FIRST SECTION: general tools
+# these tools have an icon, a cursor, and maybe a sound
+# each entry has the form: general_tool[i],a,b,c,k
+#
+# i is the tool number (as seen below)
+# a is the icon as number in menu: menu.GeneralTools.pak or or the name of a menu pak
+# b is the cursor as number in cursor: cursor.GeneralTools.pak
+# c is the sound on success
+# k is the key to toggle this
+# ommitting a parameter will set default values (i.e. no image, no sound, no default string)
+#--------------------------------------------------------------------------------
+# These are the default definition.
+#
+# currently define values for i
+# WKZ_ABFRAGE=0
+
+# WKZ_REMOVER=1
+# WKZ_RAISE_LAND=2
+# WKZ_LOWER_LAND=3
+# WKZ_SETSLOPE=4
+# WKZ_RESTORESLOPE=5
+# WKZ_MARKER=6
+# WKZ_CLEAR_RESERVATION=7
+# WKZ_TRANSFORMER=8
+# WKZ_ADD_CITY=9
+# WKZ_CHANGE_CITY_SIZE=10
+# WKZ_PLANT_TREE=11
+# WKZ_FAHRPLAN_ADD=12	// only for internal use
+# WKZ_FAHRPLAN_INS=13	// only for internal use
+# WKZ_WEGEBAU=14 // parameter either string with name of number for default way
+# WKZ_BRUECKENBAU=15
+# WKZ_TUNNELBAU=16
+# WKZ_WAYREMOVER=17
+# WKZ_WAYOBJ=18
+# WKZ_STATION=19
+# WKZ_ROADSIGN=20
+# WKZ_DEPOT=21
+# WKZ_BUILD_HAUS=22
+# WKZ_LAND_CHAIN=23
+# WKZ_CITY_CHAIN=24
+# WKZ_BUILD_FACTORY=25
+# WKZ_LINK_FACTORY=26
+# WKZ_HEADQUARTER=27
+# WKZ_LOCK_GAME=28
+# WKZ_ADD_CITYCAR=29
+# WKZ_FOREST=30
+# WKZ_STOP_MOVER=31
+# WKZ_MAKE_STOP_PUBLIC=32
+# WKZ_REMOVE_WAYOBJ=33
+# WKZ_UNDERGROUND_PICK=34
+# WKZ_BUY_HOUSE=35
+# WKZ_CITYROAD=36
+#--------------------------------------------------------------------------------
+# 定義の仕方は以下のとおりです。
+#  general_tool[i]=アイコン,カーソル,音,操作キー
+#
+# iは、以下のとおり指定されたツール番号を指定します。
+# WKZ_ABFRAGE=0
+# WKZ_REMOVER=1
+# WKZ_RAISE_LAND=2
+# WKZ_LOWER_LAND=3
+# WKZ_SETSLOPE=4
+# WKZ_RESTORESLOPE=5
+# WKZ_MARKER=6
+# WKZ_CLEAR_RESERVATION=7
+# WKZ_TRANSFORMER=8
+# WKZ_ADD_CITY=9
+# WKZ_CHANGE_CITY_SIZE=10
+# WKZ_PLANT_TREE=11
+# WKZ_FAHRPLAN_ADD=12	// only for internal use
+# WKZ_FAHRPLAN_INS=13	// only for internal use
+# WKZ_WEGEBAU=14 // parameter either string with name of number for default way
+# WKZ_BRUECKENBAU=15
+# WKZ_TUNNELBAU=16
+# WKZ_WAYREMOVER=17
+# WKZ_WAYOBJ=18
+# WKZ_STATION=19
+# WKZ_ROADSIGN=20
+# WKZ_DEPOT=21
+# WKZ_BUILD_HAUS=22
+# WKZ_LAND_CHAIN=23
+# WKZ_CITY_CHAIN=24
+# WKZ_BUILD_FACTORY=25
+# WKZ_LINK_FACTORY=26
+# WKZ_HEADQUARTER=27
+# WKZ_LOCK_GAME=28
+# WKZ_ADD_CITYCAR=29
+# WKZ_FOREST=30
+# WKZ_STOP_MOVER=31
+# WKZ_MAKE_STOP_PUBLIC=32
+# WKZ_REMOVE_WAYOBJ=33
+# WKZ_UNDERGROUND_PICK=34
+# WKZ_BUY_HOUSE=35
+# WKZ_CITYROAD=36
+#
+# アイコンは、menu.GeneralTools.pakで定義した番号、もしくは独自定義した
+# メニューアイコンファイルのファイル名を指定します。
+#
+# カーソルは、cursor.GeneralTools.pakで定義した番号を指定します。
+#
+# 音は、アクションが成功した際に発する音を、sound/sound.tabで定義した番号で
+# 指定します
+#
+# 操作キーは、以下の使用可能文字からショートカットとして使用するキーを割り当てます
+# [使用可能文字]
+# ・半角英数記号
+# ・#99999...文字コード（10進数）
+# ・^A...Ctrl+A
+# ・F99... (F2-F15)
+# ・COMMA...コンマ(,)
+#--------------------------------------------------------------------------------
+general_tool[0]=0,0,9,a			#調査ツール
+general_tool[1]=1,1,14,r		#撤去ツール
+general_tool[2]=2,2,11,u		#陸地を高くする
+general_tool[3]=3,3,11,d		#陸地を低くする
+# general tool 4 needs a parameter => icon defined in toolbar but no cursor yet
+general_tool[4]=,4,11				#スロープの建設(要パラメータ)
+general_tool[5]=4,4,11			#スロープを戻す
+general_tool[6]=5,5,9,M			#マーカー
+general_tool[7]=,6,,b				#（不明）
+general_tool[8]=6,7,11,g		#変圧所をつくる
+general_tool[9]=7,8,11,C		#新しい町をつくる
+# general tool 10 needs a parameter + icon & cursor depends on it => not defined here
+general_tool[11]=8,9,9,			#木を植える
+# general tools 12...22 will get their content from other entries; but we must define so defaults
+# define the cursor for schedule tools
+general_tool[12]=,10				#停車駅を追加（プログラム内部でのみ使用）
+general_tool[13]=,10				#停車駅を挿入（プログラム内部でのみ使用）
+# define some cursors and sound only
+general_tool[14]=,,11				#道路/線路
+general_tool[15]=,,12				#橋（プログラム内部で使用）
+general_tool[16]=,,9				#トンネル（プログラム内部で使用）
+general_tool[17]=,1,11			#道路/線路の撤去
+general_tool[18]=,,11				#架線（プログラム内部で使用）
+general_tool[19]=,,11				#駅（プログラム内部で使用）
+general_tool[20]=,,11				#標識/信号（プログラム内部で使用）
+general_tool[21]=,,11				#車庫（プログラム内部で使用）
+general_tool[22]=,12,11			#観光地の整備
+general_tool[23]=,12,11			#発電所を作る
+general_tool[24]=,12,11			#産業網を誘致
+general_tool[25]=,12,11
+# we do not use general tool 23...25 directly in pak64 => undefined icons
+general_tool[26]=9,11,9			#産業チェーンをつなぐ
+general_tool[27]=,12,9,h		#本社（プログラム内部で使用）
+general_tool[28]=10,7,,			#プレイヤー変更の禁止
+# citycars are usually added via a dialoge
+general_tool[30]=11,9,,			#森をつくる
+general_tool[31]=12,11,,		#スケジュールを移動させる
+general_tool[32]=13,11,,		#駅を公共駅にする
+general_tool[33]=,1,11,			#架線の撤去
+general_tool[34]=,,11,			#地下モード/ハイトカットモードを切り替える
+general_tool[35]=,,11,^K		#市内建築物を購入する
+#--------------------------------------------------------------------------------
+# SECOND SECTION: simple tools
+# since these tools act immeadiately
+# they have only an icon assigned
+# each entry has the form: dialoge_tool[i],a,k
+# i is the tool number (as seen below)
+# a is the icon as number in menu: menu.SimpleTools.pak or the name of a menu pak
+# k is the key to toggle this
+#
+# WKZ_PAUSE = 0
+# WKZ_FASTFORWARD = 1
+# WKZ_SCREENSHOT = 2
+# WKZ_INCREASE_INDUSTRY=3
+# WKZ_UNDO=4
+# WKZ_SWITCH_PLAYER=5
+# WKZ_STEP_YEAR=6
+# WKZ_CHANGE_GAME_SPEED=7
+# WKZ_ZOOM_IN=8
+# WKZ_ZOOM_OUT=9
+# WKZ_SHOW_COVERAGE=10
+# WKZ_SHOW_NAMES=11
+# WKZ_SHOW_GRID=12
+# WKZ_SHOW_TREES=13
+# WKZ_SHOW_HOUSES=14
+# WKZ_SHOW_UNDERGROUND=15
+# WKZ_ROTATE90=16
+# WKZ_QUIT=17
+# WKZ_FILL_TREES=18
+# WKZ_DAYNIGHT_LEVEL=19
+# WKZ_VEHICLE_TOOLTIPS=20
+# WKZ_TOOGLE_PAX=21
+# WKZ_TOOGLE_PEDESTRIANS=22
+# WKZ_TRAFFIC_LEVEL=23
+# WKZ_CONVOI_TOOL=24
+# WKZ_LINE_TOOL=25
+# WKZ_DEPOT_TOOL=26 (internal use)
+# WKZ_PWDHASH_TOOL=27 (internal use)
+# WKZ_SET_PLAYER_TOOL=28 (internal use)
+# WKZ_TRAFFIC_LIGHT_TOOL=29 (internal use)
+#WKZ_CHANGE_CITY_TOOL=30 (internal use)
+#WKZ_RENAME_TOOL=31 (internal use)
+#WKZ_ADD_MESSAGE_TOOL=32 (internal use)
+#WKZ_TOGGLE_RESERVATION=33
+#WKZ_VIEW_OWNER=34
+#WKZ_HIDE_UNDER_CURSOR=35
+#
+#--------------------------------------------------------------------------------
+simple_tool[0]=0,p		#一時停止、ポーズ
+simple_tool[1]=1,W		#早送り
+simple_tool[2]=2,c		#スクリーンショットを撮る
+simple_tool[3]=3			#産業チェーンを追加
+simple_tool[4]=4,z		#アンドゥ
+simple_tool[5]=5,P		#プレイヤー変更
+simple_tool[6]=6			#1年進める
+# simple tool 7 needs a parameter
+simple_tool[8]=7,>		#ズームイン
+simple_tool[9]=8,<		#ズームアウト
+# lots of icons still not drawn ...
+simple_tool[10]=,v		#駅の有効範囲を表示/非表示（キー操作のみ）
+simple_tool[11]=,!		#駅名を表示/非表示（キー操作のみ）
+simple_tool[12]=9,#		#グリッドを表示/非表示
+simple_tool[13]=,%		#樹木を表示/隠す（キー操作のみ）
+simple_tool[14]=,"		#建物を表示/隠す（キー操作のみ）
+simple_tool[15]=,U	#地下路線建設モード（キー操作のみ）
+simple_tool[16]=10,R	#マップ回転
+# Quit (17) removed due to people accidentally killing their games
+#simple_tool[17]=,^Q	#終了（キー操作のみ）
+simple_tool[20]=,/		#乗り物の状態を表すツールチップの表示を切り替える（キー操作のみ）
+simple_tool[34]=,O		#所有者の表示/非表示（キー操作のみ）
+#--------------------------------------------------------------------------------
+# THIRD SECTION: dialoge tools
+# since these tools immeadiately open only a dialoge,
+# they have only an icon assigned
+# each entry has the form: dialoge_tool[i],a,k
+# i is the tool number (as seen below)
+# a is the icon as number in menu: menu.DialogeTools.pak or the name of a menu pak
+# k is the key to toggle this
+#
+# WKZ_HELP=0
+# WKZ_OPTIONEN=1
+# WKZ_MINIMAP=2
+# WKZ_LINEOVERVIEW=3
+# WKZ_MESSAGE=4
+# WKZ_FINANCES=5
+# WKZ_PLAYERS=6
+# WKZ_DISPLAYOPTIONS=7
+# WKZ_SOUND=8
+# WKZ_LANGUAGE=9
+# WKZ_PLAYERCOLOR=10
+# WKZ_JUMP=11
+# WKZ_LOAD=12
+# WKZ_SAVE=13
+# WKZ_LIST_HALT=14
+# WKZ_LIST_CONVOI=15
+# WKZ_LIST_TOWN=16
+# WKZ_LIST_GOODS=17
+# WKZ_LIST_FACTORY=18
+# WKZ_LIST_CURIOSITY=19
+# WKZ_EDIT_FACTORY=20
+# WKZ_EDIT_ATTRACTION=21
+# WKZ_EDIT_HOUSE=22
+# WKZ_EDIT_TREE=23
+# WKZ_ENLARGE_MAP=24
+# WKZ_LIST_LABELS=25
+# WKZ_CLIMATES=26
+# WKZ_SETTINGS=27
+# WKZ_GAMEINFO_NETWORK=28
+#--------------------------------------------------------------------------------
+dialog_tool[0]=0,?		#ヘルプ
+dialog_tool[1]=1,Q		#ゲームオプション
+dialog_tool[2]=2,m		#ミニマップ
+dialog_tool[3]=3,w		#路線編集
+dialog_tool[4]=4,B		#メッセージ表
+dialog_tool[5]=5,f		#財務
+dialog_tool[6]=6,k		#ライバル会社
+dialog_tool[7]=,			#表示設定
+dialog_tool[8]=,			#サウンド
+dialog_tool[9]=,			#言語
+dialog_tool[10]=,			#プレーヤーの色
+dialog_tool[11]=,J		#指定座標に移動
+dialog_tool[12]=7,^O	#ゲームの再開
+dialog_tool[13]=8,^S	#ゲームの保存
+dialog_tool[14]=9,H		#駅一覧
+dialog_tool[15]=10,V	#乗り物一覧
+dialog_tool[16]=11,T	#町一覧
+dialog_tool[17]=12,G	#貨物一覧
+dialog_tool[18]=13,F	#産業一覧
+dialog_tool[19]=14,A	#名所旧跡一覧
+dialog_tool[20]=16 		#産業施設建設ツール
+dialog_tool[21]=17 		#ランドマーク建設ツール
+dialog_tool[22]=18 		#市内建築物建設ツール
+dialog_tool[23]=19 		#植樹ツール
+dialog_tool[24]=20 		#マップサイズ拡張ツール
+dialog_tool[25]=15 		#マーカー一覧
+dialog_tool[26]= 			#気候の設定
+dialog_tool[27]= 			#高度な設定
+dialog_tool[28]=,n 		#ゲームの情報
+#--------------------------------------------------------------------------------
+# FINAL SECTION: compose all tool bars
+# now the defintion of all tool bars
+# in general only toolbar[0] is needed, which is the main menu
+# all other toolbars are derived from it
+# Each entry is a[i],b,k,c,d
+# a[i] is either: general_tool[i], simple_tool[i], dialog_tool[i], toolbar[i], -, ways(waytype), signs(waytype), wayobj(waytype), stops(utype), depots(waytype)
+# b could be a different icon from the previous (if any) tool definition taken from menu.ToolbarTools.pak or the name of a menu pak
+# k could be a different key binding
+# c is the default parameter
+# d is the helpfile name (only if a is toolbar[i])
+#-------------------------------------------------------------------------
+# 書式は次のとおりです。
+#
+#  toolbar[x][y]=ツール,アイコン,操作キー,パラメーター,ヘルプファイル
+#
+#  ・x=0はメインツールバー(必須)です。
+#  ・アイコン番号を指定しない場合は画面に表示されません
+#    （操作キーのみ指定したい場合は、この仕様を活用してください）
+#  ・途中で区切りを入れたい場合は、-（ハイフン）を設定してください。
+#  ・toolbar[2]は、toolbar[1]よりも前に記述してはいけません。
+#  ・スペース入力は設定文中で意図的に用いられていますので、明確な意図を
+#    持たずにスペースを入力しないようにしてください。
+#-------------------------------------------------------------------------
+#
+# Entry without an icon will not be shown. Use - for seperator.
+#
+# following waytypes are defined (for nearly everything)
+# road_wt          =   1
+# track_wt         =   2
+# water_wt         =   3
+# monorail_wt      =   5
+# maglev_wt        =   6
+# tram_wt          =   7
+# narrowgauge_wt   =   8
+# air_wt           =  16
+# powerline_wt     = 128
+#
+# subtypes for ways(x,#)
+# flat = 0
+# elevated/runway = 1
+# tram = 7 (only for track)
+# fence = 255
+#
+# following buildingstype are defined (for buildings(#))
+# unbekannt         =  0
+# attraction_city   =  1
+# attraction_land   =  2
+# denkmal           =  3
+# fabrik            =  4
+# rathaus           =  5
+# weitere           =  6
+# firmensitz        =  7
+# hafen             = 11
+# the following are in the form x,y with y= waytype (0 for none)
+# depot = 33
+# generic_stop = 34
+# generic_extension = 35
+#
+#
+# IMPORTANT: toolbar[2] must not be mentioned before toolbar[1]!
+# SPACES have a meaning here! Do not use spaces, if you did not intend so!
+#-------------------------------------------------------------------------
+# toolbar[0] is always main menu
+toolbar[0][0]=dialog_tool[1]																				#オプション
+toolbar[0][1]=dialog_tool[12]																				#読み込み
+toolbar[0][2]=dialog_tool[13]																				#セーブ
+toolbar[0][3]=dialog_tool[2]																				#ミニマップ
+toolbar[0][4]=general_tool[0]																				#調査ツール
+toolbar[0][5]=toolbar[1],0,,SLOPETOOLS,slopetools.txt								#スロープツール
+toolbar[0][6]=toolbar[2],1,,RAILTOOLS,railtools.txt									#鉄道ツール
+toolbar[0][7]=toolbar[3],2,,LINEARTOOLS,lineartools.txt							#リニアツール
+toolbar[0][8]=toolbar[4],3,,MONORAILTOOLS,monorailtools.txt					#モノレールツール
+toolbar[0][9]=toolbar[5],4,,TRAMTOOLS,tramtools.txt									#市電/軽便鉄道ツール
+toolbar[0][10]=toolbar[6],5,,NARROWGAUGETOOLS,narrowgaugetools.txt		#ナローゲージツール
+toolbar[0][11]=toolbar[7],6,,ROADTOOLS,roadtools.txt									#自動車ツール
+toolbar[0][12]=toolbar[8],7,,SHIPTOOLS,shiptools.txt									#船舶ツール
+toolbar[0][13]=toolbar[9],8,,AIRTOOLS,airtools.txt									#航空機ツール
+toolbar[0][14]=toolbar[10],9,,SPECIALTOOLS,special.txt							#特殊建造物ツール
+toolbar[0][15]=toolbar[11],93,,EDITTOOLS,edittools.txt							#マップ編集ツール
+toolbar[0][16]=general_tool[1]																			#
+toolbar[0][17]=dialog_tool[3]																				#路線編集
+toolbar[0][18]=toolbar[12],10,,LISTTOOLS,list.txt										#一覧表
+toolbar[0][19]=dialog_tool[4]																				#メッセージ表
+toolbar[0][20]=dialog_tool[5]																				#財務
+# sliced underground
+toolbar[0][21]=simple_tool[15],11,^U,K																#ハイトカット表示モード
+toolbar[0][22]=simple_tool[15],,+,I																	#
+toolbar[0][23]=simple_tool[15],,-,D																	#
+#
+toolbar[0][24]=simple_tool[2]																				#スクリーンショットを撮る
+toolbar[0][25]=simple_tool[0],,^p,																	#一時停止
+toolbar[0][26]=simple_tool[1]																				#早送り
+toolbar[0][27]=dialog_tool[0]																				#ヘルプ
+#
+toolbar[0][28]=-
+toolbar[0][29]=simple_tool[8]																				#ズームイン
+toolbar[0][30]=simple_tool[9]																				#ズームアウト
+toolbar[0][31]=simple_tool[12]																			#グリッド表示/非表示
+toolbar[0][32]=simple_tool[16]																			#マップ回転
+# invisible tools (here because they need a parameter or are added twice)
+toolbar[0][33]=simple_tool[7],,.,+1																	#ゲームスピードを1段階早くする
+toolbar[0][34]=simple_tool[7],,COMMA,-1															#ゲームスピードを1段階遅くする
+toolbar[0][35]=simple_tool[19],,),+																	#表示を1レベル明るくする
+toolbar[0][36]=simple_tool[19],,(,-																	#表示を1レベル暗くする
+toolbar[0][37]=simple_tool[15],,																		#地下路線建設ツール
+toolbar[0][38]=dialog_tool[28]																			#ゲームの情報
+toolbar[0][39]=simple_tool[5]																				#プレイヤー変更
+
+# slope tools - スロープツール
+#-----------------------------------------------------------
+toolbar[1][0]=general_tool[2]																				#陸地を高くする
+toolbar[1][1]=general_tool[3]																				#陸地を低くする
+toolbar[1][2]=general_tool[4],12,,36																#南向きスロープ
+toolbar[1][3]=general_tool[4],13,,4																	#北向きスロープ
+toolbar[1][4]=general_tool[4],14,,12																#西向きスロープ
+toolbar[1][5]=general_tool[4],15,,28																#東向きスロープ
+toolbar[1][6]=general_tool[4],16,,72																#南向きスロープ（×2）
+toolbar[1][7]=general_tool[4],17,,8																	#北向きスロープ（×2）
+toolbar[1][8]=general_tool[4],18,,24																#西向きスロープ（×2）
+toolbar[1][9]=general_tool[4],19,,56																#東向きスロープ（×2）
+toolbar[1][10]=general_tool[4],20,,82 															#かさ上げスロープ
+toolbar[1][11]=general_tool[4],21,,83 															#掘り下げスロープ
+toolbar[1][12]=general_tool[5]																			#スロープを戻す
+toolbar[1][13]=general_tool[38],22,,+1															#水面上昇ツール
+toolbar[1][14]=general_tool[38],23,,-1															#水面降下ツール
+toolbar[1][15]=general_tool[39],24,,0																#水面にする
+toolbar[1][16]=general_tool[39],25,,1																#砂漠気候にする
+toolbar[1][17]=general_tool[39],26,,2																#熱帯気候にする
+toolbar[1][18]=general_tool[39],27,,3																#地中海気候にする
+toolbar[1][19]=general_tool[39],28,,4																#温帯気候にする
+toolbar[1][20]=general_tool[39],29,,5																#ツンドラ気候にする
+toolbar[1][21]=general_tool[39],30,,6																#氷雪気候にする
+toolbar[1][22]=general_tool[39],31,,7																#極地気候にする
+
+
+# railtools(waytype 2) - 鉄道系ツール
+#-----------------------------------------------------------
+toolbar[2][0]=toolbar[13],33,,RAILWAYTOOLS_RAIL,										#軌道ツール（鉄道系）
+toolbar[2][1]=toolbar[14],34,,CATENARYTOOLS_RAIL,										#架線ツール（鉄道系）
+toolbar[2][2]=toolbar[15],35,,STATIONTOOLS_RAIL,										#駅・車庫ツール（鉄道系）
+toolbar[2][3]=toolbar[16],36,,SIGNALTOOLS_RAIL,											#信号ツール（鉄道系）
+
+# lineartools (waytype 5) - リニア系ツール
+#-----------------------------------------------------------
+toolbar[3][0]=toolbar[17],40,,RAILWAYTOOLS_LINEAR,									#軌道ツール（リニア系）
+toolbar[3][1]=toolbar[18],41,,CATENARYTOOLS_LINEAR,									#架線ツール（リニア系）
+toolbar[3][2]=toolbar[19],42,,STATIONTOOLS_LINEAR,									#駅・車庫ツール（リニア系）
+toolbar[3][3]=toolbar[20],43,,SIGNALTOOLS_LINEAR,										#信号ツール（リニア系）
+
+# monorailtools (waytype 5) - モノレール系ツール
+#-----------------------------------------------------------
+toolbar[4][0]=toolbar[21],47,,RAILWAYTOOLS_MONORAIL,								#軌道ツール（モノレール系）
+toolbar[4][1]=toolbar[22],48,,CATENARYTOOLS_MONORAIL,								#架線ツール（モノレール系）
+toolbar[4][2]=toolbar[23],49,,STATIONTOOLS_MONORAIL,								#駅・車庫ツール（モノレール系）
+toolbar[4][3]=toolbar[24],50,,SIGNALTOOLS_MONORAIL,									#信号ツール（モノレール系）
+
+# tramtools (waytype 7) - 市電・軽便鉄道系ツール
+#-----------------------------------------------------------
+toolbar[5][0]=toolbar[25],54,,RAILWAYTOOLS_TRAM,										#軌道ツール（市電・軽便鉄道系）
+toolbar[5][1]=toolbar[26],55,,CATENARYTOOLS_TRAM,										#架線ツール（市電・軽便鉄道系）
+toolbar[5][2]=toolbar[27],56,,STATIONTOOLS_TRAM,										#駅・車庫ツール（市電・軽便鉄道系）
+toolbar[5][3]=toolbar[28],57,,SIGNALTOOLS_TRAM,											#信号ツール（市電・軽便鉄道系）
+
+# narrowgaugetools (waytype 8) - ナローゲージ系ツール
+#-----------------------------------------------------------
+toolbar[6][0]=toolbar[29],61,,RAILWAYTOOLS_NARROWGAUGE,							#軌道ツール（ナローゲージ系）
+toolbar[6][1]=toolbar[30],62,,CATENARYTOOLS_NARROWGAUGE,						#架線ツール（ナローゲージ系）
+toolbar[6][2]=toolbar[31],63,,STATIONTOOLS_NARROWGAUGE,							#駅・車庫ツール（ナローゲージ系）
+toolbar[6][3]=toolbar[32],64,,SIGNALTOOLS_NARROWGAUGE,							#信号ツール（ナローゲージ系）
+
+# roadtools (waytype 1) - 自動車系ツール
+#-----------------------------------------------------------
+toolbar[7][0]=toolbar[33],68,,RUNWAYTOOLS_ROAD,											#道路ツール（自動車系）
+toolbar[7][1]=toolbar[34],69,,CATENARYTOOLS_ROAD,										#頭上構造物ツール（自動車系）
+toolbar[7][2]=toolbar[35],70,,BUSSTOPTOOLS_ROAD,										#停留所・車庫ツール（自動車系）
+toolbar[7][3]=toolbar[36],71,,SIGNALTOOLS_ROAD,											#信号ツール（自動車系）
+
+
+# shiptools (waytype 3) - 船舶系ツール
+#-----------------------------------------------------------
+toolbar[8][0]=toolbar[37],75,,RUNWAYTOOLS_SHIP,											#運河ツール（船舶系）
+toolbar[8][1]=toolbar[38],76,,CATENARYTOOLS_SHIP,										#付帯構造物ツール（船舶系）
+toolbar[8][2]=toolbar[39],77,,PORTTOOLS_SHIP,												#港湾・ドックツール（船舶系）
+toolbar[8][3]=toolbar[40],78,,SIGNALTOOLS_SHIP,											#信号ツール（船舶系）
+
+
+# airtools (waytype 1) - 航空機系ツール
+#-----------------------------------------------------------
+toolbar[9][0]=toolbar[41],82,,RUNWAYTOOLS_AIRPLAIN,									#滑走路ツール（航空機系）
+toolbar[9][1]=toolbar[42],83,,CATENARYTOOLS_AIRPLAIN,								#付帯構造物ツール（航空機系）
+toolbar[9][2]=toolbar[43],84,,AIRPORTTOOLS_AIRPLAIN,								#空港・格納庫ツール（航空機系）
+toolbar[9][3]=toolbar[44],85,,SIGNALTOOLS_AIRPLAIN,									#信号ツール（航空機系）
+
+# specialtools - 特殊建造物ツール
+#-----------------------------------------------------------
+toolbar[10][0]=buildings(35,0)																			#駅舎・郵便局・倉庫の建設
+toolbar[10][1]=ways(2,255)																					#鉄道用フェンス・河川の建設
+toolbar[10][2]=ways(128,0)																					#高圧線の建設
+toolbar[10][3]=bridges(128)																					#高圧線用橋脚の建設
+toolbar[10][4]=tunnels(128)																					#トンネル型高圧線の建設
+toolbar[10][5]=general_tool[36],91,,			#市道を建設する
+toolbar[10][6]=general_tool[17],,,128																#送電線の撤去
+toolbar[10][7]=general_tool[8]																			#変圧所をつくる
+toolbar[10][8]=general_tool[6]																			#マーカー
+toolbar[10][9]=general_tool[31]																		#スケジュールを移動させる
+toolbar[10][10]=general_tool[32]																		#駅を公共駅にする
+toolbar[10][11]=toolbar[11],92,,EDITTOOLS,edittools.txt							#マップ編集ツールの呼び出し
+toolbar[10][12]=general_tool[14],,l,128															#高圧線を引く
+toolbar[10][13]=dialog_tool[20]						#産業施設建設ツール
+toolbar[10][14]=general_tool[26]						#産業チェーンをつなぐ
+toolbar[10][15]=dialog_tool[21]						#ランドマーク建設ツール
+toolbar[10][16]=dialog_tool[22]						#市内建築物建設ツール
+toolbar[10][17]=dialog_tool[23]						#植樹ツール
+toolbar[10][18]=general_tool[11]					#木を植える
+toolbar[10][19]=general_tool[30]					#森をつくる
+toolbar[10][20]=general_tool[9]						#新しい町をつくる
+
+# editor tools - マップ編集ツール
+#-----------------------------------------------------------
+toolbar[11][0]=general_tool[10],89,,+100	#都市の人口を100増やす
+toolbar[11][1]=general_tool[10],90,,-100	#都市の人口を100減らす
+toolbar[11][2]=general_tool[9]						#新しい町をつくる
+toolbar[11][3]=general_tool[36],91,,			#市道を建設する
+toolbar[11][4]=simple_tool[3]							#産業チェーンを追加する
+toolbar[11][5]=dialog_tool[20]						#産業施設建設ツール
+toolbar[11][6]=general_tool[26]						#産業チェーンをつなぐ
+toolbar[11][7]=dialog_tool[21]						#ランドマーク建設ツール
+toolbar[11][8]=dialog_tool[22]						#市内建築物建設ツール
+toolbar[11][9]=dialog_tool[23]						#植樹ツール
+toolbar[11][10]=general_tool[11]					#木を植える
+toolbar[11][11]=general_tool[30]					#森をつくる
+toolbar[11][12]=simple_tool[6]						#1年進める
+toolbar[11][13]=dialog_tool[24]						#マップサイズ拡張ツール
+toolbar[11][14]=general_tool[28]					#プレイヤー変更の禁止
+
+# list tools - 一覧表
+#-----------------------------------------------------------
+toolbar[12][0]=dialog_tool[14]						#駅一覧
+toolbar[12][1]=dialog_tool[3]							#路線編集
+toolbar[12][2]=dialog_tool[15]						#乗り物一覧
+toolbar[12][3]=dialog_tool[16]						#町一覧
+toolbar[12][4]=dialog_tool[17]						#貨物一覧
+toolbar[12][5]=dialog_tool[18]						#産業一覧
+toolbar[12][6]=dialog_tool[19]						#名所旧跡一覧
+toolbar[12][7]=dialog_tool[25],,^M				#マーカー一覧
+
+#Railway Tools(Rail) - （鉄道系）線路ツール
+#-----------------------------------------------------------
+toolbar[13][0]=ways(2,0)									#地平用線路
+toolbar[13][1]=ways(2,1)									#高架用線路
+toolbar[13][2]=bridges(2)									#橋梁
+toolbar[13][3]=tunnels(2)									#トンネル
+toolbar[13][4]=general_tool[14],,t,2			#線路
+toolbar[13][5]=general_tool[17],37,,2			#線路の撤去
+
+#catenary tools(Rail) - （鉄道系）架線ツール
+#-----------------------------------------------------------
+toolbar[14][0]=wayobjs(2)									#鉄道用架線の設置
+toolbar[14][1]=general_tool[18],,e,2			#架線
+toolbar[14][2]=general_tool[33],38,,2			#架線の撤去
+
+#Staytion tools(Rail) - （鉄道系）駅ツール
+#-----------------------------------------------------------
+toolbar[15][0]=buildings(33,2)						#鉄道用車庫
+toolbar[15][1]=buildings(34,2)						#鉄道駅
+toolbar[15][2]=buildings(35,2)						#鉄道駅舎など
+
+#Sinnal tools(Rail) - （鉄道系）信号ツール
+#-----------------------------------------------------------
+toolbar[16][0]=signs(2)										#鉄道用信号
+
+#Railway Tools(Linear) - （リニア系）軌道ツール
+#-----------------------------------------------------------
+toolbar[17][0]=ways(6,0)									#地平用リニア軌道
+toolbar[17][1]=ways(6,1)									#高架用リニア軌道
+toolbar[17][2]=bridges(6)									#リニア用橋梁
+toolbar[17][3]=tunnels(6)									#リニア用トンネル
+toolbar[17][4]=general_tool[17],44,,6			#軌道の撤去
+
+#catenary tools(Linear) - （リニア系）架線ツール
+#-----------------------------------------------------------
+toolbar[18][0]=wayobjs(6)									#リニア用架線
+toolbar[18][1]=general_tool[33],45,,6			#架線の撤去
+
+#Staytion tools(Linear) - （リニア系）駅ツール
+#-----------------------------------------------------------
+toolbar[19][0]=buildings(33,6)						#リニア車庫
+toolbar[19][1]=buildings(34,6)						#リニア駅
+toolbar[19][2]=buildings(35,6)						#リニア駅舎
+
+#Sinnal tools(Linear) - （リニア系）信号ツール
+#-----------------------------------------------------------
+toolbar[20][0]=signs(6)										#リニア用信号
+
+#Railway Tools(MonoRail) - （モノレール系）軌道ツール
+#-----------------------------------------------------------
+toolbar[21][0]=ways(5,0)									#地平用モノレール軌道
+toolbar[21][1]=ways(5,1)									#高架用モノレール軌道
+toolbar[21][2]=bridges(5)									#モノレール用橋梁
+toolbar[21][3]=tunnels(5)									#モノレール用トンネル
+toolbar[21][4]=general_tool[17],51,,5			#軌道の撤去
+
+#catenary tools(MonoRail) - （モノレール・リニア系）架線ツール
+#-----------------------------------------------------------
+toolbar[22][0]=wayobjs(5)									#モノレール用架線
+toolbar[22][1]=general_tool[33],52,,5			#架線の撤去
+
+#Staytion tools(MonoRail) - （モノレール・リニア系）駅ツール
+#-----------------------------------------------------------
+toolbar[23][0]=buildings(33,5)						#モノレール車庫
+toolbar[23][1]=buildings(34,5)						#モノレール駅
+toolbar[23][2]=buildings(35,5)						#モノレール駅舎
+
+#Sinnal tools(MonoRail) - （モノレール・リニア系）信号ツール
+#-----------------------------------------------------------
+toolbar[24][0]=signs(5)										#モノレール用信号
+
+#Railway Tools(tram) - （市電・軽便鉄道系）軌道ツール
+#-----------------------------------------------------------
+toolbar[25][0]=ways(7,0)									#市電用線路（専用軌道?）
+toolbar[25][1]=ways(2,7)									#市電用線路（併用軌道?）
+toolbar[25][2]=bridges(7)									#市電用橋梁
+toolbar[25][3]=tunnels(7)									#市電用トンネル
+toolbar[25][4]=general_tool[17],58,,7			#軌道の撤去
+
+#catenary tools(Tram) - （市電・軽便鉄道系）架線ツール
+#-----------------------------------------------------------
+toolbar[26][0]=wayobjs(7)									#市電用架線
+toolbar[26][1]=general_tool[33],59,,7			#架線の撤去
+
+#Staytion tools(Tram) - （市電・軽便鉄道系）駅ツール
+#-----------------------------------------------------------
+toolbar[27][0]=buildings(33,7)						#市電車庫
+toolbar[27][1]=buildings(34,7)						#市電電停
+toolbar[27][2]=buildings(35,7)						#市電駅舎
+
+#Sinnal tools(Tram) - （市電・軽便鉄道系）信号ツール
+#-----------------------------------------------------------
+toolbar[28][0]=signs(7)										#市電用信号
+
+#Railway Tools(Narrowgauge) - （ナローゲージ系）軌道ツール
+#-----------------------------------------------------------
+toolbar[29][0]=ways(8,0)									#地平用ナローゲージ軌道
+toolbar[29][1]=ways(8,1)									#高架用ナローゲージ軌道
+toolbar[29][2]=bridges(8)									#ナローゲージ用橋梁
+toolbar[29][3]=tunnels(8)									#ナローゲージ用トンネル
+toolbar[29][4]=general_tool[17],65,,8			#軌道の撤去
+
+#catenary tools(Narrowgauge) - （ナローゲージ系）架線ツール
+#-----------------------------------------------------------
+toolbar[30][0]=wayobjs(8)									#ナローゲージ用架線
+toolbar[30][1]=general_tool[33],66,,8			#架線の撤去
+
+#Staytion tools(Narrowgauge) - （ナローゲージ系）駅ツール
+#-----------------------------------------------------------
+toolbar[31][0]=buildings(33,8)						#ナローゲージ車庫
+toolbar[31][1]=buildings(34,8)						#ナローゲージ駅
+toolbar[31][2]=buildings(35,8)						#ナローゲージ駅舎
+
+#Sinnal tools(Narrowgauge) - （ナローゲージ系）信号ツール
+#-----------------------------------------------------------
+toolbar[32][0]=signs(8)										#ナローゲージ用信号
+
+#Runway Tools(Road) - （自動車系）道路ツール
+#-----------------------------------------------------------
+toolbar[33][0]=ways(1,0)									#地平道路
+toolbar[33][1]=ways(1,1)									#高架道路
+toolbar[33][2]=bridges(1)									#道路橋
+toolbar[33][3]=tunnels(1)									#自動車用トンネル
+toolbar[33][4]=general_tool[14],,s,1			#道路
+toolbar[33][5]=general_tool[17],72,,1			#道路の撤去
+
+#catenary tools(Road) - （自動車系）道路付属設置物ツール
+#-----------------------------------------------------------
+toolbar[34][0]=wayobjs(1)									#道路付帯設置物
+toolbar[34][1]=general_tool[33],73,,1			#付帯構造物の撤去
+
+
+#Busstop tools(Road) - （自動車系）停留所・ヤードツール
+#-----------------------------------------------------------
+toolbar[35][0]=buildings(33,1)						#バス・トラック車庫
+toolbar[35][1]=buildings(34,1)						#停留所ツール
+toolbar[35][2]=buildings(35,1)						#停留所駅舎
+
+#Signal tools(Road) - （自動車系）信号ツール
+#-----------------------------------------------------------
+toolbar[36][0]=signs(1)										#道路用信号
+
+#Runway Tools(Ship) - （船舶系）運河ツール
+#-----------------------------------------------------------
+toolbar[37][0]=ways(3,0)									#地平運河
+toolbar[37][1]=ways(3,1)									#高架運河
+toolbar[37][2]=bridges(3)									#運河橋
+toolbar[37][3]=tunnels(3)									#運河トンネル
+toolbar[37][4]=general_tool[17],79,,3			#運河の撤去
+
+#catenary tools(Ship) - （船舶系）付帯構造物ツール
+#-----------------------------------------------------------
+toolbar[38][0]=wayobjs(3)									#付帯構造物
+toolbar[38][1]=general_tool[33],80,,3			#付帯構造物の撤去
+
+#Port tools(Ship)
+#-----------------------------------------------------------
+toolbar[39][0]=buildings(33,3)						#ドック
+toolbar[39][1]=buildings(34,3)						#港
+toolbar[39][2]=buildings(11,3)						#港
+toolbar[39][3]=buildings(35,3)						#港（倉庫）
+
+#Signal tools(Ship) - （船舶系）信号ツール
+#-----------------------------------------------------------
+toolbar[40][0]=signs(3)									#船舶系信号
+
+#Runway Tools(Airplain)
+#-----------------------------------------------------------
+toolbar[41][0]=ways(16,0)									#誘導路
+toolbar[41][1]=ways(16,1)									#滑走路
+toolbar[41][2]=bridges(16)								#誘導路橋
+toolbar[41][3]=general_tool[17],86,,16		#滑走路・誘導路の撤去
+
+#catenary tools(Airplain) - （航空機系）付帯構造物ツール
+#-----------------------------------------------------------
+toolbar[42][0]=wayobjs(16)								#付帯構造物
+toolbar[42][1]=general_tool[33],87,,16		#付帯構造物の撤去
+
+#Airport tools(Airplain) - （航空機系）空港・格納庫ツール
+#-----------------------------------------------------------
+toolbar[43][0]=buildings(33,16)						#格納庫
+toolbar[43][1]=buildings(34,16)						#空港エプロン
+toolbar[43][2]=buildings(35,16)						#空港ヤード
+
+#Signal tools(Airplain) - （航空機系）信号・標識ツール
+#-----------------------------------------------------------
+toolbar[44][0]=signs(16)									#航空標識

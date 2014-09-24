@@ -1,0 +1,20 @@
+§################################################################################
+##----　東海道・山陽・九州新幹線　----##
+JRW_Class0(H_Trainset-SK)
+JR西0系(SK編成)
+JRW_Class0(H_Trainset-WR)
+JR西0系(WR編成)
+##----　東北・山形・秋田・北海道新幹線　----##
+JRH_ClassH5(H)
+JR北H5系
+JRE_ClassE3-2000(H_Trainset-L-newcolor)
+JR東E3系2000番台(L編成新塗装)
+JRE_ClassE3-2000(H_Trainset-L-newcolor)_130kph
+JR東E3系2000番台(L編成新塗装)<最高時速130km/h>
+JRE_ClassE3-700(H_Trainset_Toreiyu)
+JR東E3系700番台(『とれいゆ』)
+JRE_ClassE3-700(H_Trainset_Toreiyu)_130kph
+JR東E3系700番台(『とれいゆ』)<最高時速130km/h>
+##----　上越・北陸新幹線　----##
+JRE_ClassE4(H_Trainset-P_Renew)
+JR東E4系(新塗装)

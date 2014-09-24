@@ -1,0 +1,187 @@
+§###############################################
+#################################################
+####------------- 103系 -------------#####
+#-- 中国地域色 --#
+JRW Mc_103(Makki WAU102 type2)
+JR西日本クモハ103形<WAU102冷房装備>(前方)：中国地域色
+JRW M'_102(Makki WAU102 type2)
+JR西日本モハ102形<WAU102冷房装備>：中国地域色
+JRW Tc2_103(Makki WAU102 type2)
+JR西日本クハ103形<WAU102冷房装備>(後方)：中国地域色
+####------------- 105系 -------------#####
+#-- 中国地域色 --#
+JRW Mc_105(Makki type2 WAU202)
+JR西日本クモハ105形<WAU202冷房装備>(前方)：中国地域色
+JRW Tc_104(Makki type2 WAU202)
+JR西日本クハ104形<WAU202冷房装備>(後方)：中国地域色
+JRW Mc_105_500(Makki type2 WAU202)
+JR西日本クモハ105形500番台<WAU202冷房装備>(前方)：中国地域色
+JRW Tc_105(Makki type2 WAU202)
+JR西日本クハ105形<WAU202冷房装備>(後方)：中国地域色
+JRW Tc_104_600(Makki type2 WAU202)
+JR西日本クハ104形600番台<WAU202冷房装備>(後方)：中国地域色
+JRW Mc_105(Makki Renewal)
+JR西日本クモハ105形<リニューアル車>(前方)：中国地域色
+JRW Tc_104(Makki Renewal)
+JR西日本クハ104形<リニューアル車>(後方)：中国地域色
+JRW Mc_105(Makki Renewal WAU102)
+JR西日本クモハ105形<リニューアル車：WAU102冷房装備>(前方)：中国地域色
+JRW Tc_104(Makki Renewal WAU102)
+JR西日本クハ104形<リニューアル車：WAU102冷房装備>(後方)：中国地域色
+JRW Mc_105(Makki-Fukuen Line Renewal)
+JR西日本クモハ105形<リニューアル車：岡山地区>(前方)：中国地域色
+JRW Tc_104(Makki-Fukuen Line Renewal)
+JR西日本クハ104形<リニューアル車：岡山地区>(後方)：中国地域色
+#-- 和歌山地域色 --#
+JRW Mc_105_500(Wakayama)
+JR西日本クモハ105形500番台(前方)：和歌山地域色
+JRW Tc_104_500(Wakayama)
+JR西日本クハ104形500番台(後方)：和歌山地域色
+JRW Tc_105(Wakayama)
+JR西日本クハ105形(後方)：和歌山地域色
+JRW Tc_104_550(Wakayama)
+JR西日本クハ104形550番台(後方)：和歌山地域色
+JRW Mc_105(Wakayama Renewal WAU102)
+JR西日本クモハ105形<リニューアル車：WAU102冷房装備>(前方)：和歌山地域色
+JRW Tc_104(Wakayama Renewal WAU102)
+JR西日本クハ104形<リニューアル車：WAU102冷房装備>(後方)：和歌山地域色
+JRW Mc_105_500(Wakayama NB Renewal WAU202)
+JR西日本クモハ105形500番台<延命NB工事車：WAU202冷房装備>(前方)：和歌山地域色
+JRW Tc_104_500(Wakayama NB Renewal WAU202)
+JR西日本クハ104形500番台<延命NB工事車：WAU202冷房装備>(後方)：和歌山地域色
+JRW Mc_105_500(Wakayama NB Renewal)
+JR西日本クモハ105形500番台<延命NB工事車>(前方)：和歌山地域色
+JRW Tc_105(Wakayama NB Renewal)
+JR西日本クハ105形<延命NB工事車>(後方)：和歌山地域色
+JRW Mc_105_500(Wakayama WAU202)
+JR西日本クモハ105形500番台<WAU202冷房装備>(前方)：和歌山地域色
+JRW Mc_105_500(Wakayama WAU202 DP)
+JR西日本クモハ105形500番台<WAU202冷房装備：パンタ二基搭載>(前方)：和歌山地域色
+JRW Tc_104_500(Wakayama WAU202)
+JR西日本クハ104形500番台<WAU202冷房装備>(後方)：和歌山地域色
+JRW Tc_105(Wakayama WAU202)
+JR西日本クハ105形<WAU202冷房装備>(後方)：和歌山地域色
+####------------- 113系・115系 -------------#####
+#-- 京都地域色 --#
+JRW-Kuha111-R-Kyoto(front)
+JR西日本クハ111形(前方)：京都地域色
+JRW-Kuha111-R-Kyoto(110km)(front)
+JR西日本クハ111形<110km/h対応>(前方)：京都地域色
+JRW-Moha113-R-Kyoto
+JR西日本モハ113形：京都地域色
+JRW-Moha112-R-Kyoto
+JR西日本モハ112形：京都地域色
+JRW-Kuha111-R-Kyoto(back)
+JR西日本クハ111形(後方)：京都地域色
+#-- 和歌山地域色 --#
+JRW-Kumoha113-2000-Wakayama(front)
+JR西日本クモハ113形2000番台(前方)：和歌山地域色
+JRW-Kumoha112-2000-Wakayama(back)
+JR西日本クモハ112形2000番台(後方)：和歌山地域色
+#-- 中国地域色 --#
+JRW-Kuha111-R-Makki(front)
+JR西日本クハ111形(前方)：中国地域色
+JRW-Kuha115-R-Makki(front)
+JR西日本クハ115形(前方)：中国地域色
+JRW-Kuha115-3100-R-Makki(front)
+JR西日本クハ115形3100番台(前方)：中国地域色
+JRW-Moha113-R-Makki
+JR西日本モハ113形：中国地域色
+JRW-Moha115-R-Makki
+JR西日本モハ115形：中国地域色
+JRW-Kumoha115-1600-R-Makki(front)
+JR西日本クモハ115形1600番台(前方)：中国地域色
+JRW-Moha115-3000-R-Makki
+JR西日本モハ115形3000番台：中国地域色
+JRW-Moha112-R-Makki
+JR西日本モハ112形：中国地域色
+JRW-Moha114-R-Makki
+JR西日本モハ114形：中国地域色
+JRW-Moha114-3000-R-Makki
+JR西日本モハ114形3000番台：中国地域色
+JRW-Kuha111-R-Makki(back)
+JR西日本クハ111形(後方)：中国地域色
+JRW-Kuha115-R-Makki(back)
+JR西日本クハ115形(後方)：中国地域色
+JRW-Kuha115-3000-R-Makki(back)
+JR西日本クハ115形3000番台(後方)：中国地域色
+JRW-Kumoha115-R-Makki(front)
+JR西日本クモハ115形(前方)：中国地域色
+JRW-Kumoha114-1000-R-Makki(back)
+JR西日本クモハ114形1000番台(後方)：中国地域色
+####------------- 117系 -------------#####
+#-- 京都地域色 --#
+JRW-Kuha117-300(front)-Kyoto
+JR西日本クハ117形300番台(前方)：京都地域色
+JRW-Moha117-300-Kyoto
+JR西日本モハ117形300番台：京都地域色
+JRW-Moha116-300-Kyoto
+JR西日本モハ116形300番台：京都地域色
+JRW-Kuha116-300(back)-Kyoto
+JR西日本クハ116形300番台(後方)：京都地域色
+#-- 和歌山地域色 --#
+JRW-Kuha117-300(front)-Wakayama
+JR西日本クハ117形300番台(前方)：和歌山地域色
+JRW-Moha117-300-Wakayama
+JR西日本モハ117形300番台：和歌山地域色
+JRW-Moha116-300-Wakayama
+JR西日本モハ116形300番台：和歌山地域色
+JRW-Kuha116-300(back)-Wakayama
+JR西日本クハ116形300番台(後方)：和歌山地域色
+#-- 中国地域色 --#
+JRW-Kuha117(front)-Makki
+JR西日本クハ117形(前方)：中国地域色
+JRW-Moha117-Makki
+JR西日本モハ117形：中国地域色
+JRW-Moha116-Makki
+JR西日本モハ116形：中国地域色
+JRW-Kuha116(back)-Makki
+JR西日本クハ116形(後方)：中国地域色
+####------------- 123系 -------------#####
+#-- 中国地域色など --#
+JRW-Kumoha123-2_4-Debut
+JR西日本クモハ123形2～4(登場時)
+JRW-Kumoha123-2_4
+JR西日本クモハ123形2～4
+JRW-Kumoha123-2_4-Makki
+JR西日本クモハ123形2～4：中国地域色
+JRW-Kumoha123-5_6-Hanwa
+JR西日本クモハ123形5・6：阪和線
+JRW-Kuha103-194-Hanwa
+JR西日本クハ103形194(前方)：阪和線
+JRW-Kumoha123-5_6-Uno
+JR西日本クモハ123形5・6：宇野線
+JRW-Kumoha123-5_6
+JR西日本クモハ123形5・6
+####------------- 413系 -------------#####
+#-- 北陸地域色 --#
+JRW Mc_413-Blue
+JR西日本クモハ413形(前方)：北陸地域色
+JRW M'_412-Blue
+JR西日本モハ412形：北陸地域色
+JRW Tc_412-Blue
+JR西日本クハ412形(後方)：北陸地域色
+####------------- 415系 -------------#####
+#-- 七尾線色 --#
+JRW-Kumoha415-800(front)
+JR西日本クモハ415形800番台(前方)：七尾線色
+JRW-Moha414-800
+JR西日本モハ414形800番台：七尾線色
+JRW-Kuha415-800(back)
+JR西日本クハ415形800番台(後方)：七尾線色
+JRW-Kumoha415-800-red(front)
+JR西日本クモハ415形800番台(前方)：新七尾線色
+JRW-Moha414-800-red
+JR西日本モハ414形800番台：新七尾線色
+JRW-Kuha415-800-red(back)
+JR西日本クハ415形800番台(後方)：新七尾線色
+####------------- 475系 -------------#####
+#-- 北陸地域色 --#
+JRW-Kumoha475-Blue(front)
+JR西日本クモハ475形(前方)：北陸地域色
+JRW-Saha455-Blue
+JR西日本サハ455形：北陸地域色
+JRW-Moha474-Blue
+JR西日本モハ474形：北陸地域色
+JRW-Kuha455-Blue(back)
+JR西日本クハ455形(後方)：北陸地域色
