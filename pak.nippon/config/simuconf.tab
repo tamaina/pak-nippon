@@ -189,7 +189,7 @@ special_color[14]=0x01, 0x01, 0xFF, 0x01, 0x01, 0xFF // blue light
 # New system of year dependent starting money. Up to ten triplets are
 # possible. The entries are of the form:
 # startingmoney[i]=year,money(in 1/10 credits),interpolate (1) or step(0)
-starting_money=61388000000000000
+starting_money=7000000000
 
 
 # allow buying obsolete vehicles (=1) in depot
