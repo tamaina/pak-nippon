@@ -1,32 +1,32 @@
 §################################################################################
-#                                                                              #
-#                Simutrans Scenario Specific Translation File                  #
-#                                Scenario: pak64                               #
-#                             Language: ja Japanese                            #
-#                                Encoding: UTF-8                               #
-#                               Font : m+10r.bdf                               #
-#                           Date Created: 17.03 2013                           #
-#                                                                              #
-#                                   authors:                                   #
-#                                    - An_dz                                   #
-#                   note: Verified where all texts are shown                   #
-#                                    - Dwachs                                  #
-#                                    note:                                     #
-#                              Frank Penz - FrankP                             #
-#                                    note:                                     #
-#                                    - Hamo73                                  #
-#                                    note:                                     #
-#                            Shun Yamashita - Tajia                            #
-#                                    note:                                     #
-#                           Tomohiro MATSUMURA - hiro                          #
-#                                    note:                                     #
-#                          Markus Pristovsek - prissi                          #
-#                                    note:                                     #
-#                          SHISHIDO Yoshihiro - yoshi                          #
-#                                    note:                                     #
-#                                 z9999 - z9999                                #
-#                                    note:                                     #
-#                                                                              #
+# #
+# Simutrans Scenario Specific Translation File #
+# Scenario: pak64 #
+# Language: ja Japanese #
+# Encoding: UTF-8 #
+# Font : m+10r.bdf #
+# Date Created: 17.03 2013 #
+# #
+# authors: #
+# - An_dz #
+# note: Verified where all texts are shown #
+# - Dwachs #
+# note: #
+# Frank Penz - FrankP #
+# note: #
+# - Hamo73 #
+# note: #
+# Shun Yamashita - Tajia #
+# note: #
+# Tomohiro MATSUMURA - hiro #
+# note: #
+# Markus Pristovsek - prissi #
+# note: #
+# SHISHIDO Yoshihiro - yoshi #
+# note: #
+# z9999 - z9999 #
+# note: #
+# #
 ################################################################################
 #____________________________________bridge_____________________________________
 #____________________________________bridge_____________________________________
@@ -673,7 +673,7 @@ np-waterstop-freight
 Ambulanz
 救急車
 FordT
-T型フォード
+Ｔ型フォード
 green_car
 緑の乗用車
 Motorrad
@@ -692,8 +692,14 @@ np-fact-autohaus
 カーショップ
 np-fact-autohersteller
 自動車工場
+np-fact-bakery
+パン工場
+np-fact-brewery
+ビール工場
 np-fact-buchgrosshandel
 書店
+np-fact-cannery
+缶詰工場
 np-fact-cementmill
 セメント工場
 np-fact-chemical-plant
@@ -702,12 +708,22 @@ np-fact-chemist
 薬局
 np-fact-concrete-factory
 コンクリート工場
+np-fact-country-elevator
+カントリーエレベーター
+np-fact-cow-farm
+牧場
+np-fact-dairy
+乳製品工場
 np-fact-druckerei
 印刷工場
 np-fact-erzbergwerk
 鉄鉱石鉱山
+np-fact-food-processing-plant
+食品工場
 np-fact-geokraftwerk
 地熱発電所
+np-fact-grain-mill
+製粉工場
 np-fact-incinerator
 焼却炉
 np-fact-kohlegrube
@@ -736,6 +752,10 @@ np-fact-pharmaceutics
 製薬会社
 np-fact-raffinerie
 精油所
+np-fact-rice-farm
+米農家
+np-fact-rice-mill
+精米工場
 np-fact-saegewerk
 製材所
 np-fact-sandquarry
@@ -748,8 +768,14 @@ np-fact-stahlwerk
 製鉄所
 np-fact-stonequarry
 採石場
+np-fact-supermarket
+スーパーマーケット
 np-fact-tanke
 ガソリンスタンド
+np-fact-wheat-farm
+小麦農家
+np-fact-wholesale-market
+卸売市場
 np-fact-windkraftwerk
 風力発電所
 #_____________________________________good______________________________________
@@ -758,8 +784,12 @@ Autos
 自動車
 beer
 ビール
+bread
+パン
 Bretter
 板材
+brown-rice
+玄米
 Buecher
 書籍
 canned_food
@@ -769,7 +799,9 @@ Cement
 Chemicals
 化学薬品
 Concrete
-ALCパネル
+ＡＬＣパネル
+dairy-goods
+市乳・乳製品
 Eisenerz
 鉄鉱石
 fish
@@ -808,6 +840,8 @@ Post
 郵便
 PrintersInk
 印刷インク
+raw-rice
+籾米
 Sand
 砂
 Stahl
@@ -816,6 +850,8 @@ Stone
 石
 waste
 ゴミ
+white-rice
+白米
 #__________________________________ground_obj___________________________________
 #__________________________________ground_obj___________________________________
 bushes
@@ -892,46 +928,38 @@ np-road-traffic-light
 信号機
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
-np-tree-01
-松の木
-np-tree-02
-松の木
-np-tree-03
-松の木
-np-tree-04
-松の木
-np-tree-05
-針葉樹
-np-tree-06
-針葉樹
-np-tree-07
-針葉樹
-np-tree-08
-針葉樹
-np-tree-09
-針葉樹
-np-tree-10
-針葉樹
-np-tree-11
-針葉樹
-np-tree-12
-針葉樹
-np-tree-13
-広葉樹
-np-tree-14
-広葉樹
-np-tree-15
-広葉樹
-np-tree-16
-広葉樹
-np-tree-17
-広葉樹
-np-tree-18
-広葉樹
-np-tree-19
-広葉樹
-np-tree-20
-広葉樹
+np-tree-akaezomatsu
+アカエゾマツ
+np-tree-arakashi
+アラカシ
+np-tree-buna
+ブナ
+np-tree-ezomatsu
+エゾマツ
+np-tree-hinoki-1
+ヒノキ
+np-tree-hinoki-2
+ヒノキ
+np-tree-isunoki
+イスノキ
+np-tree-kaede
+カエデ
+np-tree-keyaki
+ケヤキ
+np-tree-kusunoki
+クスノキ
+np-tree-mizunara
+ミズナラ
+np-tree-shirakashi
+シラカシ
+np-tree-tabunoki
+タブノキ
+np-tree-todomatsu
+トドマツ
+np-tree-tsuburajii
+ツブラジイ
+np-tree-tsuga
+ツガ
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 np-concrete-monorail-tunnel
