@@ -1,0 +1,4 @@
+Obj=field
+name=sheep_field
+Image[0]=sheep_field.0.0 # winter
+Image[1]=snow_field.0.0 # snow (has_snow=1)
