@@ -154,7 +154,7 @@ imageUp2[6][0]=waterway-3.7.3
 #diagonal[SW][0]=waterway-3.8.3
 ---
 obj=way
-name=np-canal
+name=np-canal-a
 copyright=wa
 cost=1000000
 maintenance=100
@@ -163,78 +163,164 @@ max_weight=1000
 waytype=water
 draw_as_ding=1
 
-icon=> waterway-4.9.0
-cursor=waterway-4.9.1
+icon=> waterway-4a.9.0
+cursor=waterway-4a.9.1
 
-image[S][0]=waterway-4.0.0
-image[E][0]=waterway-4.0.1
-image[N][0]=waterway-4.0.2
-image[W][0]=waterway-4.0.3
+image[S][0]=waterway-4a.0.0
+image[E][0]=waterway-4a.0.1
+image[N][0]=waterway-4a.0.2
+image[W][0]=waterway-4a.0.3
 
-image[SE][0]=waterway-4.1.0
-image[NE][0]=waterway-4.1.1
-image[NW][0]=waterway-4.1.2
-image[SW][0]=waterway-4.1.3
+image[SE][0]=waterway-4a.1.0
+image[NE][0]=waterway-4a.1.1
+image[NW][0]=waterway-4a.1.2
+image[SW][0]=waterway-4a.1.3
 
-image[NS][0]=waterway-4.2.0
-image[EW][0]=waterway-4.2.1
+image[NS][0]=waterway-4a.2.0
+image[EW][0]=waterway-4a.2.1
 
-image[NSEW][0]=waterway-4.3.0
+image[NSEW][0]=waterway-4a.3.0
 
-image[-][0]=waterway-4.4.0
+image[-][0]=waterway-4a.4.0
 
-image[NSE][0]=waterway-4.5.0
-image[NEW][0]=waterway-4.5.1
-image[NSW][0]=waterway-4.5.2
-image[SEW][0]=waterway-4.5.3
+image[NSE][0]=waterway-4a.5.0
+image[NEW][0]=waterway-4a.5.1
+image[NSW][0]=waterway-4a.5.2
+image[SEW][0]=waterway-4a.5.3
 
-imageUp[12][0]=waterway-4.6.0
-imageUp[9][0]=waterway-4.6.1
-imageUp[3][0]=waterway-4.6.2
-imageUp[6][0]=waterway-4.6.3
+imageUp[12][0]=waterway-4a.6.0
+imageUp[9][0]=waterway-4a.6.1
+imageUp[3][0]=waterway-4a.6.2
+imageUp[6][0]=waterway-4a.6.3
 
-imageUp2[12][0]=waterway-4.7.0
-imageUp2[9][0]=waterway-4.7.1
-imageUp2[3][0]=waterway-4.7.2
-imageUp2[6][0]=waterway-4.7.3
+imageUp2[12][0]=waterway-4a.7.0
+imageUp2[9][0]=waterway-4a.7.1
+imageUp2[3][0]=waterway-4a.7.2
+imageUp2[6][0]=waterway-4a.7.3
 
-#diagonal[SE][0]=waterway-4.8.0
-#diagonal[NE][0]=waterway-4.8.1
-#diagonal[NW][0]=waterway-4.8.2
-#diagonal[SW][0]=waterway-4.8.3
-frontImage[S][0]=waterway-4.0.4
-frontImage[E][0]=waterway-4.0.5
-frontImage[N][0]=waterway-4.0.6
-frontImage[W][0]=waterway-4.0.7
+#diagonal[SE][0]=waterway-4a.8.0
+#diagonal[NE][0]=waterway-4a.8.1
+#diagonal[NW][0]=waterway-4a.8.2
+#diagonal[SW][0]=waterway-4a.8.3
+frontImage[S][0]=waterway-4a.0.4
+frontImage[E][0]=waterway-4a.0.5
+frontImage[N][0]=waterway-4a.0.6
+frontImage[W][0]=waterway-4a.0.7
 
-frontImage[SE][0]=waterway-4.1.4
-frontImage[NE][0]=waterway-4.1.5
-frontImage[NW][0]=waterway-4.1.6
-frontImage[SW][0]=waterway-4.1.7
+frontImage[SE][0]=waterway-4a.1.4
+frontImage[NE][0]=waterway-4a.1.5
+frontImage[NW][0]=waterway-4a.1.6
+frontImage[SW][0]=waterway-4a.1.7
 
-frontImage[NS][0]=waterway-4.2.4
-frontImage[EW][0]=waterway-4.2.5
+frontImage[NS][0]=waterway-4a.2.4
+frontImage[EW][0]=waterway-4a.2.5
 
-frontImage[NSEW][0]=waterway-4.3.4
+frontImage[NSEW][0]=waterway-4a.3.4
 
-frontImage[-][0]=waterway-4.4.4
+frontImage[-][0]=waterway-4b.4.4
 
-frontImage[NSE][0]=waterway-4.5.4
-frontImage[NEW][0]=waterway-4.5.5
-frontImage[NSW][0]=waterway-4.5.6
-frontImage[SEW][0]=waterway-4.5.7
+frontImage[NSE][0]=waterway-4a.5.4
+frontImage[NEW][0]=waterway-4a.5.5
+frontImage[NSW][0]=waterway-4a.5.6
+frontImage[SEW][0]=waterway-4a.5.7
 
-frontImageUp[12][0]=waterway-4.6.4
-frontImageUp[9][0]=waterway-4.6.5
-frontImageUp[3][0]=waterway-4.6.6
-frontImageUp[6][0]=waterway-4.6.7
+frontImageUp[12][0]=waterway-4a.6.4
+frontImageUp[9][0]=waterway-4a.6.5
+frontImageUp[3][0]=waterway-4a.6.6
+frontImageUp[6][0]=waterway-4a.6.7
 
-frontImageUp2[12][0]=waterway-4.7.4
-frontImageUp2[9][0]=waterway-4.7.5
-frontImageUp2[3][0]=waterway-4.7.6
-frontImageUp2[6][0]=waterway-4.7.7
+frontImageUp2[12][0]=waterway-4a.7.4
+frontImageUp2[9][0]=waterway-4a.7.5
+frontImageUp2[3][0]=waterway-4a.7.6
+frontImageUp2[6][0]=waterway-4a.7.7
 
-#frontDiagonal[SE][0]=waterway-4.8.4
-#frontDiagonal[NE][0]=waterway-4.8.5
-#frontDiagonal[NW][0]=waterway-4.8.6
-#frontDiagonal[SW][0]=waterway-4.8.7
+#frontDiagonal[SE][0]=waterway-4a.8.4
+#frontDiagonal[NE][0]=waterway-4a.8.5
+#frontDiagonal[NW][0]=waterway-4a.8.6
+#frontDiagonal[SW][0]=waterway-4a.8.7
+---
+obj=way
+name=np-canal-b
+copyright=wa
+cost=1000000
+maintenance=100
+topspeed=30
+max_weight=1000
+waytype=water
+draw_as_ding=1
+
+icon=> waterway-4b.9.0
+cursor=waterway-4b.9.1
+
+image[S][0]=waterway-4b.0.0
+image[E][0]=waterway-4b.0.1
+image[N][0]=waterway-4b.0.2
+image[W][0]=waterway-4b.0.3
+
+image[SE][0]=waterway-4b.1.0
+image[NE][0]=waterway-4b.1.1
+image[NW][0]=waterway-4b.1.2
+image[SW][0]=waterway-4b.1.3
+
+image[NS][0]=waterway-4b.2.0
+image[EW][0]=waterway-4b.2.1
+
+image[NSEW][0]=waterway-4b.3.0
+
+image[-][0]=waterway-4b.4.0
+
+image[NSE][0]=waterway-4b.5.0
+image[NEW][0]=waterway-4b.5.1
+image[NSW][0]=waterway-4b.5.2
+image[SEW][0]=waterway-4b.5.3
+
+imageUp[12][0]=waterway-4b.6.0
+imageUp[9][0]=waterway-4b.6.1
+imageUp[3][0]=waterway-4b.6.2
+imageUp[6][0]=waterway-4b.6.3
+
+imageUp2[12][0]=waterway-4b.7.0
+imageUp2[9][0]=waterway-4b.7.1
+imageUp2[3][0]=waterway-4b.7.2
+imageUp2[6][0]=waterway-4b.7.3
+
+#diagonal[SE][0]=waterway-4b.8.0
+#diagonal[NE][0]=waterway-4b.8.1
+#diagonal[NW][0]=waterway-4b.8.2
+#diagonal[SW][0]=waterway-4b.8.3
+frontImage[S][0]=waterway-4b.0.4
+frontImage[E][0]=waterway-4b.0.5
+frontImage[N][0]=waterway-4b.0.6
+frontImage[W][0]=waterway-4b.0.7
+
+frontImage[SE][0]=waterway-4b.1.4
+frontImage[NE][0]=waterway-4b.1.5
+frontImage[NW][0]=waterway-4b.1.6
+frontImage[SW][0]=waterway-4b.1.7
+
+frontImage[NS][0]=waterway-4b.2.4
+frontImage[EW][0]=waterway-4b.2.5
+
+frontImage[NSEW][0]=waterway-4b.3.4
+
+frontImage[-][0]=waterway-4b.4.4
+
+frontImage[NSE][0]=waterway-4b.5.4
+frontImage[NEW][0]=waterway-4b.5.5
+frontImage[NSW][0]=waterway-4b.5.6
+frontImage[SEW][0]=waterway-4b.5.7
+
+frontImageUp[12][0]=waterway-4b.6.4
+frontImageUp[9][0]=waterway-4b.6.5
+frontImageUp[3][0]=waterway-4b.6.6
+frontImageUp[6][0]=waterway-4b.6.7
+
+frontImageUp2[12][0]=waterway-4b.7.4
+frontImageUp2[9][0]=waterway-4b.7.5
+frontImageUp2[3][0]=waterway-4b.7.6
+frontImageUp2[6][0]=waterway-4b.7.7
+
+#frontDiagonal[SE][0]=waterway-4b.8.4
+#frontDiagonal[NE][0]=waterway-4b.8.5
+#frontDiagonal[NW][0]=waterway-4b.8.6
+#frontDiagonal[SW][0]=waterway-4b.8.7
