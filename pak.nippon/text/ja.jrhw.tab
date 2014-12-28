@@ -1,0 +1,81 @@
+§###############################################
+#################################################
+Highway_Bus_Center_E(Output)
+高速バスのりば東向き
+Highway_Bus_Center_E(Input)
+高速バスおりば東向き
+Highway_Bus_Center_S(Output)
+高速バスのりば南向き
+Highway_Bus_Center_S(Input)
+高速バスおりば南向き
+#
+#
+Super_seat
+スーパーシート利用客
+Business_seat
+ビジネスシート利用客
+Premium_seat
+プレミアムシート利用客
+#----------JR東名ハイウェイバスセット Ver.1----------#
+Fuso_Aeroking_JRBUSKANTO
+三菱ふそうエアロキング JRバス関東(3列車)
+Fuso_Aeroking_JRBUSKANTO(eco)
+三菱ふそうエアロキング JRバス関東(4列車)
+Fuso_Aeroking_JRTokaiBUS1
+三菱ふそうエアロキング JR東海バス(3列車)
+Fuso_Aeroking_JRTokaiBUS2
+三菱ふそうエアロキング JR東海バス(3列/B車)
+Fuso_Aeroking_JRTokaiBUS3
+三菱ふそうエアロキング JR東海バス(3列/P車)
+Fuso_Aeroking_NISHINIHONJRBUS
+三菱ふそうエアロキング 西日本JRバス(3列車)
+Fuso_Aeroking_NISHINIHONJRBUS(eco)
+三菱ふそうエアロキング 西日本JRバス(4列車)
+Fuso_Aeroking_PREMIUMdream
+三菱ふそうエアロキング JRバス関東/西日本JRバス(プレミアムドリーム)
+Fuso_Aeroking_PREMIUMecodream
+三菱ふそうエアロキング JRバス関東/西日本JRバス(プレミアムエコドリーム)
+Fuso_Aeroace_JRBUSKANTO
+三菱ふそうエアロエース JRバス関東
+Fuso_Aeroace_JRTokaiBUS(Blue_roof_type)
+三菱ふそうエアロエース JR東海バス(青屋根)
+Fuso_Aeroace_JRBUSTEC(Swallow_Express)
+三菱ふそうエアロエース JRバステック(Swallow Express)
+Hino_SELEGA_JRBUSKANTO
+日野セレガ JRバス関東
+Hino_SELEGA_JRBUSKANTO(SpareSeat)
+日野セレガ JRバス関東(補助席あり)
+Hino_SELEGA_JRBUSKANTO_BlueSwallow(SpareSeat)
+日野セレガ JRバス関東(復刻青いつばめ/補助席あり)
+Hino_SELEGA_JRBUSKANTO_RedSwallow(SpareSeat)
+日野セレガ JRバス関東(復刻赤いつばめ/補助席あり)
+Hino_SELEGA_JRTokaiBUS
+日野セレガ JR東海バス
+Hino_SELEGA_JRTokaiBUS(Blue_roof_type)
+日野セレガ JR東海バス(青屋根)
+Hino_SELEGA_JRBUSTEC(Swallow_Express)
+三菱ふそうエアロエース JRバステック(Swallow Express)
+Hino_SELEGA_NISHINIHONJRBUS
+日野セレガ 西日本JRバス(3列車)
+Hino_SELEGA_NISHINIHONJRBUS(eco)
+日野セレガ 西日本JRバス(4列車)
+Hino_SELEGA_GranDream
+日野セレガ JRバス関東/西日本JRバス(グランドリーム)
+Premium_seat3
+プレミアムシート3席
+Premium_seat4
+プレミアムシート4席
+Super_seat29
+スーパーシート29席
+Super_seat20
+スーパーシート20席
+Business_seat6
+ビジネスシート6席
+Cradle_seat28
+クレードルシート28席
+Ps_passenger
+人
+Ss_passenger
+人
+Bs_passenger
+人

@@ -392,6 +392,20 @@ np-ind-parking-03-25
 駐車場３
 np-ind-parking-04-30
 駐車場４
+#___________________________________building(mon)_______________________________
+#___________________________________building(mon)_______________________________
+np-mon-giant-mannequin
+巨大なマネキン
+np-mon-giant-saw
+巨大なノコギリ
+np-mon-giant-spider
+巨大なクモのオブジェ
+np-mon-rubber-duck
+ラバーダック
+np-mon-statue-of-faithful-dog
+忠犬像
+np-mon-statue-of-owl
+ふくろうの像
 #___________________________________building(res)_______________________________
 #___________________________________building(res)_______________________________
 np-res-a-01-01
@@ -1496,12 +1510,34 @@ np-construction-fence-miscway
 工事用フェンス
 np-dart-road
 未舗装の道路
-np-elevated-concrete-sleeper-track
-高規格高架線路
-np-elevated-concrete-sleeper-track-center
-高規格高架線路（中央）
-np-elevated-highway
-高速高架道路
+np-highwayA
+高速道路 タイプA
+np-highwayB
+高速道路 タイプB
+np-elevatedA-highway
+高架高速道路 タイプA
+np-elevatedB-highway
+高架高速道路 タイプB
+np-elevatedB-highway-under
+高架高速道路下層部 タイプA
+np-elevatedA-highway-under
+高架高速道路下層部 タイプB
+np-two-lane-highwayA
+片道1車線高速道路 タイプA
+np-two-lane-highwayB
+片道1車線高速道路 タイプB
+np-elevatedA-two-lane-highway
+片道1車線高架高速道路 タイプA
+np-elevatedB-two-lane-highway
+片道1車線高架高速道路 タイプB
+np-elevatedA-two-lane-highway-Under
+片道1車線高架高速道路下層部 タイプA
+np-elevatedB-two-lane-highway-Under
+片道1車線高架高速道路下層部 タイプB
+np-yard-road
+ヤード内道路
+np-one-lane-road-w-hedge
+敷地内道路
 np-elevated-monorail
 モノレール高架軌道
 np-elevated-slab-track
