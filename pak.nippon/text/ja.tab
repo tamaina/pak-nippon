@@ -152,6 +152,8 @@ np-com-t-05-09
 古い商店５
 #___________________________________building(cur)_______________________________
 #___________________________________building(cur)_______________________________
+np-cur-amusement-park
+遊園地
 np-cur-baseballfield
 野球場
 np-cur-castle-1
@@ -1606,6 +1608,8 @@ city_border_slope_non_ex_front
 末端パーツ手前
 city_border_slope_non_ex_back
 末端パーツ奥
+Taks_Road_Tram_Rail
+ロードトラムレール
 #__________________________________way-object___________________________________
 #__________________________________way-object___________________________________
 np-high-speed-overheadpower
