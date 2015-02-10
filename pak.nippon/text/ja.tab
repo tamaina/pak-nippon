@@ -1526,6 +1526,10 @@ np-elevatedA-highway
 高架高速道路 タイプA
 np-elevatedB-highway
 高架高速道路 タイプB
+np-elevated-noPierA-highway
+橋脚なし高架高速道路 タイプA
+np-elevated-noPierB-highway
+橋脚なし高架高速道路 タイプB
 np-elevatedB-highway-under
 高架高速道路下層部 タイプA
 np-elevatedA-highway-under
