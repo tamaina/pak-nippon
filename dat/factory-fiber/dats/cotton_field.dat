@@ -1,7 +1,0 @@
-Obj=field
-name=cotton_field
-Image[0]=dirt_field.0.0 # winter
-Image[1]=cotton_field.0.0 # spring
-Image[2]=cotton_field.0.1 # summer
-Image[3]=cotton_field.0.2 # fall
-Image[4]=snow_field.0.0 # snow (has_snow=1)

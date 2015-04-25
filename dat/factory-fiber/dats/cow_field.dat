@@ -1,4 +1,0 @@
-Obj=field
-name=cow_field
-Image[0]=cow_field.0.0 # winter
-Image[1]=snow_field.0.0 # snow (has_snow=1)
