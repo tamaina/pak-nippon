@@ -244,7 +244,7 @@ cost_transformer=2500
 cost_maintain_transformer=1000
 
 # unlimited bridges and tunnels
-way_max_bridge_len = 15
+way_max_bridge_len = 4
 
 
 ###################################time stuff###################################
@@ -337,3 +337,11 @@ bits_per_month=23
 show_month=5
 straight_way_without_control=1
 only_single_info=1
+############################################################################
+way_straight = 100
+way_curve = 2
+way_double_curve = 6
+way_90_curve = 15
+way_slope = 10
+way_tunnel = 8
+way_leaving_road = 25

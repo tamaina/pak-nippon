@@ -526,19 +526,21 @@ toolbar[10][20]=general_tool[9]						#新しい町をつくる
 #-----------------------------------------------------------
 toolbar[11][0]=general_tool[10],89,,+100	#都市の人口を100増やす
 toolbar[11][1]=general_tool[10],90,,-100	#都市の人口を100減らす
-toolbar[11][2]=general_tool[9]						#新しい町をつくる
-toolbar[11][3]=general_tool[36],91,,			#市道を建設する
-toolbar[11][4]=simple_tool[3]							#産業チェーンを追加する
-toolbar[11][5]=dialog_tool[20]						#産業施設建設ツール
-toolbar[11][6]=general_tool[26]						#産業チェーンをつなぐ
-toolbar[11][7]=dialog_tool[21]						#ランドマーク建設ツール
-toolbar[11][8]=dialog_tool[22]						#市内建築物建設ツール
-toolbar[11][9]=dialog_tool[23]						#植樹ツール
-toolbar[11][10]=general_tool[11]					#木を植える
-toolbar[11][11]=general_tool[30]					#森をつくる
-toolbar[11][12]=simple_tool[6]						#1年進める
-toolbar[11][13]=dialog_tool[24]						#マップサイズ拡張ツール
-toolbar[11][14]=general_tool[28]					#プレイヤー変更の禁止
+toolbar[11][2]=general_tool[10],89,,+5000	#都市の人口を5000増やす
+toolbar[11][3]=general_tool[10],90,,-5000	#都市の人口を5000減らす
+toolbar[11][4]=general_tool[9]						#新しい町をつくる
+toolbar[11][5]=general_tool[36],91,,			#市道を建設する
+toolbar[11][6]=simple_tool[3]							#産業チェーンを追加する
+toolbar[11][7]=dialog_tool[20]						#産業施設建設ツール
+toolbar[11][8]=general_tool[26]						#産業チェーンをつなぐ
+toolbar[11][9]=dialog_tool[21]						#ランドマーク建設ツール
+toolbar[11][10]=dialog_tool[22]						#市内建築物建設ツール
+toolbar[11][11]=dialog_tool[23]						#植樹ツール
+toolbar[11][12]=general_tool[11]					#木を植える
+toolbar[11][13]=general_tool[30]					#森をつくる
+toolbar[11][14]=simple_tool[6]						#1年進める
+toolbar[11][15]=dialog_tool[24]						#マップサイズ拡張ツール
+toolbar[11][16]=general_tool[28]					#プレイヤー変更の禁止
 
 # list tools - 一覧表
 #-----------------------------------------------------------
@@ -711,7 +713,8 @@ toolbar[38][1]=general_tool[33],80,,3			#付帯構造物の撤去
 toolbar[39][0]=buildings(33,3)						#ドック
 toolbar[39][1]=buildings(34,3)						#港
 toolbar[39][2]=buildings(11,3)						#港
-toolbar[39][3]=buildings(35,3)						#港（倉庫）
+toolbar[39][3]=buildings(36,3)                      #湖用港
+toolbar[39][4]=buildings(35,3)						#港（倉庫）
 
 #Signal tools(Ship) - （船舶系）信号ツール
 #-----------------------------------------------------------
