@@ -1,0 +1,84 @@
+%resource "mon"
+copyright=wa
+type=mon
+passengers=60
+---
+obj=building
+name=np-mon-statue-of-faithful-dog
+%include "mon"
+climates=temperate
+
+%def :image, "faithful-dog.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-giant-spider
+%include "mon"
+climates=tundra,rocky,arctic
+
+%def :image, "giant-spider.0.0"
+%buil_image 1, 1, 1, 1, 2
+---
+obj=building
+name=np-mon-giant-saw
+%include "mon"
+climates=mediterran
+
+%def :image, "giant-saw.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-rubber-duck
+%include "mon"
+climates=water,desert,tropic
+
+%def :image, "rubber-duck.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-giant-mannequin
+%include "mon"
+climates=temperate
+
+%def :image, "mannequin.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-statue-of-owl
+%include "mon"
+climates=tundra,rocky,arctic
+
+%def :image, "owl.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-statue-of-a-politician
+%include "mon"
+climates=tundra,rocky,arctic
+
+%def :image, "politician.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-equestrian-statue
+%include "mon"
+climates=mediterran
+
+%def :image, "equestrian.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-statue-of-a-politician-2
+%include "mon"
+climates=mediterran
+
+%def :image, "politician-2.0.0"
+%buil_image 1, 1, 1, 4, 2
+---
+obj=building
+name=np-mon-mokumoku
+%include "mon"
+climates=temperate
+
+%def :image, "mokumoku.0.0"
+%buil_image 1, 1, 1, 2, 2
