@@ -23,29 +23,6 @@
 
 参照: [SourceForge / simutrans / Code](http://sourceforge.net/p/simutrans/code/HEAD/tree/pak64/)
 
-
-###713氏が作成されたファイルについて
-
-以下のファイルは713氏が作成された「Suburban stores/ 郊外店セット」に由来するファイルです。
-利用条件はpak.nippon\license\suburbanstores_readme.txtを参照してください。
-
-- dat\factory\bookoff.png
-- dat\factory\matsukiyo.png
-- dat\factory\nitori.png
-
-参照: [Addon128/Buildings02 - Simutrans日本語化･解説](http://japanese.simutrans.com/index.php?Addon128%2FBuildings02)
-
-###りむ氏が作成されたファイルについて
-
-以下のファイルはりむ氏が作成された「日本風左側通行信号機セット」に由来するファイルです。
-利用条件はpak.nippon\license\JpLeftSignais_readme.txtを参照してください。
-
-- dat\signal\Signals.png
-- dat\signal\roadsign.np-monorail.dat (roadsign.monorail-signals.datより改変)
-- dat\signal\roadsign.np-rail.dat (roadsign.railsignals.datより改変)
-
-参照: [アドオン/railtool - Simutrans日本語化･解説](http://japanese.simutrans.com/index.php?%A5%A2%A5%C9%A5%AA%A5%F3%2Frailtool)
-
 ###市区町村一覧について
 
 pak.nippon\text\citylist_ja.txtには、e-Statから取得した2013年8月1日時点での日本の市区町村一覧が含まれています。

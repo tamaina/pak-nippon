@@ -1,5 +1,576 @@
 §###############################################未使用多し
 #################################################無駄にあります
+################################################################################
+###-------- アルストム：AGV　---------###
+Type-AGV-color1(7cars)(300kph)
+AGV(7両連接)：プレイヤーカラー1 ※最高300km/h
+Type-AGV-color1(8cars)(300kph)
+AGV(8両連接)：プレイヤーカラー1 ※最高300km/h
+Type-AGV-color1(10cars)(300kph)
+AGV(10両連接)：プレイヤーカラー1 ※最高300km/h
+Type-AGV-color1(10cars)(320kph)
+AGV(10両連接)：プレイヤーカラー1 ※最高320km/h
+Type-AGV-color1(11cars)(300kph)
+AGV(11両連接)：プレイヤーカラー1 ※最高300km/h
+Type-AGV-color1(11cars)(360kph)
+AGV(11両連接)：プレイヤーカラー1 ※最高360km/h
+Type-AGV-color1(14cars)(300kph)
+AGV(14両連接)：プレイヤーカラー1 ※最高300km/h
+Type-AGV-color1(14cars)(360kph)
+AGV(14両連接)：プレイヤーカラー1 ※最高360km/h
+Type-AGV-color2(7cars)(300kph)
+AGV(7両連接)：プレイヤーカラー2 ※最高300km/h
+Type-AGV-color2(8cars)(300kph)
+AGV(8両連接)：プレイヤーカラー2 ※最高300km/h
+Type-AGV-color2(10cars)(300kph)
+AGV(10両連接)：プレイヤーカラー2 ※最高300km/h
+Type-AGV-color2(10cars)(320kph)
+AGV(10両連接)：プレイヤーカラー2 ※最高320km/h
+Type-AGV-color2(11cars)(300kph)
+AGV(11両連接)：プレイヤーカラー2 ※最高300km/h
+Type-AGV-color2(11cars)(360kph)
+AGV(11両連接)：プレイヤーカラー2 ※最高360km/h
+Type-AGV-color2(14cars)(300kph)
+AGV(14両連接)：プレイヤーカラー2 ※最高300km/h
+Type-AGV-color2(14cars)(360kph)
+AGV(14両連接)：プレイヤーカラー2 ※最高360km/h
+###-------- シーメンス：Velaro　---------###
+Type-Velaro-type1-color1(8cars)(300kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Velaro-type1-color1(8cars)(350kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Velaro-type1-color1(8cars)(380kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Velaro-type1-color1(16cars)(300kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Velaro-type1-color1(16cars)(350kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Velaro-type1-color1(16cars)(380kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Velaro-type1-color2(8cars)(300kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Velaro-type1-color2(8cars)(350kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Velaro-type1-color2(8cars)(380kph)
+Velaro・タイプ1(8両編成)：プレイヤーカラー2 ※最高380km/h
+Type-Velaro-type1-color2(16cars)(300kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Velaro-type1-color2(16cars)(350kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Velaro-type1-color2(16cars)(380kph)
+Velaro・タイプ1(16両編成)：プレイヤーカラー2 ※最高380km/h
+Type-Velaro-type2-color1(8cars)(300kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Velaro-type2-color1(8cars)(350kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Velaro-type2-color1(8cars)(380kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Velaro-type2-color1(16cars)(300kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Velaro-type2-color1(16cars)(350kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Velaro-type2-color1(16cars)(380kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Velaro-type2-color2(8cars)(300kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Velaro-type2-color2(8cars)(350kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Velaro-type2-color2(8cars)(380kph)
+Velaro・タイプ2(8両編成)：プレイヤーカラー2 ※最高380km/h
+Type-Velaro-type2-color2(16cars)(300kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Velaro-type2-color2(16cars)(350kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Velaro-type2-color2(16cars)(380kph)
+Velaro・タイプ2(16両編成)：プレイヤーカラー2 ※最高380km/h
+###-------- ボンバルディア：Zefiro　---------###
+Type-Zefiro-typeZefiro380-color1(8cars)(300kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Zefiro-typeZefiro380-color1(8cars)(350kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Zefiro-typeZefiro380-color1(8cars)(380kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Zefiro-typeZefiro380-color1(16cars)(300kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー1 ※最高300km/h
+Type-Zefiro-typeZefiro380-color1(16cars)(350kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー1 ※最高350km/h
+Type-Zefiro-typeZefiro380-color1(16cars)(380kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー1 ※最高380km/h
+Type-Zefiro-typeZefiro380-color2(8cars)(300kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Zefiro-typeZefiro380-color2(8cars)(350kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Zefiro-typeZefiro380-color2(8cars)(380kph)
+Zefiro・タイプZefiro380(8両編成)：プレイヤーカラー2 ※最高380km/h
+Type-Zefiro-typeZefiro380-color2(16cars)(300kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー2 ※最高300km/h
+Type-Zefiro-typeZefiro380-color2(16cars)(350kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー2 ※最高350km/h
+Type-Zefiro-typeZefiro380-color2(16cars)(380kph)
+Zefiro・タイプZefiro380(16両編成)：プレイヤーカラー2 ※最高380km/h
+###-------- 川崎重工業：efSET　---------###
+Type-efSET-color1(8cars)(300kph)
+efSET(8両編成)：プレイヤーカラー1 ※最高300km/h
+Type-efSET-color1(8cars)(350kph)
+efSET(8両編成)：プレイヤーカラー1 ※最高350km/h
+Type-efSET-color2(8cars)(300kph)
+efSET(8両編成)：プレイヤーカラー2 ※最高300km/h
+Type-efSET-color2(8cars)(350kph)
+efSET(8両編成)：プレイヤーカラー2 ※最高350km/h
+###-------- アルストム：TGV　---------###
+Type-TGV-type1-color1A(10cars)(270kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1A ※最高270km/h
+Type-TGV-type1-color1A(10cars)(300kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type1-color1A(10cars)(320kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type1-color1A(12cars)(270kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1A ※最高270km/h
+Type-TGV-type1-color1A(12cars)(300kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type1-color1A(12cars)(320kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type1-color1A(20cars)(300kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type1-color1A(20cars)(320kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type2-color1A(10cars)(300kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type2-color1A(10cars)(320kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type2-color1A(12cars)(300kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type2-color1A(12cars)(320kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type2-color1A(20cars)(300kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー1A ※最高300km/h
+Type-TGV-type2-color1A(20cars)(320kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー1A ※最高320km/h
+Type-TGV-type1-color1B(10cars)(270kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1B ※最高270km/h
+Type-TGV-type1-color1B(10cars)(300kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type1-color1B(10cars)(320kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type1-color1B(12cars)(270kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1B ※最高270km/h
+Type-TGV-type1-color1B(12cars)(300kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type1-color1B(12cars)(320kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type1-color1B(20cars)(300kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type1-color1B(20cars)(320kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type2-color1B(10cars)(300kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type2-color1B(10cars)(320kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type2-color1B(12cars)(300kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type2-color1B(12cars)(320kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type2-color1B(20cars)(300kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー1B ※最高300km/h
+Type-TGV-type2-color1B(20cars)(320kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー1B ※最高320km/h
+Type-TGV-type1-color2A(10cars)(270kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2A ※最高270km/h
+Type-TGV-type1-color2A(10cars)(300kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type1-color2A(10cars)(320kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type1-color2A(12cars)(270kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2A ※最高270km/h
+Type-TGV-type1-color2A(12cars)(300kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type1-color2A(12cars)(320kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type1-color2A(20cars)(300kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type1-color2A(20cars)(320kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type2-color2A(10cars)(300kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type2-color2A(10cars)(320kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type2-color2A(12cars)(300kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type2-color2A(12cars)(320kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type2-color2A(20cars)(300kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー2A ※最高300km/h
+Type-TGV-type2-color2A(20cars)(320kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー2A ※最高320km/h
+Type-TGV-type1-color2B(10cars)(270kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2B ※最高270km/h
+Type-TGV-type1-color2B(10cars)(300kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type1-color2B(10cars)(320kph)
+TGV・タイプ1(10両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-type1-color2B(12cars)(270kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2B ※最高270km/h
+Type-TGV-type1-color2B(12cars)(300kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type1-color2B(12cars)(320kph)
+TGV・タイプ1(12両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-type1-color2B(20cars)(300kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type1-color2B(20cars)(320kph)
+TGV・タイプ1(20両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-type2-color2B(10cars)(300kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type2-color2B(10cars)(320kph)
+TGV・タイプ2(10両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-type2-color2B(12cars)(300kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type2-color2B(12cars)(320kph)
+TGV・タイプ2(12両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-type2-color2B(20cars)(300kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー2B ※最高300km/h
+Type-TGV-type2-color2B(20cars)(320kph)
+TGV・タイプ2(20両編成)：プレイヤーカラー2B ※最高320km/h
+Type-TGV-typeDuplex-color1(10cars)(300kph)
+TGV・タイプDuplex(10両編成)：プレイヤーカラー1 ※最高300km/h
+Type-TGV-typeDuplex-color1(10cars)(320kph)
+TGV・タイプDuplex(10両編成)：プレイヤーカラー1 ※最高320km/h
+Type-TGV-typeDuplex-color2(10cars)(300kph)
+TGV・タイプDuplex(10両編成)：プレイヤーカラー2 ※最高300km/h
+Type-TGV-typeDuplex-color2(10cars)(320kph)
+TGV・タイプDuplex(10両編成)：プレイヤーカラー2 ※最高320km/h
+###-------- 日本車輌、汽車会社、日立製作所など：0系　---------###
+Type-0-color1(4cars)(210kph)
+0系(4両編成)：プレイヤーカラー1 ※最高210km/h
+Type-0-color1(4cars)(220kph)
+0系(4両編成)：プレイヤーカラー1 ※最高220km/h
+Type-0-color1(6cars)(210kph)
+0系(6両編成)：プレイヤーカラー1 ※最高210km/h
+Type-0-color1(6cars)(220kph)
+0系(6両編成)：プレイヤーカラー1 ※最高220km/h
+Type-0-color1(12cars)(210kph)
+0系(12両編成)：プレイヤーカラー1 ※最高210km/h
+Type-0-color1(12cars)(220kph)
+0系(12両編成)：プレイヤーカラー1 ※最高220km/h
+Type-0-color1(16cars)(210kph)
+0系(16両編成)：プレイヤーカラー1 ※最高210km/h
+Type-0-color1(16cars)(220kph)
+0系(16両編成)：プレイヤーカラー1 ※最高220km/h
+Type-0-color2(4cars)(210kph)
+0系(4両編成)：プレイヤーカラー2 ※最高210km/h
+Type-0-color2(4cars)(220kph)
+0系(4両編成)：プレイヤーカラー2 ※最高220km/h
+Type-0-color2(6cars)(210kph)
+0系(6両編成)：プレイヤーカラー2 ※最高210km/h
+Type-0-color2(6cars)(220kph)
+0系(6両編成)：プレイヤーカラー2 ※最高220km/h
+Type-0-color2(12cars)(210kph)
+0系(12両編成)：プレイヤーカラー2 ※最高210km/h
+Type-0-color2(12cars)(220kph)
+0系(12両編成)：プレイヤーカラー2 ※最高220km/h
+Type-0-color2(16cars)(210kph)
+0系(16両編成)：プレイヤーカラー2 ※最高210km/h
+Type-0-color2(16cars)(220kph)
+0系(16両編成)：プレイヤーカラー2 ※最高220km/h
+###-------- CAF：CAF高速鉄道車両　---------###
+Type-CAF_HighSpeedTrain-color1(4cars)(220kph)
+CAF高速鉄道車両(4両編成)：プレイヤーカラー1 ※最高220km/h
+Type-CAF_HighSpeedTrain-color1(4cars)(250kph)
+CAF高速鉄道車両(4両編成)：プレイヤーカラー1 ※最高250km/h
+Type-CAF_HighSpeedTrain-color1(6cars)(220kph)
+CAF高速鉄道車両(6両編成)：プレイヤーカラー1 ※最高220km/h
+Type-CAF_HighSpeedTrain-color1(6cars)(250kph)
+CAF高速鉄道車両(6両編成)：プレイヤーカラー1 ※最高250km/h
+Type-CAF_HighSpeedTrain-color2(4cars)(220kph)
+CAF高速鉄道車両(4両編成)：プレイヤーカラー2 ※最高220km/h
+Type-CAF_HighSpeedTrain-color2(4cars)(250kph)
+CAF高速鉄道車両(4両編成)：プレイヤーカラー2 ※最高250km/h
+Type-CAF_HighSpeedTrain-color2(6cars)(220kph)
+CAF高速鉄道車両(6両編成)：プレイヤーカラー2 ※最高220km/h
+Type-CAF_HighSpeedTrain-color2(6cars)(250kph)
+CAF高速鉄道車両(6両編成)：プレイヤーカラー2 ※最高250km/h
+###-------- ボンバルディア＆タルゴ：タルゴ　---------###
+Type-Talgo-typeTalgo250-color1(13cars)(220kph)(1st_2nd)
+Talgo・タイプTalgo250(11<13>両編成)：プレイヤーカラー1 ※最高220km/h
+Type-Talgo-typeTalgo250-color1(13cars)(250kph)(1st_2nd)
+Talgo・タイプTalgo250(11<13>両編成)：プレイヤーカラー1 ※最高250km/h
+Type-Talgo-typeTalgo250-color2(13cars)(220kph)(1st_2nd)
+Talgo・タイプTalgo250(11<13>両編成)：プレイヤーカラー2 ※最高220km/h
+Type-Talgo-typeTalgo250-color2(13cars)(250kph)(1st_2nd)
+Talgo・タイプTalgo250(11<13>両編成)：プレイヤーカラー2 ※最高250km/h
+###-------- フィアット⇒アルストム：ペンドリーノ　---------###
+Type-Pendolino-typeETR460-color1A(3cars)(220kph)
+ペンドリーノ・ETR460タイプ(3両編成)：プレイヤーカラー1A ※最高220km/h
+Type-Pendolino-typeETR460-color1A(4cars)(220kph)
+ペンドリーノ・ETR460タイプ(4両編成)：プレイヤーカラー1A ※最高220km/h
+Type-Pendolino-typeETR460-color1A(4cars)(250kph)
+ペンドリーノ・ETR460タイプ(4両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeETR460-color1A(6cars)(220kph)
+ペンドリーノ・ETR460タイプ(6両編成)：プレイヤーカラー1A ※最高220km/h
+Type-Pendolino-typeETR460-color1A(6cars)(250kph)
+ペンドリーノ・ETR460タイプ(6両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeETR460-color1A(7cars)(220kph)
+ペンドリーノ・ETR460タイプ(7両編成)：プレイヤーカラー1A ※最高220km/h
+Type-Pendolino-typeETR460-color1A(7cars)(250kph)
+ペンドリーノ・ETR460タイプ(7両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeETR460-color1A(9cars)(220kph)
+ペンドリーノ・ETR460タイプ(9両編成)：プレイヤーカラー1A ※最高220km/h
+Type-Pendolino-typeETR460-color1A(9cars)(250kph)
+ペンドリーノ・ETR460タイプ(9両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeETR460-color1B(3cars)(220kph)
+ペンドリーノ・ETR460タイプ(3両編成)：プレイヤーカラー1B ※最高220km/h
+Type-Pendolino-typeETR460-color1B(4cars)(220kph)
+ペンドリーノ・ETR460タイプ(4両編成)：プレイヤーカラー1B ※最高220km/h
+Type-Pendolino-typeETR460-color1B(4cars)(250kph)
+ペンドリーノ・ETR460タイプ(4両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeETR460-color1B(6cars)(220kph)
+ペンドリーノ・ETR460タイプ(6両編成)：プレイヤーカラー1B ※最高220km/h
+Type-Pendolino-typeETR460-color1B(6cars)(250kph)
+ペンドリーノ・ETR460タイプ(6両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeETR460-color1B(7cars)(220kph)
+ペンドリーノ・ETR460タイプ(7両編成)：プレイヤーカラー1B ※最高220km/h
+Type-Pendolino-typeETR460-color1B(7cars)(250kph)
+ペンドリーノ・ETR460タイプ(7両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeETR460-color1B(9cars)(220kph)
+ペンドリーノ・ETR460タイプ(9両編成)：プレイヤーカラー1B ※最高220km/h
+Type-Pendolino-typeETR460-color1B(9cars)(250kph)
+ペンドリーノ・ETR460タイプ(9両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeNew-color1A(4cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(4両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeNew-color1A(7cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(7両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeNew-color1A(8cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(8両編成)：プレイヤーカラー1A ※最高250km/h
+Type-Pendolino-typeNew-color1B(4cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(4両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeNew-color1B(7cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(7両編成)：プレイヤーカラー1B ※最高250km/h
+Type-Pendolino-typeNew-color1B(8cars)(250kph)
+ペンドリーノ・ニューペンドリーノタイプ(8両編成)：プレイヤーカラー1B ※最高250km/h
+##----TEP70タイプ(旅客用)------##
+DL-TEP70_Passenger-Color1
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー①
+DL-TEP70_Passenger-JNR
+ディーゼル機関車・TEP70タイプ(旅客用)：日本国鉄色
+DL-TEP70_Passenger-Color2
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー②
+DL-TEP70_Passenger-Color3
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー③
+DL-TEP70_Passenger-Color4
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー④
+DL-TEP70_Passenger-Color5
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー⑤
+DL-TEP70_Passenger-Color6
+ディーゼル機関車・TEP70タイプ(旅客用)：カラー⑥
+##----M62タイプ------##
+DL-M62-Color1
+ディーゼル機関車・M62タイプ：カラー①
+DL-M62-JNR
+ディーゼル機関車・M62タイプ：日本国鉄色
+DL-M62-Color2
+ディーゼル機関車・M62タイプ：カラー②
+DL-M62-Color3
+ディーゼル機関車・M62タイプ：カラー③
+DL-M62-Color4
+ディーゼル機関車・M62タイプ：カラー④
+DL-M62-Color5
+ディーゼル機関車・M62タイプ：カラー⑤
+##------SD70Mタイプ------##
+DL-Hood-SD70M_front-Color1
+ディーゼル機関車・SD70Mタイプ・前方：カラー①
+DL-Hood-SD70M_back-Color1
+ディーゼル機関車・SD70Mタイプ・後方：カラー①
+DL-Hood-SD70M_front-JNR
+ディーゼル機関車・SD70Mタイプ・前方：日本国鉄色
+DL-Hood-SD70M_back-JNR
+ディーゼル機関車・SD70Mタイプ・後方：日本国鉄色
+DL-Hood-SD70M_front-Color2
+ディーゼル機関車・SD70Mタイプ・前方：カラー②
+DL-Hood-SD70M_back-Color2
+ディーゼル機関車・SD70Mタイプ・後方：カラー②
+DL-Hood-SD70M_front-Color3
+ディーゼル機関車・SD70Mタイプ・前方：カラー③
+DL-Hood-SD70M_back-Color3
+ディーゼル機関車・SD70Mタイプ・後方：カラー③
+DL-Hood-SD70M_front-Color4
+ディーゼル機関車・SD70Mタイプ・前方：カラー④
+DL-Hood-SD70M_back-Color4
+ディーゼル機関車・SD70Mタイプ・後方：カラー④
+##------SD40-2タイプ------##
+DL-Hood-SD40-2_front-Color1
+ディーゼル機関車・SD40-2タイプ・前方：カラー①
+DL-Hood-SD40-2_back-Color1
+ディーゼル機関車・SD40-2タイプ・後方：カラー①
+DL-Hood-SD40-2_front-JNR
+ディーゼル機関車・SD40-2タイプ・前方：日本国鉄色
+DL-Hood-SD40-2_back-JNR
+ディーゼル機関車・SD40-2タイプ・後方：日本国鉄色
+DL-Hood-SD40-2_front-Color2
+ディーゼル機関車・SD40-2タイプ・前方：カラー②
+DL-Hood-SD40-2_back-Color2
+ディーゼル機関車・SD40-2タイプ・後方：カラー②
+DL-Hood-SD40-2_front-Color3
+ディーゼル機関車・SD40-2タイプ・前方：カラー③
+DL-Hood-SD40-2_back-Color3
+ディーゼル機関車・SD40-2タイプ・後方：カラー③
+DL-Hood-SD40-2_front-Color4
+ディーゼル機関車・SD40-2タイプ・前方：カラー④
+DL-Hood-SD40-2_back-Color4
+ディーゼル機関車・SD40-2タイプ・後方：カラー④
+##------Dash 8-40CWタイプ<大型車体>------##
+DL_Big-Dash_8-40CW_front-Color1
+ディーゼル機関車・Dash 8-40CWタイプ・前方<大型車体>：カラー①
+DL_Big-Dash_8-40CW_back-Color1
+ディーゼル機関車・Dash 8-40CWタイプ・後方<大型車体>：カラー①
+DL_Big-Dash_8-40CW_front-JRF
+ディーゼル機関車・Dash 8-40CWタイプ・前方<大型車体>：JR貨物色
+DL_Big-Dash_8-40CW_back-JRF
+ディーゼル機関車・Dash 8-40CWタイプ・後方<大型車体>：JR貨物色
+DL_Big-Dash_8-40CW_front-Color2
+ディーゼル機関車・Dash 8-40CWタイプ・前方<大型車体>：カラー②
+DL_Big-Dash_8-40CW_back-Color2
+ディーゼル機関車・Dash 8-40CWタイプ・後方<大型車体>：カラー②
+DL_Big-Dash_8-40CW_front-Color3
+ディーゼル機関車・Dash 8-40CWタイプ・前方<大型車体>：カラー③
+DL_Big-Dash_8-40CW_back-Color3
+ディーゼル機関車・Dash 8-40CWタイプ・後方<大型車体>：カラー③
+DL_Big-Dash_8-40CW_front-Color4
+ディーゼル機関車・Dash 8-40CWタイプ・前方<大型車体>：カラー④
+DL_Big-Dash_8-40CW_back-Color4
+ディーゼル機関車・Dash 8-40CWタイプ・後方<大型車体>：カラー④
+##------Class66タイプ------##
+DL-Class66-Color1
+ディーゼル機関車・Class66タイプ：カラー①
+DL-Class66-JRF
+ディーゼル機関車・Class66タイプ：JR貨物色
+DL-Class66-Color2
+ディーゼル機関車・Class66タイプ：カラー②
+DL-Class66-Color3
+ディーゼル機関車・Class66タイプ：カラー③
+DL-Class66-Color4
+ディーゼル機関車・Class66タイプ：カラー④
+DL-Class66-Color5
+ディーゼル機関車・Class66タイプ：カラー⑤
+##------2TE116タイプ<大型車体>------##
+DL_Big-2TE116(front)-Color1
+ディーゼル機関車・2TE116タイプ(前方)<大型車体>：カラー①
+DL_Big-2TE116(back)-Color1
+ディーゼル機関車・2TE116タイプ(後方)<大型車体>：カラー①
+DL_Big-2TE116(front)-JNR
+ディーゼル機関車・2TE116タイプ(前方)<大型車体>：日本国鉄色
+DL_Big-2TE116(back)-JNR
+ディーゼル機関車・2TE116タイプ(後方)<大型車体>：日本国鉄色
+DL_Big-2TE116(front)-Color2
+ディーゼル機関車・2TE116タイプ(前方)<大型車体>：カラー②
+DL_Big-2TE116(back)-Color2
+ディーゼル機関車・2TE116タイプ(後方)<大型車体>：カラー②
+DL_Big-2TE116(front)-Color3
+ディーゼル機関車・2TE116タイプ(前方)<大型車体>：カラー③
+DL_Big-2TE116(back)-Color3
+ディーゼル機関車・2TE116タイプ(後方)<大型車体>：カラー③
+DL_Big-2TE116(front)-Color4
+ディーゼル機関車・2TE116タイプ(前方)<大型車体>：カラー④
+DL_Big-2TE116(back)-Color4
+ディーゼル機関車・2TE116タイプ(後方)<大型車体>：カラー④
+##------2M62タイプ------##
+DL-2M62(front)-Color1
+ディーゼル機関車・2M62タイプ(前方)：カラー①
+DL-2M62(back)-Color1
+ディーゼル機関車・2M62タイプ(後方)：カラー①
+DL-2M62(front)-JNR
+ディーゼル機関車・2M62タイプ(前方)：日本国鉄色
+DL-2M62(back)-JNR
+ディーゼル機関車・2M62タイプ(後方)：日本国鉄色
+DL-2M62(front)-Color2
+ディーゼル機関車・2M62タイプ(前方)：カラー②
+DL-2M62(back)-Color2
+ディーゼル機関車・2M62タイプ(後方)：カラー②
+DL-2M62(front)-Color3
+ディーゼル機関車・2M62タイプ(前方)：カラー③
+DL-2M62(back)-Color3
+ディーゼル機関車・2M62タイプ(後方)：カラー③
+##------P42DCタイプ(旅客用)<大型車体>------##
+DL_Big-P42DC_Passenger_front-Color1
+ディーゼル機関車・P42DCタイプ・前方(旅客用)<大型車体>：カラー①
+DL_Big-P42DC_Passenger_back-Color1
+ディーゼル機関車・P42DCタイプ・後方(旅客用)<大型車体>：カラー①
+DL_Big-P42DC_Passenger_front-JR_BlueTrain
+ディーゼル機関車・P42DCタイプ・前方(旅客用)<大型車体>：北斗星色
+DL_Big-P42DC_Passenger_back-JR_BlueTrain
+ディーゼル機関車・P42DCタイプ・後方(旅客用)<大型車体>：北斗星色
+DL_Big-P42DC_Passenger_front-Color2
+ディーゼル機関車・P42DCタイプ・前方(旅客用)<大型車体>：カラー②
+DL_Big-P42DC_Passenger_back-Color2
+ディーゼル機関車・P42DCタイプ・後方(旅客用)<大型車体>：カラー②
+DL_Big-P42DC_Passenger_front-Color3
+ディーゼル機関車・P42DCタイプ・前方(旅客用)<大型車体>：カラー③
+DL_Big-P42DC_Passenger_back-Color3
+ディーゼル機関車・P42DCタイプ・後方(旅客用)<大型車体>：カラー③
+##------FP45タイプ(旅客用)<大型車体>------##
+DL_Big-FP45_Passenger_front-Color1
+ディーゼル機関車・FP45タイプ・前方(旅客用)<大型車体>：カラー①
+DL_Big-FP45_Passenger_back-Color1
+ディーゼル機関車・FP45タイプ・後方(旅客用)<大型車体>：カラー①
+DL_Big-FP45_Passenger_front-JNR
+ディーゼル機関車・FP45タイプ・前方(旅客用)<大型車体>：日本国鉄色
+DL_Big-FP45_Passenger_back-JNR
+ディーゼル機関車・FP45タイプ・後方(旅客用)<大型車体>：日本国鉄色
+DL_Big-FP45_Passenger_front-Color2
+ディーゼル機関車・FP45タイプ・前方(旅客用)<大型車体>：カラー②
+DL_Big-FP45_Passenger_back-Color2
+ディーゼル機関車・FP45タイプ・後方(旅客用)<大型車体>：カラー②
+DL_Big-FP45_Passenger_front-Color3
+ディーゼル機関車・FP45タイプ・前方(旅客用)<大型車体>：カラー③
+DL_Big-FP45_Passenger_back-Color3
+ディーゼル機関車・FP45タイプ・後方(旅客用)<大型車体>：カラー③
+##------F40PHタイプ(旅客用)<大型車体>------##
+DL_Big-F40PH_Passenger_front-Color1
+ディーゼル機関車・F40PHタイプ・前方(旅客用)<大型車体>：カラー①
+DL_Big-F40PH_Passenger_back-Color1
+ディーゼル機関車・F40PHタイプ・後方(旅客用)<大型車体>：カラー①
+DL_Big-F40PH_Passenger_front-JNR
+ディーゼル機関車・F40PHタイプ・前方(旅客用)<大型車体>：日本国鉄色
+DL_Big-F40PH_Passenger_back-JNR
+ディーゼル機関車・F40PHタイプ・後方(旅客用)<大型車体>：日本国鉄色
+DL_Big-F40PH_Passenger_front-JR_BlueTrain
+ディーゼル機関車・F40PHタイプ・前方(旅客用)<大型車体>：北斗星色
+DL_Big-F40PH_Passenger_back-JR_BlueTrain
+ディーゼル機関車・F40PHタイプ・後方(旅客用)<大型車体>：北斗星色
+DL_Big-F40PH_Passenger_front-Color2
+ディーゼル機関車・F40PHタイプ・前方(旅客用)<大型車体>：カラー②
+DL_Big-F40PH_Passenger_back-Color2
+ディーゼル機関車・F40PHタイプ・後方(旅客用)<大型車体>：カラー②
+DL_Big-F40PH_Passenger_front-Color3
+ディーゼル機関車・F40PHタイプ・前方(旅客用)<大型車体>：カラー③
+DL_Big-F40PH_Passenger_back-Color3
+ディーゼル機関車・F40PHタイプ・後方(旅客用)<大型車体>：カラー③
+##------81Classタイプ<大型車体>------##
+DL_Big-81Class-Color1
+ディーゼル機関車・81Classタイプ<大型車体>：カラー①
+DL_Big-81Class-JNR
+ディーゼル機関車・81Classタイプ<大型車体>：日本国鉄色
+DL_Big-81Class-JRF
+ディーゼル機関車・81Classタイプ<大型車体>：JR貨物色
+DL_Big-81Class-Color2
+ディーゼル機関車・81Classタイプ<大型車体>：カラー②
+DL_Big-81Class-Color3
+ディーゼル機関車・81Classタイプ<大型車体>：カラー③
+DL_Big-81Class-Color4
+ディーゼル機関車・81Classタイプ<大型車体>：カラー④
+DL_Big-81Class-Color5
+ディーゼル機関車・81Classタイプ<大型車体>：カラー⑤
+##------82Classタイプ<大型車体>------##
+DL_Big-82Class-Color1
+ディーゼル機関車・82Classタイプ<大型車体>：カラー①
+DL_Big-82Class-JRF
+ディーゼル機関車・82Classタイプ<大型車体>：JR貨物色
+DL_Big-82Class-Color2
+ディーゼル機関車・82Classタイプ<大型車体>：カラー②
+DL_Big-82Class-Color3
+ディーゼル機関車・82Classタイプ<大型車体>：カラー③
+c_AdVision_V01
+箱積 ビジョン広告 動画 01
+c_AdVision_S01
+箱積 ビジョン広告 静止画 01
 #__________________________________追加アドオン用___________________________________
 #__________________________________追加アドオン用___________________________________
 danchi_B-slope
@@ -5982,6 +6553,1014 @@ JNR-Kokifu50000_Post-type1
 国鉄コキフ50000形<郵便：タイプ1>
 JNR-Kokifu50000_Post-type2
 国鉄コキフ50000形<郵便：タイプ2>
+###------　ホッパ車(TypeFC_Hopper)　-------###
+##---　小型(length=4)　---##
+TypeFC_Hopper_length4-Type1_PlayerColor1
+ホッパ車<ばら荷貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_Hopper_length4-Type2_PlayerColor1
+ホッパ車<ばら荷貨物>・小型・タイプ2：プレイヤーカラー1
+TypeFC_Hopper_length4-Type1_PlayerColor2
+ホッパ車<ばら荷貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_Hopper_length4-Type2_PlayerColor2
+ホッパ車<ばら荷貨物>・小型・タイプ2：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_Hopper_length6-Type1_PlayerColor1
+ホッパ車<ばら荷貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_Hopper_length6-Type2_PlayerColor1
+ホッパ車<ばら荷貨物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_Hopper_length6-Type3_PlayerColor1
+ホッパ車<ばら荷貨物>・中型・タイプ3：プレイヤーカラー1
+TypeFC_Hopper_length6-Type1_PlayerColor2
+ホッパ車<ばら荷貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_Hopper_length6-Type2_PlayerColor2
+ホッパ車<ばら荷貨物>・中型・タイプ2：プレイヤーカラー2
+TypeFC_Hopper_length6-Type3_PlayerColor2
+ホッパ車<ばら荷貨物>・中型・タイプ3：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_Hopper_length8-Type1_PlayerColor1
+ホッパ車<ばら荷貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_Hopper_length8-Type1_PlayerColor2
+ホッパ車<ばら荷貨物>・大型・タイプ1：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_Hopper_length10-Big-Type1_PlayerColor1
+ホッパ車<ばら荷貨物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_Hopper_length10-Big-Type1_PlayerColor2
+ホッパ車<ばら荷貨物>・超大型・タイプ1：プレイヤーカラー2
+###------　石油用タンク車(TypeFC_OilTankCar)　-------###
+##---　小型(length=4)　---##
+TypeFC_OilTankCar_length4-Type1_PlayerColor1-Black
+タンク車<石油>・小型：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length4-Type1_PlayerColor1-Silver
+タンク車<石油>・小型：銀(プレイヤーカラー1)
+TypeFC_OilTankCar_length4-Type1_PlayerColor1
+タンク車<石油>・小型：プレイヤーカラー1
+TypeFC_OilTankCar_length4-Type1_PlayerColor2-Black
+タンク車<石油>・小型：黒(プレイヤーカラー2)
+TypeFC_OilTankCar_length4-Type1_PlayerColor2-Silver
+タンク車<石油>・小型：銀(プレイヤーカラー2)
+TypeFC_OilTankCar_length4-Type1_PlayerColor2
+タンク車<石油>・小型：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_OilTankCar_length6-Type1_PlayerColor1-Black
+タンク車<石油>・中型：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length6-Type1_PlayerColor1-Silver
+タンク車<石油>・中型：銀(プレイヤーカラー1)
+TypeFC_OilTankCar_length6-Type1_PlayerColor1
+タンク車<石油>・中型：プレイヤーカラー1
+TypeFC_OilTankCar_length6-Type2_PlayerColor1-Black
+タンク車<石油>・中型・フレームレス：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length6-Type2_PlayerColor1-White
+タンク車<石油>・中型・フレームレス：白(プレイヤーカラー1)
+TypeFC_OilTankCar_length6-Type1_PlayerColor2-Black
+タンク車<石油>・中型：黒(プレイヤーカラー2)
+TypeFC_OilTankCar_length6-Type1_PlayerColor2-Silver
+タンク車<石油>・中型：銀(プレイヤーカラー2)
+TypeFC_OilTankCar_length6-Type1_PlayerColor2
+タンク車<石油>・中型：プレイヤーカラー2
+TypeFC_OilTankCar_length6-Type2_PlayerColor2-Black
+タンク車<石油>・中型・フレームレス：黒(プレイヤーカラー2)
+TypeFC_OilTankCar_length6-Type2_PlayerColor2-White
+タンク車<石油>・中型・フレームレス：白(プレイヤーカラー2)
+##---　大型(length=8)　---##
+TypeFC_OilTankCar_length8-Type1_PlayerColor1-Black
+タンク車<石油>・大型：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length8-Type1_PlayerColor1-Silver
+タンク車<石油>・大型：銀(プレイヤーカラー1)
+TypeFC_OilTankCar_length8-Type1_PlayerColor1
+タンク車<石油>・大型：プレイヤーカラー1
+TypeFC_OilTankCar_length8-Type2_PlayerColor1-Black
+タンク車<石油>・大型・フレームレス：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length8-Type1_PlayerColor2-Black
+タンク車<石油>・大型：黒(プレイヤーカラー2)
+TypeFC_OilTankCar_length8-Type1_PlayerColor2-Silver
+タンク車<石油>・大型：銀(プレイヤーカラー2)
+TypeFC_OilTankCar_length8-Type1_PlayerColor2
+タンク車<石油>・大型：プレイヤーカラー2
+TypeFC_OilTankCar_length8-Type2_PlayerColor2-Black
+タンク車<石油>・大型・フレームレス：黒(プレイヤーカラー2)
+##---　超大型(length=10)　---##
+TypeFC_OilTankCar_length10-Big-Type1_PlayerColor1-Black
+タンク車<石油>・超大型：黒(プレイヤーカラー1)
+TypeFC_OilTankCar_length10-Big-Type1_PlayerColor1-Silver
+タンク車<石油>・超大型：銀(プレイヤーカラー1)
+TypeFC_OilTankCar_length10-Big-Type1_PlayerColor2-Black
+タンク車<石油>・超大型：黒(プレイヤーカラー2)
+TypeFC_OilTankCar_length10-Big-Type1_PlayerColor2-Silver
+タンク車<石油>・超大型：銀(プレイヤーカラー2)
+###------　セメントホッパ車/タンク車(TypeFC_CementCar)　-------###
+##---　小型(length=4)　---##
+TypeFC_CementCar_length4-Type1_PlayerColor1
+セメントホッパ車<粉体貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_CementCar_length4-Type2_PlayerColor1-Color1
+セメントホッパ車<粉体貨物>・小型・タイプ2：プレイヤーカラー1①
+TypeFC_CementCar_length4-Type2_PlayerColor1-Color2
+セメントホッパ車<粉体貨物>・小型・タイプ2：プレイヤーカラー1②
+TypeFC_CementCar_length4-Type3_PlayerColor1
+セメントタンク車<粉体貨物>・小型・タンク車：プレイヤーカラー1
+TypeFC_CementCar_length4-Type1_PlayerColor2
+セメントホッパ車<粉体貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_CementCar_length4-Type2_PlayerColor2-Color1
+セメントホッパ車<粉体貨物>・小型・タイプ2：プレイヤーカラー2①
+TypeFC_CementCar_length4-Type2_PlayerColor2-Color2
+セメントホッパ車<粉体貨物>・小型・タイプ2：プレイヤーカラー2②
+TypeFC_CementCar_length4-Type3_PlayerColor2
+セメントタンク車<粉体貨物>・小型・タンク車：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_CementCar_length6-Type1_PlayerColor1-Color1
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー1①
+TypeFC_CementCar_length6-Type1_PlayerColor1-Color2
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー1②
+TypeFC_CementCar_length6-Type2_PlayerColor1
+セメントタンク車<粉体貨物>・中型・タンク車：プレイヤーカラー1
+TypeFC_CementCar_length6-Type1_PlayerColor2-Color1
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー2①
+TypeFC_CementCar_length6-Type1_PlayerColor2-Color2
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー2②
+TypeFC_CementCar_length6-Type2_PlayerColor2
+セメントタンク車<粉体貨物>・中型・タンク車：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_CementCar_length8-Type1_PlayerColor1
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_CementCar_length8-Type2_PlayerColor1
+セメントタンク車<粉体貨物>・中型・タンク車：プレイヤーカラー1
+TypeFC_CementCar_length8-Type1_PlayerColor2
+セメントホッパ車<粉体貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_CementCar_length8-Type2_PlayerColor2
+セメントタンク車<粉体貨物>・中型・タンク車：プレイヤーカラー2
+###------　車運車(TypeFC_Autorack)　-------###
+##---　中型(length=6)　---##
+TypeFC_Autorack_length6-Type1_PlayerColor1-Type1
+車運車<自動車>・中型・タイプ1：プレイヤーカラー1①
+TypeFC_Autorack_length6-Type1_PlayerColor1-Type2
+車運車<自動車>・中型・タイプ1：プレイヤーカラー1②
+TypeFC_Autorack_length6-Type2_PlayerColor1
+車運車<自動車>・中型・タイプ2：プレイヤーカラー1
+TypeFC_Autorack_length6(front)-Type3_PlayerColor1
+車運車<自動車>・中型・タイプ3(前方)：プレイヤーカラー1
+TypeFC_Autorack_length6(back)-Type3_PlayerColor1
+車運車<自動車>・中型・タイプ3(後方)：プレイヤーカラー1
+TypeFC_Autorack_length6(front)-Type4_PlayerColor1
+車運車<自動車>・中型・タイプ4(前方)：プレイヤーカラー1
+TypeFC_Autorack_length6(back)-Type4_PlayerColor1
+車運車<自動車>・中型・タイプ4(後方)：プレイヤーカラー1
+TypeFC_Autorack_length6-Type1_PlayerColor2-Type1
+車運車<自動車>・中型・タイプ1：プレイヤーカラー2①
+TypeFC_Autorack_length6-Type1_PlayerColor2-Type2
+車運車<自動車>・中型・タイプ1：プレイヤーカラー2②
+TypeFC_Autorack_length6-Type2_PlayerColor2
+車運車<自動車>・中型・タイプ2：プレイヤーカラー2
+TypeFC_Autorack_length6(front)-Type3_PlayerColor2
+車運車<自動車>・中型・タイプ3(前方)：プレイヤーカラー2
+TypeFC_Autorack_length6(back)-Type3_PlayerColor2
+車運車<自動車>・中型・タイプ3(後方)：プレイヤーカラー2
+TypeFC_Autorack_length6(front)-Type4_PlayerColor2
+車運車<自動車>・中型・タイプ4(前方)：プレイヤーカラー2
+TypeFC_Autorack_length6(back)-Type4_PlayerColor2
+車運車<自動車>・中型・タイプ4(後方)：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_Autorack_length8-Type1_PlayerColor1
+車運車<自動車>・大型・タイプ1：プレイヤーカラー1
+TypeFC_Autorack_length8-Type2_PlayerColor1
+車運車<自動車>・大型・タイプ2：プレイヤーカラー1
+TypeFC_Autorack_length8-Type3_PlayerColor1
+車運車<自動車>・大型・タイプ3：プレイヤーカラー1
+TypeFC_Autorack_length8-Type1_PlayerColor2
+車運車<自動車>・大型・タイプ1：プレイヤーカラー2
+TypeFC_Autorack_length8-Type2_PlayerColor2
+車運車<自動車>・大型・タイプ2：プレイヤーカラー2
+TypeFC_Autorack_length8-Type3_PlayerColor2
+車運車<自動車>・大型・タイプ3：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_Autorack_length10-Big-Type1_PlayerColor1
+車運車<自動車>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_Autorack_length10-Big(front)-Type2_PlayerColor1
+車運車<自動車>・超大型・タイプ2(前方)：プレイヤーカラー1
+TypeFC_Autorack_length10-Big(back)-Type2_PlayerColor1
+車運車<自動車>・超大型・タイプ2(後方)：プレイヤーカラー1
+TypeFC_Autorack_length10-Big-Type1_PlayerColor2
+車運車<自動車>・超大型・タイプ1：プレイヤーカラー2
+TypeFC_Autorack_length10-Big(front)-Type2_PlayerColor2
+車運車<自動車>・超大型・タイプ2(前方)：プレイヤーカラー2
+TypeFC_Autorack_length10-Big(back)-Type2_PlayerColor2
+車運車<自動車>・超大型・タイプ2(後方)：プレイヤーカラー2
+###------　ミルク輸送貨車(TypeFC_MilkCar)　-------###
+##---　小型(length=4)　---##
+TypeFC_MilkCar_length4-Type1_PlayerColor1
+ミルク輸送貨車<ミルク>・小型・有蓋車：プレイヤーカラー1
+TypeFC_MilkCar_length4-Type2_PlayerColor1
+ミルク輸送貨車<ミルク>・小型・タンク車：プレイヤーカラー1
+TypeFC_MilkCar_length4-Type1_PlayerColor2
+ミルク輸送貨車<ミルク>・小型・有蓋車：プレイヤーカラー2
+TypeFC_MilkCar_length4-Type2_PlayerColor2
+ミルク輸送貨車<ミルク>・小型・タンク車：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_MilkCar_length6-Type1_PlayerColor1
+ミルク輸送貨車<ミルク>・中型・有蓋車：プレイヤーカラー1
+TypeFC_MilkCar_length6-Type2_PlayerColor1
+ミルク輸送貨車<ミルク>・中型・タンク車：プレイヤーカラー1
+TypeFC_MilkCar_length6-Type1_PlayerColor2
+ミルク輸送貨車<ミルク>・中型・有蓋車：プレイヤーカラー2
+TypeFC_MilkCar_length6-Type2_PlayerColor2
+ミルク輸送貨車<ミルク>・中型・タンク車：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_MilkCar_length8-Type1_PlayerColor1
+ミルク輸送貨車<ミルク>・大型・タンク車：プレイヤーカラー1
+TypeFC_MilkCar_length8-Type1_PlayerColor2
+ミルク輸送貨車<ミルク>・大型・タンク車：プレイヤーカラー2
+###------　有蓋車(TypeFC_Wagon)　-------###
+##---　小型(length=4)　---##
+TypeFC_Wagon_length4-Type1_PlayerColor1
+有蓋車<混載貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon_length4-Type2_PlayerColor1
+有蓋車<混載貨物>・小型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon_length4-Type3_PlayerColor1
+有蓋車<混載貨物>・小型・タイプ3：プレイヤーカラー1
+TypeFC_Wagon_length4-Type4_PlayerColor1
+有蓋車<混載貨物>・小型・タイプ4：プレイヤーカラー1
+TypeFC_Wagon_length4-Type5_PlayerColor1
+有蓋車<混載貨物>・小型・タイプ5：プレイヤーカラー1
+TypeFC_Wagon_length4-Type6_PlayerColor1
+有蓋車<混載貨物>・小型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon_length4-Type1_PlayerColor2
+有蓋車<混載貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon_length4-Type2_PlayerColor2
+有蓋車<混載貨物>・小型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon_length4-Type3_PlayerColor2
+有蓋車<混載貨物>・小型・タイプ3：プレイヤーカラー2
+TypeFC_Wagon_length4-Type4_PlayerColor2
+有蓋車<混載貨物>・小型・タイプ4：プレイヤーカラー2
+TypeFC_Wagon_length4-Type5_PlayerColor2
+有蓋車<混載貨物>・小型・タイプ5：プレイヤーカラー2
+TypeFC_Wagon_length4-Type6_PlayerColor2
+有蓋車<混載貨物>・小型・ウィングルーフ：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_Wagon_length6-Type1_PlayerColor1
+有蓋車<混載貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon_length6-Type2_PlayerColor1
+有蓋車<混載貨物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon_length6-Type3_PlayerColor1
+有蓋車<混載貨物>・中型・タイプ3：プレイヤーカラー1
+TypeFC_Wagon_length6-Type4_PlayerColor1
+有蓋車<混載貨物>・中型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon_length6-Type1_PlayerColor2
+有蓋車<混載貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon_length6-Type2_PlayerColor2
+有蓋車<混載貨物>・中型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon_length6-Type3_PlayerColor2
+有蓋車<混載貨物>・中型・タイプ3：プレイヤーカラー2
+TypeFC_Wagon_length6-Type4_PlayerColor2
+有蓋車<混載貨物>・中型・ウィングルーフ：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_Wagon_length8-Type1_PlayerColor1
+有蓋車<混載貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon_length8-Type2_PlayerColor1
+有蓋車<混載貨物>・大型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon_length8-Type1_PlayerColor2
+有蓋車<混載貨物>・大型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon_length8-Type2_PlayerColor2
+有蓋車<混載貨物>・大型・ウィングルーフ：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_Wagon_length10-Big-Type1_PlayerColor1
+有蓋車<混載貨物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon_length10-Big-Type2_PlayerColor1
+有蓋車<混載貨物>・超大型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon_length10-Big-Type3_PlayerColor1
+有蓋車<混載貨物>・超大型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon_length10-Big-Type1_PlayerColor2
+有蓋車<混載貨物>・超大型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon_length10-Big-Type2_PlayerColor2
+有蓋車<混載貨物>・超大型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon_length10-Big-Type3_PlayerColor2
+有蓋車<混載貨物>・超大型・ウィングルーフ：プレイヤーカラー2
+###------　無蓋車<ばら荷貨物>(TypeFC_OpenWagon)　-------###
+##---　小型(length=4)　---##
+TypeFC_OpenWagon_length4-Type1_PlayerColor1
+無蓋車<ばら荷貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon_length4-Type2_PlayerColor1
+無蓋車<ばら荷貨物>・小型・タイプ2：プレイヤーカラー1
+TypeFC_OpenWagon_length4-Type1_PlayerColor2
+無蓋車<ばら荷貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_OpenWagon_length4-Type2_PlayerColor2
+無蓋車<ばら荷貨物>・小型・タイプ2：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_OpenWagon_length6-Type1_PlayerColor1
+無蓋車<ばら荷貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon_length6-Type2_PlayerColor1
+無蓋車<ばら荷貨物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_OpenWagon_length6-Type3_PlayerColor1
+無蓋車<ばら荷貨物>・中型・タイプ3：プレイヤーカラー1
+TypeFC_OpenWagon_length6-Type1_PlayerColor2
+無蓋車<ばら荷貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_OpenWagon_length6-Type2_PlayerColor2
+無蓋車<ばら荷貨物>・中型・タイプ2：プレイヤーカラー2
+TypeFC_OpenWagon_length6-Type3_PlayerColor2
+無蓋車<ばら荷貨物>・中型・タイプ3：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_OpenWagon_length8-Type1_PlayerColor1
+無蓋車<ばら荷貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon_length8-Type1_PlayerColor2
+無蓋車<ばら荷貨物>・大型・タイプ1：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_OpenWagon_length10-Big-Type1_PlayerColor1
+無蓋車<ばら荷貨物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon_length10-Big-Type1_PlayerColor2
+無蓋車<ばら荷貨物>・超大型・タイプ1：プレイヤーカラー2
+###------　無蓋車(ゴミ輸送用)(TypeFC_OpenWagon-Waste)　-------###
+##---　小型(length=4)　---##
+TypeFC_OpenWagon-Waste_length4-Type1_PlayerColor1
+無蓋車(ゴミ輸送用)<ゴミ>・小型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon-Waste_length4-Type2_PlayerColor1
+無蓋車(ゴミ輸送用)<ゴミ>・小型・タイプ2：プレイヤーカラー1
+TypeFC_OpenWagon-Waste_length4-Type1_PlayerColor2
+無蓋車(ゴミ輸送用)<ゴミ>・小型・タイプ1：プレイヤーカラー2
+TypeFC_OpenWagon-Waste_length4-Type2_PlayerColor2
+無蓋車(ゴミ輸送用)<ゴミ>・小型・タイプ2：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_OpenWagon-Waste_length6-Type1_PlayerColor1
+無蓋車(ゴミ輸送用)<ゴミ>・中型・タイプ1：プレイヤーカラー1
+TypeFC_OpenWagon-Waste_length6-Type1_PlayerColor2
+無蓋車(ゴミ輸送用)<ゴミ>・中型・タイプ1：プレイヤーカラー2
+###------　コンテナ車(TypeFC_ContainerCar)　-------###
+##---　低温貨物：中型(length=6)　---##
+TypeFC_ContainerCar-Reefer_length6-Type1-PlayerColor1-ColorA
+コンテナ車<低温貨物>・中型・中型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Reefer_length6-Type1-PlayerColor1-ColorB
+コンテナ車<低温貨物>・中型・中型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Reefer_length6-Type1-PlayerColor2-ColorA
+コンテナ車<低温貨物>・中型・中型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Reefer_length6-Type1-PlayerColor2-ColorB
+コンテナ車<低温貨物>・中型・中型コンテナ：プレイヤーカラー2②
+##---　低温貨物：大型(length=8)　---##
+TypeFC_ContainerCar-Reefer_length8-Type1-PlayerColor1-ColorA
+コンテナ車<低温貨物>・大型・大型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Reefer_length8-Type1-PlayerColor1-ColorB
+コンテナ車<低温貨物>・大型・大型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Reefer_length8-Type1-PlayerColor2-ColorA
+コンテナ車<低温貨物>・大型・大型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Reefer_length8-Type1-PlayerColor2-ColorB
+コンテナ車<低温貨物>・大型・大型コンテナ：プレイヤーカラー2②
+##---　混載貨物：小型(length=4)　---##
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorA
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorB
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorC
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorD
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorE
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor1-ColorF
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorA
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorB
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorC
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorD
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorE
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length4-Type1-PlayerColor2-ColorF
+コンテナ車<混載貨物>・小型・小型コンテナ：プレイヤーカラー2⑥
+##---　混載貨物：中型(length=6)　---##
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorA
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorB
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorC
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorD
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorE
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor1-ColorF
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorA
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorB
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorC
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorD
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorE
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor1-ColorF
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorA
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorB
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorC
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorD
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorE
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length6-Type1-PlayerColor2-ColorF
+コンテナ車<混載貨物>・中型・小型コンテナ：プレイヤーカラー2⑥
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorA
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorB
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorC
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorD
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorE
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length6-Type2-PlayerColor2-ColorF
+コンテナ車<混載貨物>・中型・中型コンテナ：プレイヤーカラー2⑥
+##---　混載貨物：大型(length=8)　---##
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorA
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorB
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorC
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorD
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorE
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorF
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorA
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorB
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorC
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorD
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorE
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor1-ColorF
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorA
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorB
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorC
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorD
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorE
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1⑤
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor1-ColorF
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー1⑥
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorA
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorB
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorC
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorD
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorE
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorF
+コンテナ車<混載貨物>・大型・小型コンテナ：プレイヤーカラー2⑥
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorA
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorB
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorC
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorD
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorE
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length8-Type2-PlayerColor2-ColorF
+コンテナ車<混載貨物>・大型・中型コンテナ：プレイヤーカラー2⑥
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorA
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorB
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorC
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorD
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2④
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorE
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2⑤
+TypeFC_ContainerCar-Wagon_length8-Type3-PlayerColor2-ColorF
+コンテナ車<混載貨物>・大型・大型コンテナ：プレイヤーカラー2⑥
+##---　ゴミ：大型(length=8)　---##
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorA
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー1①
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorB
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー1②
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorC
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー1③
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor1-ColorD
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー1④
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorA
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー2①
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorB
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー2②
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorC
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー2③
+TypeFC_ContainerCar-Wagon_length8-Type1-PlayerColor2-ColorD
+コンテナ車<ゴミ>・大型・小型コンテナ：プレイヤーカラー2④
+###------　コイル輸送貨車(TypeFC_ContainerCar)　-------###
+##---　中型(length=6)　---##
+TypeFC_CoilCar-Open_length6-Type1_PlayerColor1
+コイル輸送貨車<鉄鋼>・中型・タイプ1：プレイヤーカラー1
+TypeFC_CoilCar-Open_length6-Type2_PlayerColor1
+コイル輸送貨車<鉄鋼>・中型・タイプ2：プレイヤーカラー1
+TypeFC_CoilCar-Open_length6-Type1_PlayerColor2
+コイル輸送貨車<鉄鋼>・中型・タイプ1：プレイヤーカラー2
+TypeFC_CoilCar-Open_length6-Type2_PlayerColor2
+コイル輸送貨車<鉄鋼>・中型・タイプ2：プレイヤーカラー2
+##---　中型・カバー付(length=6)　---##
+TypeFC_CoilCar-Covered_length6-Type1_PlayerColor1
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ1：プレイヤーカラー1
+TypeFC_CoilCar-Covered_length6-Type2_PlayerColor1
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ2：プレイヤーカラー1
+TypeFC_CoilCar-Covered_length6-Type3_PlayerColor1
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ3：プレイヤーカラー1
+TypeFC_CoilCar-Covered_length6-Type1_PlayerColor2
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ1：プレイヤーカラー2
+TypeFC_CoilCar-Covered_length6-Type2_PlayerColor2
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ2：プレイヤーカラー2
+TypeFC_CoilCar-Covered_length6-Type3_PlayerColor2
+コイル輸送貨車<鉄鋼>・中型・カバー付・タイプ3：プレイヤーカラー2
+##---　大型・カバー付(length=8)　---##
+TypeFC_CoilCar-Covered_length8-Type1_PlayerColor1
+コイル輸送貨車<鉄鋼>・大型・カバー付・タイプ1：プレイヤーカラー1
+TypeFC_CoilCar-Covered_length8-Type2_PlayerColor1
+コイル輸送貨車<鉄鋼>・大型・カバー付・タイプ2：プレイヤーカラー1
+TypeFC_CoilCar-Covered_length8-Type1_PlayerColor2
+コイル輸送貨車<鉄鋼>・大型・カバー付・タイプ1：プレイヤーカラー2
+TypeFC_CoilCar-Covered_length8-Type2_PlayerColor2
+コイル輸送貨車<鉄鋼>・大型・カバー付・タイプ2：プレイヤーカラー2
+###------　車掌車・緩急車・カブース(TypeFC_BrakeVan-Caboose)　-------###
+##---　小型(length=4)　---##
+TypeFC_BrakeVan_length4-Type1_PlayerColor1
+緩急車<積載なし>・小型・タイプ1：プレイヤーカラー1
+TypeFC_BrakeVan_length4-Type2_PlayerColor1
+車掌車<積載なし>・小型・タイプ2：プレイヤーカラー1
+TypeFC_BrakeVan_length4-Type3_PlayerColor1
+車掌車<積載なし>・小型・タイプ3：プレイヤーカラー1
+TypeFC_Caboose_length4-Type1_PlayerColor1-Color1
+カブース<積載なし>・小型・タイプ1：プレイヤーカラー1①
+TypeFC_BrakeVan_length4-Type1_PlayerColor2
+緩急車<積載なし>・小型・タイプ1：プレイヤーカラー2
+TypeFC_BrakeVan_length4-Type2_PlayerColor2
+車掌車<積載なし>・小型・タイプ2：プレイヤーカラー2
+TypeFC_BrakeVan_length4-Type3_PlayerColor2
+車掌車<積載なし>・小型・タイプ3：プレイヤーカラー2
+TypeFC_Caboose_length4-Type1_PlayerColor1-Colo2
+カブース<積載なし>・小型・タイプ1：プレイヤーカラー2①
+##---　中型(length=6)　---##
+TypeFC_BrakeVan_length6-Type1_PlayerColor1
+車掌車<積載なし>・中型・タイプ1：プレイヤーカラー1
+TypeFC_Caboose_length6-Type1_PlayerColor1-Color1
+カブース<積載なし>・中型・タイプ1：プレイヤーカラー1①
+TypeFC_Caboose_length6-Type2_PlayerColor1-Color1
+カブース<積載なし>・中型・タイプ2：プレイヤーカラー1①
+TypeFC_BrakeVan_length6-Type1_PlayerColor2
+車掌車<積載なし>・中型・タイプ1：プレイヤーカラー2
+TypeFC_Caboose_length6-Type1_PlayerColor1-Color2
+カブース<積載なし>・中型・タイプ1：プレイヤーカラー2①
+TypeFC_Caboose_length6-Type2_PlayerColor1-Color2
+カブース<積載なし>・中型・タイプ2：プレイヤーカラー2①
+###------　有蓋ホッパ車(穀物輸送用)(TypeFC_CoveredHopper)　-------###
+##---　中型(length=6)　---##
+TypeFC_CoveredHopper_length6-Type1_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_CoveredHopper_length6-Type2_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_CoveredHopper_length6-Type1_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_CoveredHopper_length6-Type2_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・中型・タイプ2：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_CoveredHopper_length8-Type1_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_CoveredHopper_length8-Type2_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・大型・タイプ2：プレイヤーカラー1
+TypeFC_CoveredHopper_length8-Type1_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・大型・タイプ1：プレイヤーカラー2
+TypeFC_CoveredHopper_length8-Type2_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・大型・タイプ2：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_CoveredHopper_length10-Big-Type1_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_CoveredHopper_length10-Big-Type2_PlayerColor1
+有蓋ホッパ車(穀物輸送用)<穀物>・超大型・タイプ2：プレイヤーカラー1
+TypeFC_CoveredHopper_length10-Big-Type1_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・超大型・タイプ1：プレイヤーカラー2
+TypeFC_CoveredHopper_length10-Big-Type2_PlayerColor2
+有蓋ホッパ車(穀物輸送用)<穀物>・超大型・タイプ2：プレイヤーカラー2
+###------　長物車(木材輸送用)(TypeFC_LogFlatCar)　-------###
+##---　中型(length=6)　---##
+TypeFC_LogFlatcar_length6-Type1_PlayerColor1
+長物車(木材輸送用)<長物貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_LogFlatcar_length6-Type1_PlayerColor2
+長物車(木材輸送用)<長物貨物>・中型・タイプ1：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_LogFlatcar_length8-Type1_PlayerColor1
+長物車(木材輸送用)<長物貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_CenterbeamFlatcar_length8-Type2_PlayerColor1
+長物車(木材輸送用)<長物貨物>・大型・センタービーム・タイプ2：プレイヤーカラー1
+TypeFC_LogFlatcar_length8-Type1_PlayerColor2
+長物車(木材輸送用)<長物貨物>・大型・タイプ1：プレイヤーカラー2
+TypeFC_CenterbeamFlatcar_length8-Type2_PlayerColor2
+長物車(木材輸送用)<長物貨物>・大型・センタービーム・タイプ2：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_LogFlatcar_length10-Big-Type1_PlayerColor1
+長物車(木材輸送用)<長物貨物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_CenterbeamFlatcar_length10-Big-Type2_PlayerColor1
+長物車(木材輸送用)<長物貨物>・超大型・センタービーム・タイプ2：プレイヤーカラー1
+TypeFC_LogFlatcar_length10-Big-Type1_PlayerColor2
+長物車(木材輸送用)<長物貨物>・超大型・タイプ1：プレイヤーカラー2
+TypeFC_CenterbeamFlatcar_length10-Big-Type2_PlayerColor2
+長物車(木材輸送用)<長物貨物>・超大型・センタービーム・タイプ2：プレイヤーカラー2
+###------　冷蔵車(TypeFC_Refrigerator)　-------###
+##---　小型(length=4)　---##
+TypeFC_Rerigerator_length4-Type1_PlayerColor1-Color1
+冷蔵車<低温貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_Rerigerator_length4-Type2_PlayerColor1-Color1
+冷蔵車<低温貨物>・小型・タイプ2：プレイヤーカラー1
+TypeFC_Rerigerator_length4-Type3_PlayerColor1-Color1
+冷蔵車<低温貨物>・小型・タイプ3：プレイヤーカラー1①
+TypeFC_Rerigerator_length4-Type3_PlayerColor1-Color2
+冷蔵車<低温貨物>・小型・タイプ3：プレイヤーカラー1②
+TypeFC_Rerigerator_length4-Type1_PlayerColor2-Color1
+冷蔵車<低温貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_Rerigerator_length4-Type2_PlayerColor2-Color1
+冷蔵車<低温貨物>・小型・タイプ2：プレイヤーカラー2
+TypeFC_Rerigerator_length4-Type3_PlayerColor2-Color1
+冷蔵車<低温貨物>・小型・タイプ3：プレイヤーカラー2①
+TypeFC_Rerigerator_length4-Type3_PlayerColor2-Color2
+冷蔵車<低温貨物>・小型・タイプ3：プレイヤーカラー2②
+##---　中型(length=6)　---##
+TypeFC_Rerigerator_length6-Type1_PlayerColor1-Color1
+冷蔵車<低温貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_Rerigerator_length6-Type2_PlayerColor1-Color1
+冷蔵車<低温貨物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_Rerigerator_length6-Type3_PlayerColor1-Color1
+冷蔵車<低温貨物>・中型・タイプ3：プレイヤーカラー1①
+TypeFC_Rerigerator_length6-Type3_PlayerColor1-Color2
+冷蔵車<低温貨物>・中型・タイプ3：プレイヤーカラー1②
+TypeFC_Rerigerator_length6-Type1_PlayerColor2-Color1
+冷蔵車<低温貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_Rerigerator_length6-Type2_PlayerColor2-Color1
+冷蔵車<低温貨物>・中型・タイプ2：プレイヤーカラー2
+TypeFC_Rerigerator_length6-Type3_PlayerColor2-Color1
+冷蔵車<低温貨物>・中型・タイプ3：プレイヤーカラー2①
+TypeFC_Rerigerator_length6-Type3_PlayerColor2-Color2
+冷蔵車<低温貨物>・中型・タイプ3：プレイヤーカラー2②
+##---　大型(length=8)　---##
+TypeFC_Rerigerator_length8-Type1_PlayerColor1-Color1
+冷蔵車<低温貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_Rerigerator_length8-Type2_PlayerColor1-Color1
+冷蔵車<低温貨物>・大型・タイプ2：プレイヤーカラー1
+TypeFC_Rerigerator_length8(front)-Type3_PlayerColor1
+冷蔵車<低温貨物>大型・固定編成・タイプ3(電源車・前方)：プレイヤーカラー1
+TypeFC_Rerigerator_length8-Type3_PlayerColor1
+冷蔵車<低温貨物>・固定編成・タイプ3：プレイヤーカラー1
+TypeFC_Rerigerator_length8-Type1_PlayerColor2-Color1
+冷蔵車<低温貨物>・大型・タイプ1：プレイヤーカラー2
+TypeFC_Rerigerator_length8-Type2_PlayerColor2-Color1
+冷蔵車<低温貨物>・大型・タイプ2：プレイヤーカラー2
+TypeFC_Rerigerator_length8(front)-Type3_PlayerColor2
+冷蔵車<低温貨物>大型・固定編成・タイプ3(電源車・前方)：プレイヤーカラー2
+TypeFC_Rerigerator_length8-Type3_PlayerColor2
+冷蔵車<低温貨物>・固定編成・タイプ3：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_Rerigerator_length10-Big-Type1_PlayerColor1-Color1
+冷蔵車<低温貨物>・超大型・タイプ1：プレイヤーカラー1①
+TypeFC_Rerigerator_length10-Big-Type1_PlayerColor1-Color2
+冷蔵車<低温貨物>・超大型・タイプ1：プレイヤーカラー1②
+TypeFC_Rerigerator_length10-Big-Type2_PlayerColor1-Color1
+冷蔵車<低温貨物>・超大型・タイプ2：プレイヤーカラー1①
+TypeFC_Rerigerator_length10-Big-Type2_PlayerColor1-Color2
+冷蔵車<低温貨物>・超大型・タイプ2：プレイヤーカラー1②
+TypeFC_Rerigerator_length10-Big-Type1_PlayerColor2-Color1
+冷蔵車<低温貨物>・超大型・タイプ1：プレイヤーカラー2①
+TypeFC_Rerigerator_length10-Big-Type1_PlayerColor2-Color2
+冷蔵車<低温貨物>・超大型・タイプ1：プレイヤーカラー2②
+TypeFC_Rerigerator_length10-Big-Type2_PlayerColor2-Color1
+冷蔵車<低温貨物>・超大型・タイプ2：プレイヤーカラー2①
+TypeFC_Rerigerator_length10-Big-Type2_PlayerColor2-Color2
+冷蔵車<低温貨物>・超大型・タイプ2：プレイヤーカラー2②
+###------　有蓋車(紙輸送用)(TypeFC_Wagon-Paper)　-------###
+##---　小型(length=4)　---##
+TypeFC_Wagon-Paper_length4-Type1_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type2_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type3_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ3：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type4_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ4：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type5_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ5：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type6_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・小型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon-Paper_length4-Type1_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon-Paper_length4-Type2_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon-Paper_length4-Type3_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ3：プレイヤーカラー2
+TypeFC_Wagon-Paper_length4-Type4_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ4：プレイヤーカラー2
+TypeFC_Wagon-Paper_length4-Type5_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・タイプ5：プレイヤーカラー2
+TypeFC_Wagon-Paper_length4-Type6_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・小型・ウィングルーフ：プレイヤーカラー2
+##---　中型(length=6)　---##
+TypeFC_Wagon-Paper_length6-Type1_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon-Paper_length6-Type2_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon-Paper_length6-Type3_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ3：プレイヤーカラー1
+TypeFC_Wagon-Paper_length6-Type4_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・中型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon-Paper_length6-Type1_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon-Paper_length6-Type2_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon-Paper_length6-Type3_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・中型・タイプ3：プレイヤーカラー2
+TypeFC_Wagon-Paper_length6-Type4_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・中型・ウィングルーフ：プレイヤーカラー2
+##---　大型(length=8)　---##
+TypeFC_Wagon-Paper_length8-Type1_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・大型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon-Paper_length8-Type2_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・大型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon-Paper_length8-Type1_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・大型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon-Paper_length8-Type2_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・大型・ウィングルーフ：プレイヤーカラー2
+##---　超大型(length=10)　---##
+TypeFC_Wagon-Paper_length10-Big-Type1_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・超大型・タイプ1：プレイヤーカラー1
+TypeFC_Wagon-Paper_length10-Big-Type2_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・超大型・タイプ2：プレイヤーカラー1
+TypeFC_Wagon-Paper_length10-Big-Type3_PlayerColor1
+有蓋車(紙輸送用)<混載貨物>・超大型・ウィングルーフ：プレイヤーカラー1
+TypeFC_Wagon-Paper_length10-Big-Type1_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・超大型・タイプ1：プレイヤーカラー2
+TypeFC_Wagon-Paper_length10-Big-Type2_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・超大型・タイプ2：プレイヤーカラー2
+TypeFC_Wagon-Paper_length10-Big-Type3_PlayerColor2
+有蓋車(紙輸送用)<混載貨物>・超大型・ウィングルーフ：プレイヤーカラー2
+###------　ダブルスタックカー(TypeFC_WellCar)　-------###
+##---　中型・連接車(length=6)　---##
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorC
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1③
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorD
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1④
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorE
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1⑤
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor1-ColorF
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1⑥
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorC
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1③
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorD
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1④
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorE
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1⑤
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor1-ColorF
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1⑥
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorC
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1③
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorD
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1④
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorE
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1⑤
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor1-ColorF
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1⑥
+#------------#
+TypeFC_WellCar-Reefer_length6(front)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<低温貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Reefer_length6(front)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<低温貨物>・中型(前方)・中型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Reefer_length6(center)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<低温貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Reefer_length6(center)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<低温貨物>・中型(中間)・中型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Reefer_length6(back)-Type1-PlayerColor1-ColorA
+ダブルスタックカー<低温貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Reefer_length6(back)-Type1-PlayerColor1-ColorB
+ダブルスタックカー<低温貨物>・中型(後方)・中型コンテナ：プレイヤーカラー1②
+#--------------------------#
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorC
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2③
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorD
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2④
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorE
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2⑤
+TypeFC_WellCar-Wagon_length6(front)-Type1-PlayerColor2-ColorF
+ダブルスタックカー<混載貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2⑥
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorC
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2③
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorD
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2④
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorE
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2⑤
+TypeFC_WellCar-Wagon_length6(center)-Type1-PlayerColor2-ColorF
+ダブルスタックカー<混載貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2⑥
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorC
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2③
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorD
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2④
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorE
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2⑤
+TypeFC_WellCar-Wagon_length6(back)-Type1-PlayerColor2-ColorF
+ダブルスタックカー<混載貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2⑥
+#------------#
+TypeFC_WellCar-Reefer_length6(front)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<低温貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Reefer_length6(front)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<低温貨物>・中型(前方)・中型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Reefer_length6(center)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<低温貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Reefer_length6(center)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<低温貨物>・中型(中間)・中型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Reefer_length6(back)-Type1-PlayerColor2-ColorA
+ダブルスタックカー<低温貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Reefer_length6(back)-Type1-PlayerColor2-ColorB
+ダブルスタックカー<低温貨物>・中型(後方)・中型コンテナ：プレイヤーカラー2②
+##---　大型(length=8)　---##
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorA
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorB
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorC
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1③
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorD
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1④
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorE
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1⑤
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor1-ColorF
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー1⑥
+TypeFC_WellCar-Reefer_length8-Type1-PlayerColor1-ColorA
+ダブルスタックカー<低温貨物>・大型・大型コンテナ：プレイヤーカラー1①
+TypeFC_WellCar-Reefer_length8-Type1-PlayerColor1-ColorB
+ダブルスタックカー<低温貨物>・大型・大型コンテナ：プレイヤーカラー1②
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorA
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorB
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2②
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorC
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2③
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorD
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2④
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorE
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2⑤
+TypeFC_WellCar-Wagon_length8-Type1-PlayerColor2-ColorF
+ダブルスタックカー<混載貨物>・大型・大型コンテナ：プレイヤーカラー2⑥
+TypeFC_WellCar-Reefer_length8-Type1-PlayerColor2-ColorA
+ダブルスタックカー<低温貨物>・大型・大型コンテナ：プレイヤーカラー2①
+TypeFC_WellCar-Reefer_length8-Type1-PlayerColor2-ColorB
+ダブルスタックカー<低温貨物>・大型・大型コンテナ：プレイヤーカラー2②
+################################################################################
+###------- JR東日本　------------###
+JRE_Suhafu12-BanetsuMonogatari
+JR東日本スハフ12形(SLばんえつ物語号)
+JRE_Oha12-BanetsuMonogatari
+JR東日本オハ12形(SLばんえつ物語号)
+JRE_Oha12_1701-BanetsuMonogatari
+JR東日本オハ12-1701(SLばんえつ物語号)
+JRE_Suhafu12-R-BanetsuMonogatari
+JR東日本スハフ12形(SLばんえつ物語号)
+-----------------
+-----------------
+JRE_Suhafu12-BanetsuMonogatari-R
+JR東日本スハフ12形(SLばんえつ物語:リニューアル)
+JRE_Oha12-BanetsuMonogatari-R
+JR東日本オハ12形(SLばんえつ物語:リニューアル)
+JRE_Oha12_316-BanetsuMonogatari-R
+JR東日本オハ12-316(SLばんえつ物語:リニューアル)
+JRE_Oha12_1701-BanetsuMonogatari-R
+JR東日本オハ12-1701(SLばんえつ物語:リニューアル)
+JRE_Suhafu12-R-BanetsuMonogatari-R
+JR東日本スハフ12形(SLばんえつ物語:リニューアル)
+JRE_Surofu12-R-BanetsuMonogatari-R
+JR東日本スロフ12形(SLばんえつ物語:リニューアル)
+-----------------
+-----------------
+###------- JR北海道　------------###
+JRH_Suhafu42_2261-SL_Niseco
+JR北海道スハフ42-2261(SLニセコ号)
+JRH_Ohashi47_2001-SL_Niseco
+JR北海道オハシ47-2001(SLニセコ号)
+JRH_Ohafu33_2555-SL_Niseco
+JR北海道オハフ33-2555(SLニセコ号)
+JRH_Suhafu42_2071-R-SL_Niseco
+JR北海道スハフ42-2071(SLニセコ号)
+-----------------
+-----------------
+JRH_Yo_4350-SL_Suzuran
+JR北海道ヨ4350(SLすずらん号)
+JRH_Yo_4350-SL_Hakodate_Ohnuma
+JR北海道ヨ4350(SL函館大沼号)
+JRH_Suhafu14_505-SL_Suzuran
+JR北海道スハフ14-505(SLすずらん号)
+JRH_Suhashi44_1-SL_Suzuran
+JR北海道スハシ44-1(SLすずらん号)
+JNR_Oha14_526-SL_Suzuran
+JR北海道オハ14-526(SLすずらん号)
+JNR_Oha14_519-R-SL_Suzuran
+JR北海道オハ14-519(SLすずらん号)
+JRH_Suhafu14_507-R-SL_Suzuran
+JR北海道スハフ14-507(SLすずらん号:増結車)
+JRH_Yo_4647-SL_FuyunoShitugen
+JR北海道ヨ4647(SL冬の湿原号)
+-----------------
+-----------------
+###------- JR西日本　------------###
+JRW_Suhafu12_702-F-SL_Yamaguchi
+JR西日本スハフ12-702(SLやまぐち号:～2002)
+JRW_Oha12_703-SL_Yamaguchi
+JR西日本オハ12-703(SLやまぐち号:～2002)
+JRW_Oha12_703-F-SL_Yamaguchi
+JR西日本オハ12-703(SLやまぐち号:2003～)
+JRW_Suhafu12_702-SL_Yamaguchi
+JR西日本スハフ12-702(SLやまぐち号:2003～)
+JRW_Oha12_702-SL_Yamaguchi
+JR西日本オハ12-702(SLやまぐち号)
+JRW_Oha12_701-SL_Yamaguchi
+JR西日本オハ12-701(SLやまぐち号)
+JRW_Suhafu13_701-R-SL_Yamaguchi
+JR西日本スハフ13-701(SLやまぐち号)
+-----------------
+-----------------
+JRW_Oha12_703-F-SL_Yamaguchi-R
+JR西日本オハ12-703(SLやまぐち号:リニューアル)
+JRW_Suhafu12_702-SL_Yamaguchi-R
+JR西日本スハフ12-702(SLやまぐち号:リニューアル)
+JRW_Oha12_702-SL_Yamaguchi-R
+JR西日本オハ12-702(SLやまぐち号:リニューアル)
+JRW_Oha12_701-SL_Yamaguchi-R
+JR西日本オハ12-701(SLやまぐち号:リニューアル)
+JRW_Suhafu13_701-R-SL_Yamaguchi-R
+JR西日本スハフ13-701(SLやまぐち号:リニューアル)
+-----------------
+-----------------
+###------- JR九州　------------###
+JRK_Ohafu50_701-SL_AsoBOY
+JR九州オハフ50-701(SLあそBOY)
+JRK_Oha50_701-SL_AsoBOY
+JR九州オハ50-701(SLあそBOY)
+JRK_Ohafu50_702-SL_AsoBOY
+JR九州オハフ50-702(SLあそBOY)
+JRK_Ohafu50_701-SL_Hitoyoshi
+JR九州オハフ50-701(SL人吉)
+JRK_Oha50_701-SL_Hitoyoshi
+JR九州オハ50-701(SL人吉)
+JRK_Ohafu50_702-SL_Hitoyoshi
+JR九州オハフ50-702(SL人吉)
+-----------------
+-----------------
+###------- 真岡鉄道　------------###
+Mooka-Oha50_SL-Mooka_RedLine
+真岡鉄道オハ50形(SLもおか号:赤帯)
+Mooka-Ohafu50_SL-Mooka_RedLine
+真岡鉄道オハフ50形(SLもおか号:赤帯)
+Mooka-Oha50_SL-Mooka_WhiteLine
+真岡鉄道オハ50形(SLもおか号:白帯)
+Mooka-Ohafu50_SL-Mooka_WhiteLine
+真岡鉄道オハフ50形(SLもおか号:白帯)
+-----------------
+-----------------
+###------- 大井川鐵道　------------###
+Oigawa-Naro80
+大井川鐵道ナロ80形
+Oigawa-Suite82(back)
+大井川鐵道スイテ82形<後方>
 #
 #
 wa-containers-1
@@ -6089,137 +7668,167 @@ Super_Seat
 スーパーシート利用客
 Premium_Seat
 プレミアムシート利用客
-#__________________________________ADDS__________________________________
-#__________________________________ADDS___________________________________
-ADDS-parking_area_road01
-駐車場の道路(白線有り)
-ADDS-parking_area_road02
-駐車場の道路(白線なし)
-ADDS-parking_area_road01_E
-駐車場の道路(白線有り)
-ADDS-parking_area_road02_E
-駐車場の道路(白線なし)
-MITSUBISHI_supergreat_autos
-三菱・スーパーグレート カーキャリア
-MITSUBISHI_supergreat_papier
-三菱・スーパーグレート 紙ロール運搬車
-MITSUBISHI_supergreat_stahl
-三菱・スーパーグレート 鉄鋼螺旋管運搬車
-MITSUBISHI_supergreat_mix01
-三菱・スーパーグレート 幌荷台架装車
-MITSUBISHI_supergreat_mix02
-三菱・スーパーグレート アルミパネル架装車
-MITSUBISHI_supergreat_mix03
-三菱・スーパーグレート 平ボディ幌付随車
-MITSUBISHI_supergreat_container01
-三菱・スーパーグレート コンテナ運搬特装車
-MITSUBISHI_supergreat_container02
-三菱・スーパーグレート コンテナ運搬特装車
-MITSUBISHI_supergreat_bulk01
-三菱・スーパーグレート ダンプカー
-MITSUBISHI_supergreat_bulk02
-三菱・スーパーグレート ダンプカー
-MITSUBISHI_supergreat_oel01
-三菱・スーパーグレート タンクローリー
-MITSUBISHI_supergreat_oel02
-三菱・スーパーグレート タンクローリー
-MITSUBISHI_supergreat_oel03
-三菱・スーパーグレート タンクローリー
-MITSUBISHI_supergreat_food01
-三菱・スーパーグレート 冷凍特装車
-MITSUBISHI_supergreat_food02
-三菱・スーパーグレート 冷蔵特装車
-MITSUBISHI_supergreat_wood01
-三菱・スーパーグレート 原木運搬車
-MITSUBISHI_supergreat_wood02
-三菱・スーパーグレート 板材運搬車
-MITSUBISHI_supergreat_pellet01
-三菱・スーパーグレート 粉粒体特装車
-MITSUBISHI_supergreat_pellet02
-三菱・スーパーグレート 粉粒体特装車
-MITSUBISHI_supergreat_pellet03
-三菱・スーパーグレート セメント運搬車
-MITSUBISHI_supergreat_post
-三菱・スーパーグレート 郵便物大型輸送車
-MITSUBISHI_supergreat_waste01
-三菱・スーパーグレート 大型ごみ収集車
-MITSUBISHI_supergreat_waste02
-三菱・スーパーグレート ごみ運搬ダンプカー
-MITSUBISHI_supergreat_milk
-三菱・スーパーグレート ミルクローリー
-MITSUBISHI_supergreat_T_head01
-三菱・スーパーグレート トレーラートラクタ
-MITSUBISHI_supergreat_T_head02
-三菱・スーパーグレート トレーラートラクタ
-MITSUBISHI_supergreat_T_head03
-三菱・スーパーグレート トレーラートラクタ
-MITSUBISHI_supergreat_T_head04
-三菱・スーパーグレート トレーラートラクタ
-MITSUBISHI_supergreat_T_autos_O
-三菱・スーパーグレート カーキャリア特装片輪トレーラー
-MITSUBISHI_supergreat_T_papier_O
-三菱・スーパーグレート 紙ロール運搬片輪トレーラー
-MITSUBISHI_supergreat_T_stahl_O
-三菱・スーパーグレート 鉄鋼螺旋管運搬片輪トレーラー
-MITSUBISHI_supergreat_T_mix01_O
-三菱・スーパーグレート 幌荷台片輪トレーラー
-MITSUBISHI_supergreat_T_mix02_O
-三菱・スーパーグレート アルミパネル片輪トレーラー
-MITSUBISHI_supergreat_T_container01_O
-三菱・スーパーグレート コンテナ片輪トレーラー
-MITSUBISHI_supergreat_T_container02_O
-三菱・スーパーグレート コンテナ片輪トレーラー
-MITSUBISHI_supergreat_T_oel01_O
-三菱・スーパーグレート タンク片輪トレーラー
-MITSUBISHI_supergreat_T_oel02_O
-三菱・スーパーグレート タンク片輪トレーラー
-MITSUBISHI_supergreat_T_oel03_O
-三菱・スーパーグレート タンク片輪トレーラー
-MITSUBISHI_supergreat_T_food01_O
-三菱・スーパーグレート 冷凍特装片輪トレーラー
-MITSUBISHI_supergreat_T_food02_O
-三菱・スーパーグレート 冷蔵特装片輪トレーラー
-MITSUBISHI_supergreat_T_wood01_O
-三菱・スーパーグレート 原木片輪トレーラー
-MITSUBISHI_supergreat_T_wood02_O
-三菱・スーパーグレート 板材片輪トレーラー
-MITSUBISHI_supergreat_T_pellet01_O
-三菱・スーパーグレート 粉粒体特装片輪トレーラー
-MITSUBISHI_supergreat_T_pellet02_O
-三菱・スーパーグレート 粉粒体特装片輪トレーラー
-MITSUBISHI_supergreat_T_post_O
-三菱・スーパーグレート 郵便物大型輸送片輪トレーラー
-MITSUBISHI_supergreat_T_autos_B
-三菱・スーパーグレート カーキャリア特装両輪トレーラー
-MITSUBISHI_supergreat_T_papier_B
-三菱・スーパーグレート 紙ロール運搬両輪トレーラー
-MITSUBISHI_supergreat_T_stahl_B
-三菱・スーパーグレート 鉄鋼螺旋管運搬両輪トレーラー
-MITSUBISHI_supergreat_T_mix01_B
-三菱・スーパーグレート 幌荷台両輪トレーラー
-MITSUBISHI_supergreat_T_mix02_B
-三菱・スーパーグレート アルミパネル両輪トレーラー
-MITSUBISHI_supergreat_T_container01_B
-三菱・スーパーグレート コンテナ両輪トレーラー
-MITSUBISHI_supergreat_T_container02_B
-三菱・スーパーグレート コンテナ両輪トレーラー
-MITSUBISHI_supergreat_T_oel01_B
-三菱・スーパーグレート タンク両輪トレーラー
-MITSUBISHI_supergreat_T_oel02_B
-三菱・スーパーグレート タンク両輪トレーラー
-MITSUBISHI_supergreat_T_oel03_B
-三菱・スーパーグレート タンク両輪トレーラー
-MITSUBISHI_supergreat_T_food01_B
-三菱・スーパーグレート 冷凍特装両輪トレーラー
-MITSUBISHI_supergreat_T_food02_B
-三菱・スーパーグレート 冷蔵特装両輪トレーラー
-MITSUBISHI_supergreat_T_wood01_B
-三菱・スーパーグレート 原木両輪トレーラー
-MITSUBISHI_supergreat_T_wood02_B
-三菱・スーパーグレート 板材両輪トレーラー
-MITSUBISHI_supergreat_T_pellet01_B
-三菱・スーパーグレート 粉粒体特装両輪トレーラー
-MITSUBISHI_supergreat_T_pellet02_B
-三菱・スーパーグレート 粉粒体特装両輪トレーラー
-MITSUBISHI_supergreat_T_post_B
-三菱・スーパーグレート 郵便物大型輸送両輪トレーラー
+#----------------------------------StationAd-----------------------------------#
+#----------------------------------StationAd-----------------------------------#
+StaAd_Amagi_01
+箱積み看板 甘城ブリリアントパーク 01
+StaAd_Amagi_02
+箱積み看板 甘城ブリリアントパーク 02
+StaAd_Crypton_01
+箱積み看板 クリプトン 01
+StaAd_DMM_01
+箱積み看板 DMM 01
+StaAd_Gochiusa_01
+箱積み看板 ご注文はうさぎですか？ 01
+StaAd_Gochiusa_02
+箱積み看板 ご注文はうさぎですか？ 02
+StaAd_Gochiusa_03
+箱積み看板 ご注文はうさぎですか？ 03
+StaAd_Gochiusa_04
+箱積み看板 ご注文はうさぎですか？ 04
+StaAd_Gochiusa_05
+箱積み看板 ご注文はうさぎですか？ 05
+StaAd_Ikamusume_01
+箱積み看板 侵略！イカ娘 01
+StaAd_Keihan_01
+箱積み看板 京阪電気鉄道 01
+StaAd_KillMe_01
+箱積み看板 キルミーベイベー 01
+StaAd_Kyoani_01
+箱積み看板 京都アニメーション 01
+StaAd_LAWSON_01
+箱積み看板 ローソン 01
+StaAd_LAWSON_02
+箱積み看板 ローソン 02
+StaAd_LAWSON_03
+箱積み看板 ローソン 03
+StaAd_LAWSON_04
+箱積み看板 ローソン 04
+StaAd_Minamike_01
+箱積み看板 みなみけ 01
+StaAd_Minamike_02
+箱積み看板 みなみけ 02
+StaAd_NANOHA_01
+箱積み看板 魔法少女リリカルなのは 01
+StaAd_NANOHA_02
+箱積み看板 魔法少女リリカルなのは 02
+StaAd_NANOHA_03
+箱積み看板 魔法少女リリカルなのは 03
+StaAd_Nichijou_01
+箱積み看板 日常 01
+StaAd_Poplar_01
+箱積み看板 ポプラ 01
+StaAd_Recoran_01
+箱積み看板 リコーダーとランドセル 01
+StaAd_Recoran_02
+箱積み看板 リコーダーとランドセル 02
+StaAd_TotalEclipse_01
+箱積み看板 トータル・イクリプス 01
+StaAd_Yocchan_01
+箱積み看板 よっちゃん食品工業 01
+StaAd_Yuruyuri_01
+箱積み看板 ゆるゆり 01
+StaAd_Yuruyuri_02
+箱積み看板 ゆるゆり 02
+StaAd_Yuruyuri_03
+箱積み看板 ゆるゆり 03
+StaAd_Yuruyuri_04
+箱積み看板 ゆるゆり 04
+StaAd_Yuyushiki_01
+箱積み看板 ゆゆ式 01
+StaAd_Yuyushiki_02
+箱積み看板 ゆゆ式 02
+StaAd_Yuyushiki_03
+箱積み看板 ゆゆ式 03
+StaAd_Yuyushiki_04
+箱積み看板 ゆゆ式 04
+StaAd_Yuyushiki_05
+箱積み看板 ゆゆ式 05
+StaAd_Yuyushiki_06
+箱積み看板 ゆゆ式 06
+StaAd_Yuyushiki_07
+箱積み看板 ゆゆ式 07
+StaAd_Yuyushiki_08
+箱積み看板 ゆゆ式 08
+#
+#
+FieldAd_Amagi_01
+野立て看板 甘城ブリリアントパーク 01
+FieldAd_Amagi_02
+野立て看板 甘城ブリリアントパーク 02
+FieldAd_Crypton_01
+野立て看板 クリプトン 01
+FieldAd_DMM_01
+野立て看板 DMM 01
+FieldAd_Gochiusa_01
+野立て看板 ご注文はうさぎですか？ 01
+FieldAd_Gochiusa_02
+野立て看板 ご注文はうさぎですか？ 02
+FieldAd_Gochiusa_03
+野立て看板 ご注文はうさぎですか？ 03
+FieldAd_Gochiusa_04
+野立て看板 ご注文はうさぎですか？ 04
+FieldAd_Gochiusa_05
+野立て看板 ご注文はうさぎですか？ 05
+FieldAd_Ikamusume_01
+野立て看板 侵略！イカ娘 01
+FieldAd_Keihan_01
+野立て看板 京阪電気鉄道 01
+FieldAd_KillMe_01
+野立て看板 キルミーベイベー 01
+FieldAd_Kyoani_01
+野立て看板 京都アニメーション 01
+FieldAd_LAWSON_01
+野立て看板 ローソン 01
+FieldAd_LAWSON_02
+野立て看板 ローソン 02
+FieldAd_LAWSON_03
+野立て看板 ローソン 03
+FieldAd_LAWSON_04
+野立て看板 ローソン 04
+FieldAd_Minamike_01
+野立て看板 みなみけ 01
+FieldAd_Minamike_02
+野立て看板 みなみけ 02
+FieldAd_NANOHA_01
+野立て看板 魔法少女リリカルなのは 01
+FieldAd_NANOHA_02
+野立て看板 魔法少女リリカルなのは 02
+FieldAd_NANOHA_03
+野立て看板 魔法少女リリカルなのは 03
+FieldAd_Nichijou_01
+野立て看板 日常 01
+FieldAd_Poplar_01
+野立て看板 ポプラ 01
+FieldAd_Recoran_01
+野立て看板 リコーダーとランドセル 01
+FieldAd_Recoran_02
+野立て看板 リコーダーとランドセル 02
+FieldAd_TotalEclipse_01
+野立て看板 トータル・イクリプス 01
+FieldAd_Yocchan_01
+野立て看板 よっちゃん食品工業 01
+FieldAd_Yuruyuri_01
+野立て看板 ゆるゆり 01
+FieldAd_Yuruyuri_02
+野立て看板 ゆるゆり 02
+FieldAd_Yuruyuri_03
+野立て看板 ゆるゆり 03
+FieldAd_Yuruyuri_04
+野立て看板 ゆるゆり 04
+FieldAd_Yuyushiki_01
+野立て看板 ゆゆ式 01
+FieldAd_Yuyushiki_02
+野立て看板 ゆゆ式 02
+FieldAd_Yuyushiki_03
+野立て看板 ゆゆ式 03
+FieldAd_Yuyushiki_04
+野立て看板 ゆゆ式 04
+FieldAd_Yuyushiki_05
+野立て看板 ゆゆ式 05
+FieldAd_Yuyushiki_06
+野立て看板 ゆゆ式 06
+FieldAd_Yuyushiki_07
+野立て看板 ゆゆ式 07
+FieldAd_Yuyushiki_08
+野立て看板 ゆゆ式 08

@@ -7,36 +7,37 @@
 # update: 22-Aug-04
 # update: 5-Jan-05
 
+minimum_city_distance = 24
 
 # chance for renovation versus new building (bigger number => less sprawling)
-renovation_percentage = 1
+renovation_percentage = 3
 
 # citys will not growth further along exiting roads, if the buildings density is lower (in percent)
-minimum_building_density = 5
+minimum_building_density = 18
 
 #
 # relative affinities for certain building types which can lead to clustering of certain building types
 #
 
 # avoid building next to industry
-res_start_score = 5
+res_start_score = 9
 res_near_ind = -10
-res_near_com = 5
+res_near_com = 7
 res_near_res = 20
 
 # everywhere is good, next to com best
-com_start_score = 2
+com_start_score = 4
 com_near_ind = 1
 com_near_com = 20
-com_near_res = 5
+com_near_res = 8
 
 # next to res means expensive filters and no truck after 10 pm => avoid this ...
-ind_start_score = 3
+ind_start_score = 1
 ind_near_ind = 20
 ind_near_com = 1
 ind_near_res = -10
 
-cluster_factor = 100
+cluster_factor = 16
 
 #
 # now the actual building rules. They can be up to 7x7.
@@ -195,4 +196,3 @@ road_10.chance = 7
 road_11 = .S. Sns .sS
 road_11.chance = 7
 ####################################################
-minimum_city_distance = 8
